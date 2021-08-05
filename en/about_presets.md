@@ -1,31 +1,56 @@
 <h1>Save time by creating presets</h1>
 
-You can save time by saving multiple presets and switching between them for easy access.
+--------------------------------------------------META TAGS --------------------------------------------------
+Meta Title: Save Time By Creating Presets
+Meta Description:  Maximize efficiency when personalizing your QR code with presets. Save your choices and reuse them any time you want.
+
+------------------------------------------- SHORT TEXTS------------------------------------------------
+Short Text -1, Demo site and PRO site - in the “Presets” header when choosing styles for the QR code
+
+Title: Save Time By Creating Presets
+Description: Choose a pre-designed preset or create one with selected style, colors, templates, and logo. Reuse them easily when generating QR codes.
+Short Text 2. Demo site, page “API”, link “more about presets”
+
+Description: Learn more about presets here.
+
+Short Text 3  Library page in PRO
+Create, edit and manage presets.
+
+------------------------------------------- ARTICLE-----------------------------------------------------
 
 
-Preset is a combination of the QR style settings, logo, colors, templates. Choose one of the pre-defined design ideas or create your own preset.
+Save Time By Creating Presets
 
-Save time generating multiple QR codes
+Having a personalized QR code that captures customer’s attention helps in getting more engagement. With fun colors, a catchy caption, and a logo, you’ll have a QR code that resonates with your brand value.
+
+Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code.
+
+This is where you’ll want to create presets, a feature exclusive to ScanMeFindMe PRO users.
+What Are Presets And Why Do You Need Them?
+Presets are a memory of customization you’ve selected or created for a particular QR code. When you’re using ScanMeFindMe PRO, you get to personalize the QR code with style, colors, templates, and logos.
+
+These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted.
+
+Here’s how you can use presets to save setup time when creating a QR code.
+
+You’re releasing a series of yoga tutorial videos, and you’re encoding the links in QR codes. If you’re to personalize the QR code for each episode, you’ll need to manually choose the colors, logo, templates, and style.
+
+It’s easy to make a mistake, which results in some QR codes looking out of place. Also, you’re wasting time repeating a process that can be automated.
+
+By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode.
+How To Create And Save Presets
+If you’re using ScanMeFindMe PRO, you can create a preset with the ‘Save as a Preset’ button on the QR code generator. You’ll need to assign a name to the preset before committing it to the system’s memory.
 
 
+Alternatively, you can duplicate an existing preset in the library and customize it.
 
 
-<p>Presets are a feature of ScanMeFindMe QR generator that allows you to quickly and efficiently generate many different QR codes with a similar style. Presets can be used in both web site generator and when using API.</p>
+Once you’re done, the customized preset will appear alongside other pre-installed presets on the selection panel.
 
-<p>ScanMeFindMe already comes with several presets that are also sometimes called “Design ideas”. </p>
+Selecting a preset will automatically regenerate the QR code with the selected style and design elements. If you’re using our QR code generator from the API, you can invoke the presets by specifying their names.
 
-<p>Preset is a collection of the style settings - style of the QR code, name of the template, logo, positioning of the logo, the template captions, colors, etc. Remember that presets only store names of the template or logo, not the actual contents. If you rename or remove them the preset will not be able to find them.</p>
+Stop re-styling your QR code each time you generate one. Try ScanMeFindMe PRO and use presets instead.
 
-<p>To create your own presets you need to use the PRO account. Try it in the free 14-day trial period.</p>
 
-<p>There are two ways to create a new preset:</p>
-
-<p>1. When you generate any QR code press a button “Save as a new preset” that you can find on the top of the “Setup the style” section.</p>
-
-<p>or</p>
-
-<p>2. In your Library duplicate your own or shared preset and then edit it.</p>
-
-<p>Each preset must have a name. You can change the names of the existing presets in your Library. You can use the name of the presets when you generate QR codes using API.</p>
 
 

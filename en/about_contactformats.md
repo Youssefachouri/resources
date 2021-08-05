@@ -1,71 +1,56 @@
 <h1>What are MeCard and vCard formats</h1>
 
-There are two different types of contact card formats. Which one is better in what situation?
+--------------------------------------------------META TAGS --------------------------------------------------
+Meta Title: What Are MeCard and Vcard formats
+Meta Description:  What are the differences between MeCard and Vcard? Which works best for QR codes? Find out more in this article.
+------------------------------------------- SHORT TEXTS------------------------------------------------
+Short Text -1, On the demo site, in the “Contact” section of the generator, next to format selection
+
+Title: What Are MeCard and Vcard formats
+Description: Vcard stores more information and is commonly used for sharing contacts. MeCard is used exclusively for QR codes and is more compact.
+------------------------------------------- ARTICLE-----------------------------------------------------
+What Are MeCard and Vcard formats
+
+You’ve heard that QR codes make social networking easier. You can do away with stacks of printed business cards and have all your contact information encoded in a QR code.
+
+Yet, there’s often a choice to be made when generating a QR code for contacts. Should you choose MeCard or the Vcard format?
+
+For most people, terms like MeCard and Vcard are intimidatingly unfamiliar. But knowing the fundamental difference between both formats helps in making the right choice when printing QR codes for contacts.
+MeCard vs Vcard
+Both MeCard and Vcard are established standards in how personal details are stored in a QR code. Vcard is created in the 1990s and is the more popular of the two standards. Meanwhile, MeCard is developed by Domoco, the largest mobile phone service provider in Japan.
+
+Vcard supports a wide range of applications, including mobile phones, QR codes, emails, websites, and SMS. However, MeCard is limited to QR codes and mobile phones.
+
+Both formats support almost similar information, such as name, telephone, email, website, and address. The Vcard format supports organization and job title fields, which are not available in MeCard.
+
+When rendered, you’ll get a smaller, compact QR code with the MeCard format. This means that a MeCard contact QR code is more readable when printed on a smaller area compared to its Vcard counterpart.
+
+
+Which Is The Better Choice?
+It depends on how you intend to use the QR code. MeCard offers simplicity, and you can print it easily on a business card. You don’t need an internet connection to scan and save the contact details into your phone book.
+
+Vcard is used more extensively for sharing contacts and is superior in terms of the types of information stored. While Vcard can be stored as a static QR code, you’ll get much more out of it by using it as a dynamic QR code.
+
+A dynamic QR code stores a link that redirects users to a web page to view and download the contact details in VCF format. You can also include photos and social media links when you’re using ScanMeFindMe PRO.
+
+Also, a dynamic Vcard QR code is more compact because it stores the virtual card’s URL instead of the actual contacts. It’s also possible to track how many people have scanned and viewed your contacts with a dynamic Vcard.
+How To Generate QR Code with MeCard and VCard formats
+ScanMeFindMe supports both MeCard and VCard formats. You can create static MeCard and VCard contacts with our free QR code generator.
 
 
 
-vCard is a common format for storing and exchanging contact information. MeCard was developed especially for the QR codes and is a much more compact format
+Just choose the desired format and field in the fields accordingly. The corresponding QR code is automatically generated as you do so.
+
+As mentioned, you can do much more with a dynamic Vcard contact. The feature is available with ScanMeFindMe Pro.
 
 
+When you’re using a dynamic VCard contact, you can:
+Amend the contact details anytime you wish.
+Upload a photo or logo.
+Include social media handles or links.
+Monitor who scans the contact QR code, where, and when.
+Allows preview of the contact information before saving to a smartphone.
+Have a smaller-sized QR code while storing more information.
 
-
-<p>There are probably more people who have heard about vCard than people who heard about MeCard. But both of them work great in QR codes, and here is why.</p>
-
-<p>One of the very common use cases for QR codes is storing contact information. When it’s just a phone number you can generate a QR code to call this number but if you want to encode the phone number and the name you need to create a proper contact card. There are two formats that are recognised by all smartphones. </p>
-
-<p>You can put the generated code on the business card, on the information leaflet, on your resume, wherever you want. People will scan it and their phone will automatically offer to save the information to their contact.</p>
-
-<p>Here is an example of the contact card.</p>
-
-<p>vCard:</p>
-
-<table>
-    <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/vcard_scanmefindme.svg" alt="vCard">
-    </td>
-        <td>
-<pre>BEGIN:VCARD
-VERSION:4.0
-FN:ScanMeFindMe
-N:;;;;
-ORG:ScanMeFindMe
-URL:https://scanmefindme.com
-REV:2021-02-13T18:18:45.089Z
-END:VCARD</pre>
-        </td>
-    </tr></table>
-
-<p></p>
-<p>MeCard:</p>
-
-<table>
-    <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/mecard_scanmefindme.svg" alt="MeCard"></td>
-        <td>
-            <pre>MECARD:N:,ScanMeFindMe;URL:https://scanmefindme.com;;</pre>
-        </td>
-    </tr>
-</table>
-
-<p></p>
-<p>This is pretty much the same information - the name and the URL. As you can see the MeCard is significantly more compact, this means that generated QR code is significantly smaller. It was developed specifically for QR codes and is supported by all smartphones.</p>
-
-<p>However MeCard has some limitations. For example, it does not have a field for the “Organisation name”, so the companies have to use the “First name” or “Last name” field to store their name. You can not add a picture either. The vCard format also has a lot of options to specify which phone is a work phone, mobile phone, etc. </p>
-
-<p>You can find more details about https://en.wikipedia.org/wiki/VCard and https://en.wikipedia.org/wiki/MeCard_(QR_code) on wikipedia.</p>
-
-<p>ScanMeFindMe recommends to use MeCard for the static QR codes but for dynamic codes we use the vCard format. We don’t need to worry about the length of the generated code for the dynamic codes because you will have a short URL (and small QR code) anyway. </p>
-
-<p>Advantages of using dynamic contact cards:</p>
-<ul>
-    <li>Small size of QR code regardless of the amount of information</li>
-    <li>When a user scans a QR code they are redirected to a personalised page with all details displayed to them. They have an option to save the card to their phone or immediately call, email or open a website. Some smartphones will not let you preview the static contact card before saving it to the phone and it scares some people away. </li>
-    <li>More information that you can store such as:
-        <ul><li>Photo or logo</li>
-            <li>Multiple URLs (links to various social media profiles, for example)</li>
-            <li>Not only the name of a person but also organization name and position</li></ul></li>
-    <li>You can update your information at any moment and don’t need to generate a new QR code.</li>
-    <li>You can track when QR was scanned and from what location</li>
-</ul>
-<p></p>
-<p>You can create dynamic QR codes in the PRO version. Two-weeks trial is free</p>
-
+Create dynamic Vcard contacts with ScanMeFindMe PRO now.
 

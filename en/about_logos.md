@@ -1,40 +1,55 @@
 <h1>Adding logos to QR</h1>
 
-How is it possible to add a logo to the QR code and still be able to scan it?
+--------------------------------------------------META TAGS --------------------------------------------------
+Meta Title: Adding Logos to QR Codes
+Meta Description:  Adding logos to QR codes helps in increasing brand awareness, trust, and scan-through rate. Learn how you can do so without compromising the QR code's integrity.
+------------------------------------------- SHORT TEXTS------------------------------------------------
+Short Text - 1.   Demo   site   and   PRO   site   -   in   the   “Logos”   header   when   choosing   styles   for   the   QR   code   
+
+Title: Add logos to QR codes
+Description: Upload and add a logo to the QR code. Personalize its size and positioning..
+Short Text - 2. Demo site, page “API”
+Can’t find the anchor text/description on API page.
+
+Short Text -3. Library page in PRO
+Not sure where this will be shown.
 
 
-Personalise QR codes by adding an image to show what is behind it, change logo size, position and background.
+Description Upload and manage logos for QR codes.
 
-Higher error correction level allows for a bigger part of the QR card to be damaged but still be scannable.  Choose higher error correction level if you plan to add logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo.
 
-------------
+------------------------------------------- ARTICLE ----------------------------------------------------
+Adding Logos to QR
 
-<p>Adding logos and pictures to your QR codes is a great way to personalise them and make them more interesting.</p>
+The emergence of QR codes has transformed marketing. It encouraged customer engagement, makes information more accessible, and adds flexibility to marketing.
 
-<p>You have probably seen QR codes that have a picture or a logo in the middle of it. You may ask yourself, how is it possible to add a logo to the QR code and still be able to scan it?</p>
+However, a little bit of personalization can go a long way in increasing brand exposure and awareness. Adding a logo to the QR code is a step towards getting more scans, leads, and conversions.
+Why Should You Add Logos To QR Code?
+Imagine printing plain QR codes onto leaflets, product packagings, banners, and other marketing materials. While the QR codes work perfectly, they did nothing to convey your brand identity.
 
-<p>This is possible because QR codes contain more blocks than necessary to allow for <strong>error correction</strong>. If part of the QR code is not visible, damaged, covered with dirt, has some glares during scanning, etc, the QR scanner can still decode the information. When generating QR codes ScanMeFindMe chooses error correction level, the bigger the level the more extra blocks are inside the QR code matrix. The trade off is that the QR codes with bigger error correction levels have a bigger “matrix”. Here is the same URL encoded with four different error correction levels: low (L), medium (M), high (H) and very high (Q):</p>
+In business, it’s important to increase awareness and instill brand loyalty amongst your customers. Logos are the most identifiable element that customers associate with a brand. You’ll want your QR code to stand out from those printed in the plain, default format.
 
-<p>
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/err_corr_l.svg" alt="L">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/err_corr_m.svg" alt="M">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/err_corr_h.svg" alt="H">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/err_corr_q.svg" alt="Q">
-</p>
+Customer associate logos with the company. By adding it to the QR code, you instill trust amongst the customers, and they’ll have little hesitation about scanning it. If you’re using a plain QR code, people may question if scanning the QR code is safe.
+Does Adding A Logo Affects QR Code Scanability?
 
-<p>The highest error correction level allows up to 30% of the QR code area to be “damaged”. So we can use it to replace the part of the QR code with the logo.</p>
 
-<p>Center of the QR code is the best location for the logo. Three corners of QR codes have special “eyes” that actually tell the scanner that this is a QR code. Obstructing “eyes” will most likely lead to QR code being unreadable. The big QR codes also have additional small “eyes” inside, it is not recommended to obstruct them either.</p>
+QR codes store information in segments of dots and spaces within the scannable area. When you add a logo, it occupies an area that’s suppose to hold part of the encoded information.
 
-<p>ScanMeFindMe QR generator not only allows you to place the logo in the middle of QR code, you can also make it look more accurate by removing or adding some blocks of the QR code matrix. Depending on the style of your QR code, shape and style of logo you can choose different types of rendering blocks in the center of QR code.</p>
+The question is, will it affect the QR code’s integrity in any manner?
 
-<p>
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/logo_example_1.svg" alt="1">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/logo_example_2.svg" alt="2">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/logo_example_3.svg" alt="3">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/logo_example_4.svg" alt="4">
-</p>
+If you’re using ScanMeFindMe PRO to add the logo, there will not be any problem in scanning it. This is because QR code is built with an error-correcting mechanism. Depending on the error correction level, a QR code is still readable even with up to 30% of the area covered up.
 
-<p>You can upload your own logos in the PRO account. Use your free 14-day trial period to try it.</p>
+Of course, you shouldn’t cover critical functional elements such as the QR markers and version identifier with the logo. It is, however, generally safe to add a logo in the middle of the QR code.
 
+When you add a logo to a QR code, you need to set its error correction level to the maximum, which is 30%. Our QR code generator automatically does that for you and determines the best logo placement based on factors like QR code size and information density.
+How To Add Logos To QR Codes?
+With ScanMeFindMe PRO, adding logos to QR codes is a simple process. There’s no complex calculation nor graphic design skills involved.
+
+Upload your business logo, select the thumbnail, and it’ll automatically appear on the QR code. This applies when you’re creating any dynamic or static QR codes on ScanMeFindMe.
+
+
+
+You can also customize the positioning, size, and style of the logo. Don’t worry about compromising the QR code’s scannability, as our QR generator will warn you if the logo is obscuring any of the critical elements.
+
+Try adding logos to your QR code with ScanMeFindMe Pro now.
 
