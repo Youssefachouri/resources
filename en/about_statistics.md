@@ -1,75 +1,100 @@
 <h1>Scans statistics</h1>
 
---------------------------------------------------META TAGS --------------------------------------------------
-Meta Title: QR Code Tracking And Scan Statistics
-Meta Description:  Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they matter for marketers.
-------------------------------------------- SHORT TEXTS------------------------------------------------
-Short Text -1. On the PRO site on the dashboard, next to the “City” and “Country” headers (need to mention that geolocation is not always accurate)
+--- Abstract / Meta description ---
 
-Title: Geolocation statistics.
-Description: The approximate location of the scanning device. It may not always be accurate as the location is derived from the IP address of the internet service provider.
+Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they matter for marketers
 
-Short Text: 2. There will be another link next to the “Download as CSV” button on the Dashboard explaining what fields are included in the download and what is fingerprint
+--- Short content 1 ---
 
-Title: Last scans download
-Description: Download historical log of QR code scans with the following fields: time, QR code, country, region, city, language, platform, OS, browser and tags.
+The approximate location of the scanning device. It may not always be accurate as the location is derived from the IP address of the internet service provider
 
-Scan Statistics
+----------
 
-One of the reasons why marketers are turning to dynamic QR codes is their trackability. Unlike static QR codes, dynamic QR redirect users to a webpage when scanned. Therefore, it’s possible to collect various metrics and compile them in visual formats.
-Why QR Code Scan Statistics Are Important
-If you generate a dynamic QR code on ScanMeFindMe Pro, you’ll be able to track key metrics that help in your marketing effort.
+<p>One of the reasons why marketers are turning to dynamic QR codes is their trackability.
+    Unlike static QR codes, dynamic QR codes redirect users to a custom webpage when scanned.
+    Therefore, it's possible to collect various metrics and compile them in visual formats. </p>
 
-Rather than merely distributing marketing materials with QR codes, you’ll want to monitor engagement indicators like how many people are accessing a landing page via QR code. Or if a particular campaign is reaching its audience in major cities.
+<h2>Why QR Code Scan Statistics Are Important</h2>
 
-Without dynamic QR codes, you will have no idea if you’re reaching the target audience or on the right track with conversion goals. You’ll need to gather relevant statistics from dynamic QR codes and use them to improvise the campaign.
+<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that help in your marketing effort.</p>
 
-QR code statistics show you what’s working on your campaign and what’s not. You’ll know if you need a more intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts.
-Which Scan Statistics Are Available On ScanMeFindMe PRO?
-ScanMeFindMe is developed to track and store important scan metrics in real-time. You’ll have access to the following statistics when you sign up for a PRO account.
+<p>Rather than merely distributing marketing materials with QR codes,
+    you'll want to monitor engagement indicators like how many people are accessing a landing page via QR code.
+    Or if a particular campaign is reaching its audience in major cities. </p>
 
-Total Scans
+<p>Without dynamic QR codes, you will have no idea if you're reaching the target audience or on the right track
+    with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improvise the campaign.</p>
 
-This chart shows you the number of total and unique scans that you’re getting daily.
-Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device.
+<p>QR code statistics show you what's working on your campaign and what's not. You'll know if you need a more
+    intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts. </p>
+<h2>Which Scan Statistics Are Available On ScanMeFindMe PRO?</h2>
+<p><a href="#static:url">ScanMeFindMe</a> is developed to track and store important scan metrics in real-time.
+    You'll have access to the following statistics when you sign up for a PRO account.</p>
 
-We use a special method where our server tags a device with a ‘fingerprint’ when it first scans a QR code. If the server detects a new scan with the same ‘fingerprint’, it is added to the total scans but not the unique scans.
+<h3>Total Scans</h3>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image9.png" alt="Total scans chart - QR code generator ScanMeFindMe"></p>
+<p>This chart shows you the number of total and unique scans that you're getting daily.</p>
+<p>Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device. </p>
 
-You’ll find this chart helpful when you want to know how many people are actually responding to your campaign. The unique scans will paint a clearer picture of how your campaign fared.
-Scans By Months
+<p>We use a special method where our server tags a device with a 'fingerprint' when it first scans a QR code.
+    If the server detects a new scan with the same 'fingerprint', it is added to the total scans but not the unique scans.</p>
 
+<p>You'll find this chart helpful when you want to know how many people are actually responding to your campaign.
+    The unique scans will paint a clearer picture of how your campaign fared.</p>
+ <h3>Scans By Months</h3>
 
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image10.png" alt="Scans by month chart - QR code generator ScanMeFindMe"></p>
 
-If you’re running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted according to months. It helps you to identify months that bring you the most QR code traffic.
+<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted according to months.
+    It helps you to identify months that bring you the most QR code traffic. </p>
 
-Scans By Hours Of The Day
+<h3>Scans By Hour Of The Day</h3>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image2.png" alt="Scans by hour of the day chart - QR code generator ScanMeFindMe"></p>
+<p>You can also track QR scans by hours of the day. This is useful if you're running a restaurant or e-commerce where
+    customers peak during different times. It helps you to run a more targeted campaign during the peak hours.</p>
 
-You can also track QR scans by hours of the day. This is useful if you’re running a restaurant or e-commerce where customers peak during different times. It helps you to run a more targeted campaign during the peak hours.
+<h3>Scans By OS</h3>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image6.png" alt="Scans by OS chart - QR code generator ScanMeFindMe"></p>
+<p>Our server could also pick up which operating system the users are using when scanning the QR code. Usually, iOS and
+    Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics
+    help when you're getting users to download an app for a specific OS. </p>
 
-Scans By OS
+<h3>Scans By Language</h3>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image1.png" alt="Scans by language chart - QR code generator ScanMeFindMe"></p>
 
-Our server could also pick up which operating system the users are using when scanning the QR code. Usually, iOS and Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics help when you’re getting users to download an app for a specific OS.
-
-Scans By Language
-
-
-If you’re targeting English-speaking audience, you’ll naturally want scans originating from people fluent in English. This chart shows the breakdown of the scans by language.
-Scans By Country and City
-
-
-ScanMeFindMe PRO also tracks scans by city and country. This is done from tracking the IP address of the mobile operator or internet service provider where the device is connected to. Do note that the geolocation chart only gives an approximate location of where the scans originated.
-Last Scans
-
-
-This table is populated with historical scan data. You’ll find the finer details of each scan such as the date, time, country, language, OS and browser.
-How To View And Download The Scan Statistics?
-All ScanMeFindMe PRO users have access to the statistics, which are displayed on the dashboard. You can also access the charts and tables via the ‘Statistics’ button on each of the dynamic codes.
-
-
-
-The Last Scans table can be downloaded in .csv format, which can be used for in-depth analysis.
+<p>This chart will show what is the primary language installed on your clients devices. This is usually the language
+they are most comfortable with. And if you find that a lot of your clients prefer French you might offer
+some materials in French for them.</p>
 
 
-You don’t want to miss out on the various scan statistics that can be used to drive your marketing campaign in the right direction.
+<h3>Scans By Country and City</h3>
 
-Sign up for a ScanMeFindMe PRO account now.
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image5.png" alt="Scans by country chart - QR code generator ScanMeFindMe"></p>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image7.png" alt="Scans by city chart - QR code generator ScanMeFindMe"></p>
+<p><a href="#pro">ScanMeFindMe PRO</a> also tracks scans by city and country. This is done from tracking the IP address
+    of the mobile operator or internet service provider where the device is connected to. Do note that the geolocation
+    chart only gives an approximate location of where the scans originated. </p>
+
+<p>You may occasionally see scans from a different city or even country and it may seem surprising,
+    especially if your QR code could not have possibly moved there
+(for example, it is a sticker on your office entrance). This usually means that somebody with a mobile phone from
+that country scanned your code while being on mobile data in roaming.</p>
+
+
+<h3>Last Scans</h3>
+
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image8.png" width="600" alt="Last scans list - QR code generator ScanMeFindMe"></p>
+<p>This table is populated with historical scan data. You'll find the finer details of each scan such as the date, time, country, language, OS and browser. </p>
+
+
+<h2>How To View And Download The Scan Statistics?</h2>
+<p>All ScanMeFindMe PRO users have access to the statistics, which are displayed on the dashboard. You can also access the charts and tables via the 'Statistics' button on each of the dynamic codes.</p>
+
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/image4.png" width="600" alt="Individual QR code statistics - ScanMeFindMe"></p>
+
+<p>The Last Scans table can be downloaded in CSV (comma-separated values) format, which can be used for in-depth analysis.</p>
+<p><img src="https://media.scanmefindme.com/blog/about_statistics/files/image3.png" alt="Download scans statistics - QR code generator ScanMeFindMe"></p>
+
+<p>You don't want to miss out on the various scan statistics that can be used to drive your marketing campaign in the right direction.</p>
+
+<p><a href="#pro">Sign up for a ScanMeFindMe PRO account now.</a></p>
