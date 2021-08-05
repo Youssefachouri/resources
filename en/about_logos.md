@@ -8,6 +8,10 @@ Adding logos to QR codes helps in increasing brand awareness, trust, and scan-th
 
 Upload and add a logo to the QR code. Personalize its size and positioning
 
+--- Short content 2 ---
+
+Higher error correction level allows for a bigger part of the QR card to be damaged but still be scannable.  Choose higher error correction level if you plan to add logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo.
+
 ----------
 
 <p>The emergence of QR codes has transformed marketing. It encourages customer engagement, makes information more accessible, and adds flexibility to marketing. </p>
