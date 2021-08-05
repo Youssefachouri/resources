@@ -6,7 +6,7 @@ Learn how to add borders and captions that make your QR code unique. Style your 
 
 --- Short content 1 ---
 
-Learn how to add catchy call-to-action with QR codes captions. Choose from pre-defined templates or create one with a PRO account
+Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
 
 ----------
 
