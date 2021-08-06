@@ -2,7 +2,7 @@
 
 --- Abstract / Meta description ---
 
-QR codes can not only be links to websites. They can "tell" your smartphone to start a call, connect to Wi-Fi, save contact cards or calendar events or they can open specific apps on your phone
+QR codes can not only be links to websites. They can "tell" your smartphone to start a call, connect to Wi-Fi, save contact cards or calendar events. They can even open specific apps on your phone
 
 --- Short content 1 ---
 
@@ -31,20 +31,20 @@ Static QR codes contain non-editable, simple information such as a URL, WiFi cre
 
 <p>For marketers, QR Code’s robustness is a branding opportunity. It opens up the possibility of placing a <a href="#article:about_logos" title="QR codes with a logo">logo</a> or icon in the middle of the QR code, without compromising its integrity. </p>
 
-<p>It’s recommended to use a professional QR generator to insert a logo into the code. It reduces the risk of making mistakes and renders the QR code unreadable. </p>
+<p>It’s recommended to use a professional QR generator to insert a logo into the code. It reduces the risk of making mistakes that make the QR code unreadable. </p>
 
 <h2>How Much Information Can It Store? </h2>
 
-<p>QR codes are a revolutionary improvement from the single-dimensional barcode, particularly in terms of storage size. A QR code stores up to 4,296 alphanumeric characters or 7,089 numbers, while most 1D barcodes can only manage up to 20 numeric characters. QR codes are also capable of encoding non-Latin symbols like Kanji and hieroglyphs but it decreases its data capacity. </p>
+<p>QR codes are a revolutionary improvement from the single-dimensional barcode, particularly in terms of storage size. A QR code stores up to 4,296 alphanumeric characters or 7,089 numbers, while most 1D barcodes can only manage up to 20 numeric characters. QR codes are also capable of encoding non-Latin symbols like Kanji and hieroglyphs, but this decreases its data capacity. </p>
 
-<p>For a better comparison, it is possible to fit in all the basic details (name, email, address, phone) of a customer record in a QR code. This is not possible if you’re still using the age-old 1D barcode. </p>
+<p>For a better comparison, it is possible to fit in all the basic details (name, email, address, phone number) of a customer in a QR code. This is not possible if you’re still using the age-old 1D barcode. </p>
 
-<p>However, stretching the QR code to its capacity means it will have tinier and denser pixels. This means that you’ll need a larger print area or low-resolution cameras may have trouble decoding the QR code. </p>
+<p>However, stretching the QR code to its capacity means it will have tinier and denser pixels. This means that you’ll need a larger print area, or low-resolution cameras may have trouble decoding the QR code. </p>
 
 <H2>What Happens When You Scan A QR Code?</h2>
-<p>There’s no better time to make QR code part of your marketing plan. That’s because almost everyone seems to own a personal QR code scanner, i.e. the smartphone. </p>
+<p>There’s no better time to make QR codes part of your marketing plan. That’s because almost everyone seems to own a personal QR code scanner, i.e. their smartphone. </p>
 
-<p>You don’t need a special, dedicated barcode scanner to decode a QR code. If you’re using an iPhone, the camera is built-in with a QR code scanner. Meanwhile, Android users are required to download a QR scanner app, if their smartphone models do not have a native QR scanner.</p>
+<p>You don’t need a special, dedicated barcode scanner to decode a QR code. If you’re using an iPhone, the camera is built-in with a QR code scanner. Meanwhile, Android users are required to download a QR scanner app, if their smartphone models do not have an intergrated QR scanner.</p>
 
 <p>To scan a QR code, launch the QR scanner app and align the QR code to the designated scanning area. The camera will automatically capture the QR code and retrieve the encoded information, which usually contains texts and numbers.</p>
 
@@ -83,7 +83,7 @@ Static QR codes contain non-editable, simple information such as a URL, WiFi cre
 
 <p>Scanning a QR code is easy, but how do you create one that holds different types of information? </p>
 
-<p>No. You don’t have to be a programming wizard to generating QR codes. Not when you have access to our QR generator.</p>
+<p>No, you don’t have to be a programming wizard to generating QR codes. Not when you have access to our QR code generator.</p>
 
 <p>Here are the different types of information that can be stored with QR Codes when you’re using ScanMeFindMe Pro</p>
 
@@ -100,15 +100,15 @@ Static QR codes contain non-editable, simple information such as a URL, WiFi cre
 
 <p>ScanMeFindMe allows you to store personal information, an uploaded photo and social network links with a dynamic QR.  It encodes the short URL into the QR, which opens up a webpage displaying the contact information when scanned.</p>
 
-<h3>A Page With Files With Dynamic QR</h3>
+<h3>Files With Dynamic QR</h3>
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png" alt="Generate QR code for a page with files - ScanMeFindMe"></p>
 
-<p>Dynamic QR also allows you to share downloadable resources on a webpage. You can upload files and create a QR code that points to the resource page. When user’s scan the QR code, they will be redirected to the page containing the files.
+<p>Dynamic QR also allows you to share downloadable resources on a webpage. You can upload files and create a QR code that points to the resource page. When users scan the QR code, they will be redirected to the page containing the files.
 </p>
 
-<H2> Managing Dynamic QR Codes ScanMeFindMe Pro</h2>
-<p>Once you’ve created a dynamic QR code, you can manage them with ease on the dashboard. </p>
+<H2> Managing Dynamic QR Codes With ScanMeFindMe Pro</h2>
+<p>Once you’ve created a dynamic QR code, you can manage it with ease on the dashboard. </p>
 
 <p>If you need to download the QR code, just click on the Download QR button and you’ll be presented with several image options and advanced page settings.</p>
 
@@ -122,11 +122,11 @@ Static QR codes contain non-editable, simple information such as a URL, WiFi cre
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif" alt="QR code scans statistics - ScanMeFindMe"></p>
 
-<p>The bottom line is, ScanMeFindMe pros gives you exclusive access to features like</p>
+<p>The bottom line is, ScanMeFindMe Pro gives you exclusive access to features like</p>
 <ul>
 <li>Generate dynamic QR codes.</li>
 <li>Using your own templates.</li>
-<li>View who scans your QR codes, where and when.</li>
+<li>View who scans your QR codes, when and where.</li>
 <li>More download formats and advanced settings.</li>
 <li>Save personalized QR code presets.</li>
 <li>Use our QR Code generator API from your application.</li>
