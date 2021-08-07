@@ -1,58 +1,58 @@
-<h1>Use QR codes to share files</h1>
+<h1> Utilice códigos QR para compartir archivos </h1>
 
 --- Abstract / Meta description ---
 
-Share files with QR codes to consolidate and simplify information access.  Allows users to download files with just a scan.
+Comparta archivos con códigos QR para consolidar y simplificar el acceso a la información. Permite a los usuarios descargar archivos con solo un escaneo.
 
 --- Short content 1 ---
 
-Upload menu, music, manuals, and other files on a personalized webpage. Share the QR code with others and monitor how often it’s scanned.
+Cargue menús, música, manuales y otros archivos en una página web personalizada. Comparta el código QR con otras personas y controle la frecuencia con la que se escanea.
 
 ----------
 
-<p>Do you receive numerous calls from customers because they have trouble finding the right product manuals? Or are you tired of emailing multiple attachments to your team members?  </p>
+<p>¿Recibe numerosas llamadas de clientes porque tienen problemas para encontrar los manuales de productos adecuados? ¿O está cansado de enviar varios archivos adjuntos por correo electrónico a los miembros de su equipo?</p>
 
-<p>Regardless of which business you're in, there's always room for improvement when it comes to information sharing. If the existing method proves to be a bottleneck, it's time to re-evaluate if you're using the right technology to share files. </p>
+<p>Independientemente de la empresa en la que se encuentre, siempre hay margen de mejora en lo que respecta al intercambio de información. Si el método existente demuestra ser un cuello de botella, es hora de volver a evaluar si está utilizando la tecnología adecuada para compartir archivos.</p>
 
-<p>Cloud storage is one part of the solution, but the key to efficient file-sharing is enabling recipients access to the resources with minimum fuss. That's where 
-<a href="#static:url">using QR codes</a>  for file-sharing kicks in.</p>
-<h2>How Does File Sharing With QR Codes Work?</h2>
-<p>Unlike what most people imagined, you wouldn't be storing the files into a QR code. Most files are too large to be encoded into a QR code. </p>
+<p>El almacenamiento en la nube es una parte de la solución, pero la clave para compartir archivos de manera eficiente es permitir que los destinatarios accedan a los recursos con el mínimo esfuerzo. Ahí es donde
+<a href="#static:url">se activa el uso de códigos QR</a> para compartir archivos.</p>
+<h2>¿Cómo funciona el uso compartido de archivos con códigos QR?</h2>
+<p>A diferencia de lo que la mayoría de la gente imagina, no almacenaría los archivos en un código QR. La mayoría de los archivos son demasiado grandes para codificarse en un código QR.</p>
 
-<p>Instead, the files are uploaded to a webpage, and a shortened URL is generated and stored in the QR code. When users scan the code, they are redirected to the webpage where they can download the files. </p>
+<p>En su lugar, los archivos se cargan en una página web y se genera una URL abreviada y se almacena en el código QR. Cuando los usuarios escanean el código, se les redirige a la página web donde pueden descargar los archivos.</p>
 
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - preview files.png" alt="Preview of a page with files - ScanMeFindMe"></p>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - preview files.png" alt="Vista previa de una página con archivos - ScanMeFindMe"></p>
 
-<p>If you're using 
-<a href="#pro">ScanMeFindMe PRO</a>, you can also include the title, description, and
-logo on the file-sharing page. It makes the page looks more professional and provides more information about the downloadable files to users.  </p>
-<h2>Why Use QR Codes To Share File?</h2>
-<p>There are various ways to access information, but QR codes offer multiple advantages over conventional ones. </p>
-<h3>It's Efficient</h3>
-<p>With QR Codes, you can consolidate different resources on a single webpage. It saves you the trouble of sorting out which files to be sent out and who are the right recipients.  </p>
+<p>Si está usando
+<a href="#pro">ScanMeFindMe PRO</a>, también puede incluir el título, la descripción y
+logo en la página para compartir archivos. Hace que la página parezca más profesional y proporciona más información sobre los archivos descargables a los usuarios.</p>
+<h2>¿Por qué utilizar códigos QR para compartir archivos?</h2>
+<p>Hay varias formas de acceder a la información, pero los códigos QR ofrecen múltiples ventajas sobre los convencionales.</p>
+<h3>Es eficiente </h3>
+<p>Con los códigos QR, puede consolidar diferentes recursos en una sola página web. Le ahorra la molestia de clasificar qué archivos se enviarán y quiénes son los destinatarios correctos.</p>
 
-<p>All you need to do is to upload the files once and send out the QR codes. It spares you the trouble of waiting for the uploads to complete. Also, there's a lesser chance of sending out the wrong files in an email.  </p>
-<h3>It's Economical</h3>
-<p>QR code file-sharing offers the best of two different digital technologies. You don't have to invest in printing out stacks of documents, which leads to tremendous savings in print expenses. </p>
+<p>Todo lo que necesita hacer es cargar los archivos una vez y enviar los códigos QR. Le ahorra la molestia de esperar a que se completen las cargas. Además, existe una menor posibilidad de enviar archivos incorrectos en un correo electrónico.</p>
+<h3>Es económico </h3>
+<p>El uso compartido de archivos con códigos QR ofrece lo mejor de dos tecnologías digitales diferentes. No tiene que invertir en la impresión de pilas de documentos, lo que genera enormes ahorros en los gastos de impresión.</p>
 
-<p>You can add the QR code with minimum cost on product packaging, leaflets, banners, or emails and have users accessing the files digitally. </p>
-<h3>It's Flexible</h3>
-<p>Did you have an updated version of the user manuals? Or keen to offer new recipes along with packs of pasta? You don't have to scrap existing marketing materials printed with the QR code. </p>
+<p>Puede agregar el código QR con un costo mínimo en el empaque del producto, folletos, pancartas o correos electrónicos y hacer que los usuarios accedan a los archivos digitalmente.</p>
+<h3>Es flexible </h3>
+<p>¿Tenía una versión actualizada de los manuales de usuario? ¿O estás interesado en ofrecer nuevas recetas junto con paquetes de pasta? No tiene que desechar los materiales de marketing existentes impresos con el código QR.</p>
 
-<p>Being a 
-<a href="#about:product">dynamic QR code</a>, you can remove and add new files on the webpage and retain the existing QR code.</p>
-<h3>It's Trackable</h3>
-<p>If you're just mailing out attachments, you can't trace how many of them are downloaded by the recipients. With a dynamic QR code, you can <a href="#article:about_statistics">track the number of scans</a> and where they originated.  </p>
+<p>Siendo un
+<a href="#about:product">código QR dinámico</a>, puede eliminar y agregar nuevos archivos en la página web y conservar el código QR existente.</p>
+<h3>Es rastreable </h3>
+<p>Si solo envía archivos adjuntos por correo, no puede rastrear cuántos de ellos descargan los destinatarios. Con un código QR dinámico, puede <a href="#article:about_statistics">rastrear la cantidad de escaneos</a> y dónde se originaron.</p>
 
-<p>These statistics are helpful when you're evaluating how customers are engaging with the product.  </p>
-<h2>How To Share Files With QR Codes</h2>
-<p>With 
-<a href="#pro">ScanMeFineMe PRO</a> , you can upload files to a webpage and create a QR code quickly. There's no technical knowledge involved. </p>
+<p>Estas estadísticas son útiles cuando evalúa cómo los clientes interactúan con el producto.</p>
+<h2>Cómo compartir archivos con códigos QR</h2>
+<p>Con
+<a href="#pro">ScanMeFineMe PRO</a>, puede cargar archivos en una página web y crear un código QR rápidamente. No hay conocimientos técnicos involucrados.</p>
 
-<p>Our file-sharing QR code generator has an intuitive interface that lets you personalize the webpage with the title, logo, and description. You can also choose how the files are displayed on the webpage. </p>
+<p>Nuestro generador de códigos QR para compartir archivos tiene una interfaz intuitiva que le permite personalizar la página web con el título, el logotipo y la descripción. También puede elegir cómo se muestran los archivos en la página web.</p>
 
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png" alt="Preview of a generator for a page with files - ScanMeFindMe"></p>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png" alt="Vista previa de un generador para una página con archivos - ScanMeFindMe "></p>
 
-<p>A QR code that contains the short URL to the webpage with downloadable files is generated. Use the QR code in marketing material, product packaging, email, classroom, or other media to allow quick information access. </p>
+<p>Se genera un código QR que contiene la URL corta a la página web con archivos descargables. Utilice el código QR en material de marketing, empaque de productos, correo electrónico, aula u otros medios para permitir un acceso rápido a la información.</p>
 
-<p><a href="#pro">Get started with ScanMeFindMe PRO now.</a></p>
+<p><a href="#pro">Empiece a utilizar ScanMeFindMe PRO ahora.</a></p>

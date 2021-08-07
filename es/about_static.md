@@ -1,137 +1,136 @@
-<h1>What information can be stored in QR codes</h1>
+<h1> ¿Qué información se puede almacenar en códigos QR? </h1>
 
 --- Abstract / Meta description ---
 
-QR codes can not only be links to websites. They can "tell" your smartphone to start a call, connect to Wi-Fi, save contact cards or calendar events. They can even open specific apps on your phone
+Los códigos QR no solo pueden ser enlaces a sitios web. Pueden "decirle" a su teléfono inteligente que inicie una llamada, se conecte a Wi-Fi, guarde tarjetas de contacto o eventos del calendario. Incluso pueden abrir aplicaciones específicas en su teléfono
 
 --- Short content 1 ---
 
-Static QR codes contain non-editable, simple information such as a URL, WiFi credentials, a phone number, or an email address
+Los códigos QR estáticos contienen información simple no editable, como una URL, credenciales de WiFi, un número de teléfono o una dirección de correo electrónico.
 
 ----------
 
-<p>QR codes are one of the most affordable, effective marketing tools that any business could ask for. It was underutilized for years since its introduction but has since gained momentum, thanks to the increase of smartphone availability and digitization.</p>
+<p>Los códigos QR son una de las herramientas de marketing más asequibles y efectivas que cualquier empresa podría solicitar. Estuvo infrautilizado durante años desde su introducción, pero desde entonces ha ganado impulso gracias al aumento de la disponibilidad y la digitalización de los teléfonos inteligentes.</p>
 
-<p>Whether you’re a marketer, startup founder, or seasoned entrepreneur, you’ll be surprised at how QR codes improve customer experience, increase conversion and simplify business operation. </p>
+<p>Ya sea un especialista en marketing, un fundador de una startup o un emprendedor experimentado, se sorprenderá de cómo los códigos QR mejoran la experiencia del cliente, aumentan la conversión y simplifican las operaciones comerciales.</p>
 
-<p>Of course, this depends on what information that you’re storing in QR codes and how you’re applying them in business.</p>
+<p>Por supuesto, esto depende de la información que esté almacenando en los códigos QR y cómo los esté aplicando en los negocios.</p>
 
-<h2>What Are QR Codes?</h2>
+<h2>¿Qué son los códigos QR?</h2>
 
-<p>The QR Code, which stands for Quick-Response Code, is the most popular standard amongst 2-Dimensional barcodes. Chances are, you’ve come across QR codes when purchasing tickets, browsing through brochures, or visiting trade events. </p>
+<p>El código QR, que significa Código de respuesta rápida, es el estándar más popular entre los códigos de barras bidimensionales. Lo más probable es que se haya encontrado con códigos QR al comprar boletos, navegar a través de folletos o visitar eventos comerciales.</p>
 
-<p>QR codes are squarish and bear three identical markers at the corners, that stick out from the rest of the pixels. These markers help the scanner to detect the edges of a QR code. Within the scannable area, the QR code is filled with smaller black and white spaces, which contain the encoded information.</p>
+<p>Los códigos QR son cuadrados y tienen tres marcadores idénticos en las esquinas, que sobresalen del resto de los píxeles. Estos marcadores ayudan al escáner a detectar los bordes de un código QR. Dentro del área escaneable, el código QR se llena con espacios en blanco y negro más pequeños, que contienen la información codificada.</p>
 
-<p>Here’s an example of a QR code that has ScanMeFindMe’s URL encoded into it.</p>
+<p>A continuación, se muestra un ejemplo de un código QR que tiene codificada la URL de ScanMeFindMe.</p>
 
-<p class="imageholder">
-<img src="https://media.scanmefindme.com/blog/about_static/files/img 1 - qr.png" alt="QR code example, ScanMeFindMe"></p>
+<p class = "marcador de imagen">
+<img src="https://media.scanmefindme.com/blog/about_static/files/img 1 - qr.png" alt="Ejemplo de código QR, ScanMeFindMe"></p>
 
-<p>It’s also interesting to note that QR codes are built with an error-correction algorithm. Depending on the size and information stored, a QR code is still readable even if it has up to 30% of its area covered. </p>
+<p>También es interesante notar que los códigos QR se crean con un algoritmo de corrección de errores. Dependiendo del tamaño y la información almacenada, un código QR sigue siendo legible incluso si tiene hasta un 30% de su área cubierta.</p>
 
-<p>For marketers, QR Code’s robustness is a branding opportunity. It opens up the possibility of placing a <a href="#article:about_logos" title="QR codes with a logo">logo</a> or icon in the middle of the QR code, without compromising its integrity. </p>
+<p>Para los especialistas en marketing, la solidez de QR Code es una oportunidad de desarrollo de la marca. Abre la posibilidad de colocar un <a href="#article:about_logos" title="QR codes con un logo">logo</a> o icono en el medio del código QR, sin comprometer su integridad.</p>
 
-<p>It’s recommended to use a professional QR generator to insert a logo into the code. It reduces the risk of making mistakes that make the QR code unreadable. </p>
+<p>Se recomienda utilizar un generador de QR profesional para insertar un logotipo en el código. Reduce el riesgo de cometer errores que hagan ilegible el código QR.</p>
 
-<h2>How Much Information Can It Store? </h2>
+<h2>¿Cuánta información puede almacenar?</h2>
 
-<p>QR codes are a revolutionary improvement from the single-dimensional barcode, particularly in terms of storage size. A QR code stores up to 4,296 alphanumeric characters or 7,089 numbers, while most 1D barcodes can only manage up to 20 numeric characters. QR codes are also capable of encoding non-Latin symbols like Kanji and hieroglyphs, but this decreases its data capacity. </p>
+<p>Los códigos QR son una mejora revolucionaria del código de barras unidimensional, particularmente en términos de tamaño de almacenamiento. Un código QR almacena hasta 4296 caracteres alfanuméricos o 7089 números, mientras que la mayoría de los códigos de barras 1D solo pueden administrar hasta 20 caracteres numéricos. Los códigos QR también son capaces de codificar símbolos no latinos como kanji y jeroglíficos, pero esto disminuye su capacidad de datos.</p>
 
-<p>For a better comparison, it is possible to fit in all the basic details (name, email, address, phone number) of a customer in a QR code. This is not possible if you’re still using the age-old 1D barcode. </p>
+<p>Para una mejor comparación, es posible incluir todos los detalles básicos (nombre, correo electrónico, dirección, número de teléfono) de un cliente en un código QR. Esto no es posible si todavía usa el antiguo código de barras 1D.</p>
 
-<p>However, stretching the QR code to its capacity means it will have tinier and denser pixels. This means that you’ll need a larger print area, or low-resolution cameras may have trouble decoding the QR code. </p>
+<p>Sin embargo, estirar el código QR a su capacidad significa que tendrá píxeles más pequeños y más densos. Esto significa que necesitará un área de impresión más grande, o las cámaras de baja resolución pueden tener problemas para decodificar el código QR.</p>
 
-<H2>What Happens When You Scan A QR Code?</h2>
-<p>There’s no better time to make QR codes part of your marketing plan. That’s because almost everyone seems to own a personal QR code scanner, i.e. their smartphone. </p>
+<h2>¿Qué sucede cuando escanea un código QR?</h2>
+<p>No hay mejor momento para que los códigos QR formen parte de su plan de marketing. Eso es porque casi todo el mundo parece tener un escáner de código QR personal, es decir, su teléfono inteligente.</p>
 
-<p>You don’t need a special, dedicated barcode scanner to decode a QR code. If you’re using an iPhone, the camera is built-in with a QR code scanner. Meanwhile, Android users are required to download a QR scanner app, if their smartphone models do not have an intergrated QR scanner.</p>
+<p>No necesita un escáner de código de barras especial y dedicado para decodificar un código QR. Si está utilizando un iPhone, la cámara está integrada con un escáner de código QR. Mientras tanto, los usuarios de Android deben descargar una aplicación de escáner QR, si sus modelos de teléfonos inteligentes no tienen un escáner QR integrado.</p>
 
-<p>To scan a QR code, launch the QR scanner app and align the QR code to the designated scanning area. The camera will automatically capture the QR code and retrieve the encoded information, which usually contains texts and numbers.</p>
+<p>Para escanear un código QR, inicie la aplicación de escaneo QR y alinee el código QR con el área de escaneo designada. La cámara capturará automáticamente el código QR y recuperará la información codificada, que generalmente contiene textos y números.</p>
 
-<p>Now, it’s hard to imagine how plain text and numbers can do wonder in marketing but it does when your audience own a smartphone. It allows QR codes to be used interactively and creatively by making the smartphone respond uniquely to different types of information.
+<p>Ahora, es difícil imaginar cómo el texto sin formato y los números pueden hacer maravillas en el marketing, pero lo hace cuando su audiencia tiene un teléfono inteligente. Permite que los códigos QR se utilicen de forma interactiva y creativa al hacer que el teléfono inteligente responda de manera única a diferentes tipos de información.
 
-<p>This is done by including formatted text like ‘mailto:’ or ‘tel:’, which instruct the phone to send an email or dial a number respectively, into the QR code. Of course, neither of the actions are carried out automatically without your confirmation.</p>
-<h2>Static vs. Dynamic QR Codes</h2>
-<p>Generally, there are two types of QR codes.</p>
+<p>Esto se hace al incluir texto formateado como "mailto:" o "tel:", que indica al teléfono que envíe un correo electrónico o marque un número, respectivamente, en el código QR. Por supuesto, ninguna de las acciones se realiza automáticamente sin su confirmación.</p>
+<h2>Códigos QR estáticos frente a dinámicos</h2>
+<p>Generalmente, hay dos tipos de códigos QR.</p>
 
-<p>Static QR codes imply that the information encoded within is fixed. You can’t edit what is eventually shown to the users.</p>
+<p>Los códigos QR estáticos implican que la información codificada dentro es fija. No puede editar lo que finalmente se muestra a los usuarios.</p>
 
-<p>For example, you can encode WIFI credentials into a QR code. When the users scan the QR Code, it will automatically connect to the WIFI. However, if you’ve changed the WIFI password, you’ll need to generate a new QR code.</p>
+<p>Por ejemplo, puede codificar las credenciales de WIFI en un código QR. Cuando los usuarios escanean el código QR, se conectará automáticamente al WIFI. Sin embargo, si tu has cambiado la contraseña de WIFI, deberá generar un nuevo código QR.</p>
 
-<p>Meanwhile, dynamic QR codes contain a short URL that redirects to a website or webpage. While the link is fixed, the information that is displayed on the browser is not. You can make changes to the landing page as you deem fit without a new QR code.</p>
+<p>Mientras tanto, los códigos QR dinámicos contienen una URL corta que redirige a un sitio web o página web. Si bien el enlace es fijo, la información que se muestra en el navegador no lo es. Puede realizar cambios en la página de destino como mejor le parezca sin un nuevo código QR.</p>
 
-<p>Furthermore, you can incorporate analytics with dynamic QR codes. By doing so, you can track stats like the <a href="#article:about_statistics" title="Scans analytics for QR codes">number of scans</a>, and originating locations. These numbers are helpful in measuring and finetuning your marketing campaign. </p>
+<p>Además, puede incorporar análisis con códigos QR dinámicos. Al hacerlo, puede realizar un seguimiento de estadísticas como el <a href="#article:about_statistics" title=" Análisis de escaneos en busca de códigos QR">número de escaneos</a> y ubicaciones de origen. Estos números son útiles para medir y ajustar su campaña de marketing.</p>
 
-<H2>Common Types Of Information Stored In QR Codes</h2>
+<h2>Tipos comunes de información almacenada en códigos QR</h2>
 
-<p>Here’s a list of what you can store in a QR code if you’re using our <a href="#static:url">QR code generator</a>. </p>
+<p>A continuación, se muestra una lista de lo que puede almacenar en un código QR si utiliza nuestro <a href="#static:url">generador de códigos QR</a>.</p>
 
 <ul>
-<li><strong>URL</strong> - The QR code contains a link to your webpage which can be launched in a browser.</li>
-<li><strong>Phone</strong> - A phone number is encoded into the QR code. When scanned, it brings up the phone app and automatically pre-fills the phone number.</li>
-<li><strong>SMS/ Whatsapp</strong> - Stores the recipient’s phone number in the QR code. Opens up the respective text messaging app with the pre-filled number when scanned.</li>
-<li><strong>Facebook/Twitter</strong> - The QR code contains the link to the social media page. Scanning the QR code opens the page in a browser or the respective app if it’s installed.</li>
-<li><strong>WiFi</strong> - Stores your WiFi credential. Comes in handy if you’re running a cafe. No more handing tiny slips of your WiFi password.</li>
-<li><strong>Email</strong> - Contains an email address and automatically triggers an email app with prefilled recipient’s address when scanned.  </li>
-<li><strong>Crypto</strong> - Stores your cryptocurrency wallet address in the QR code.</li>
-<li><strong>Contact</strong> - The QR code contains your personal information, encoded in
-<a href="article:about_contactformats">Vcard or MeCard format</a>. </li>
-<li><strong>Events</strong> - Contains information about an event that will be saved in your calendar. </li>
+<li> <strong>URL</strong>: el código QR contiene un enlace a su página web que se puede iniciar en un navegador. </li>
+<li> <strong>Teléfono:</strong> un número de teléfono está codificado en el código QR. Cuando se escanea, aparece la aplicación del teléfono y automáticamente completa el número de teléfono. </li>
+<li> <strong>SMS / Whatsapp</strong>: almacena el número de teléfono del destinatario en el código QR. Abre la aplicación de mensajería de texto respectiva con el número precargado cuando se escanea. </li>
+<li> <strong>Facebook / Twitter</strong>: el código QR contiene el enlace a la página de la red social. Al escanear el código QR, se abre la página en un navegador o en la aplicación correspondiente, si está instalada. </li>
+<li> <strong>WiFi</strong>: almacena su credencial de WiFi. Es útil si tiene un café. Ya no tendrás que dar pequeños trozos de tu contraseña de WiFi. </li>
+<li> <strong>Correo electrónico</strong>: contiene una dirección de correo electrónico y activa automáticamente una aplicación de correo electrónico con la dirección del destinatario precargada cuando se escanea. </li>
+<li> <strong>Cripto</strong>: almacena la dirección de su billetera de criptomonedas en el código QR. </li>
+<li> <strong>Contacto</strong>: el código QR contiene su información personal, codificada en
+<a href="article:about_contactformats">formato Vcard o MeCard</a>. </li>
+<li> <strong>Eventos</strong>: contiene información sobre un evento que se guardará en su calendario. </li>
 </ul>
 
-<H2>Storing Information With Dynamic QR Codes</h2>
+<h2>Almacenamiento de información con códigos QR dinámicos</h2>
 
-<p>Scanning a QR code is easy, but how do you create one that holds different types of information? </p>
+<p>Escanear un código QR es fácil, pero ¿cómo se crea uno que contenga diferentes tipos de información?</p>
 
-<p>No, you don’t have to be a programming wizard to generating QR codes. Not when you have access to our QR code generator.</p>
+<p>No, no es necesario ser un asistente de programación para generar códigos QR. No cuando tiene acceso a nuestro generador de códigos QR.</p>
 
-<p>Here are the different types of information that can be stored with QR Codes when you’re using ScanMeFindMe Pro</p>
+<p>Estos son los diferentes tipos de información que se pueden almacenar con códigos QR cuando usa ScanMeFindMe Pro</p>
 
-<h3>Short URL With Dynamic QR</h3>
+<h3>URL corta con QR dinámico </h3>
 
-<p class="imageholder">
-<img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png" alt="Generate QR for short url - ScanMeFindMe"></p>
+<p class = "marcador de imagen">
+<img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png" alt="Generar QR para URL corta - ScanMeFindMe"></p>
 
-<p>You can create a short URL and encode it into a dynamic QR code. The URL redirects users to the destination link. The destination link, often a website or webpage, can be changed without altering the original QR code.</p>
+<p>Puede crear una URL corta y codificarla en un código QR dinámico. La URL redirige a los usuarios al enlace de destino. El enlace de destino, a menudo un sitio web o una página web, se puede cambiar sin alterar el código QR original.</p>
 
-<H3> Contact Card With Dynamic QR</h3>
+<h3>Tarjeta de contacto con QR dinámico </h3>
 
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png" alt="Contact Card With Dynamic QR code - ScanMeFindMe"></p>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png" alt="Tarjeta de contacto con código QR dinámico - ScanMeFindMe "></p>
 
-<p>ScanMeFindMe allows you to store personal information, an uploaded photo and social network links with a dynamic QR.  It encodes the short URL into the QR, which opens up a webpage displaying the contact information when scanned.</p>
+<p>ScanMeFindMe le permite almacenar información personal, una foto cargada y enlaces de redes sociales con un QR dinámico. Codifica la URL corta en el QR, que abre una página web que muestra la información de contacto cuando se escanea.</p>
 
-<h3>Files With Dynamic QR</h3>
+<h3>Archivos con QR dinámico </h3>
 
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png" alt="Generate QR code for a page with files - ScanMeFindMe"></p>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png" alt="Generar código QR para un página con archivos - ScanMeFindMe "></p>
 
-<p>Dynamic QR also allows you to share downloadable resources on a webpage. You can upload files and create a QR code that points to the resource page. When users scan the QR code, they will be redirected to the page containing the files.
+<p>Dynamic QR también le permite compartir recursos descargables en una página web. Puede cargar archivos y crear un código QR que apunte a la página de recursos. Cuando los usuarios escanean el código QR, serán redirigidos a la página que contiene los archivos.
 </p>
 
-<H2> Managing Dynamic QR Codes With ScanMeFindMe Pro</h2>
-<p>Once you’ve created a dynamic QR code, you can manage it with ease on the dashboard. </p>
+<h2>Gestión de códigos QR dinámicos con ScanMeFindMe Pro</h2>
+<p>Una vez que haya creado un código QR dinámico, puede administrarlo fácilmente en el panel.</p>
 
-<p>If you need to download the QR code, just click on the Download QR button and you’ll be presented with several image options and advanced page settings.</p>
+<p>Si necesita descargar el código QR, simplemente haga clic en el botón Descargar QR y se le presentarán varias opciones de imagen y configuraciones de página avanzadas.</p>
 
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png" alt="Download generated QR code - ScanMeFindMe"></p>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png" alt="Descargar código QR generado - ScanMeFindMe"> </p>
 
-<p>You can view, sort, tag, filter and search dynamic codes that you’ve created on the dashboard.</p>
+<p>Puede ver, ordenar, etiquetar, filtrar y buscar códigos dinámicos que haya creado en el panel.</p>
 
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png" alt="Managing generated QR codes - ScanMeFindMe"></p>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png" alt="Gestión de códigos QR generados - ScanMeFindMe"></p>
 
-<p>One of the reasons why dynamic QR code is an effective marketing tools is its ability to track who scanned the QR, when and where. You’ll have access to statistics, charts and reports that will help you improve your targetting strategies.</p>
+<p>Una de las razones por las que el código QR dinámico es una herramienta de marketing eficaz es su capacidad para rastrear quién escaneó el QR, cuándo y dónde. Tendrá acceso a estadísticas, gráficos e informes que lo ayudarán a mejorar sus estrategias de orientación.</p>
 
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif" alt="QR code scans statistics - ScanMeFindMe"></p>
+<p class = "marcador de imagen"> <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif" alt="Estadísticas de escaneos de códigos QR - ScanMeFindMe "></p>
 
-<p>The bottom line is, ScanMeFindMe Pro gives you exclusive access to features like</p>
+<p>La conclusión es que ScanMeFindMe Pro le brinda acceso exclusivo a funciones como</p>
 <ul>
-<li>Generate dynamic QR codes.</li>
-<li>Using your own templates.</li>
-<li>View who scans your QR codes, when and where.</li>
-<li>More download formats and advanced settings.</li>
-<li>Save personalized QR code presets.</li>
-<li>Use our QR Code generator API from your application.</li>
-<li>Save and manage generated QR codes.</li>
+<li> Genere códigos QR dinámicos. </li>
+<li> Usando sus propias plantillas. </li>
+<li> Vea quién escanea sus códigos QR, cuándo y dónde. </li>
+<li> Más formatos de descarga y configuraciones avanzadas. </li>
+<li> Guarde los ajustes preestablecidos de códigos QR personalizados. </li>
+<li> Utilice nuestra API generadora de códigos QR desde su aplicación. </li>
+<li> Guarde y administre los códigos QR generados. </li>
 </ul>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for FREE here.</a></p>
-
+<p><a href="#pro">Pruebe ScanMeFindMe PRO GRATIS aquí.</a></p>

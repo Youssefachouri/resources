@@ -36,7 +36,7 @@ Store personal contact information, social media handles, and photo/logo with a 
     <a href="#article:about_contactformats">Vcard or MeCard format</a>.
     When you scan a static QR code, you get to save the contact information on your smartphone. </p>
 
-<p><a href="#article:about_static">Static QR codes</a>   encode the information directly, limiting how much information you can store. You'll need to use a dynamic QR code to include additional information like a photo/logo or social media handles.  </p>
+<p><a href="#article:about_static">Static QR codes</a> encode the information directly, limiting how much information you can store. You'll need to use a dynamic QR code to include additional information like a photo/logo or social media handles.  </p>
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png" alt="Contact card fields - ScanMeFindMe"></p>
 
 
@@ -45,7 +45,7 @@ Store personal contact information, social media handles, and photo/logo with a 
 <p>When users scan the code, they are redirected to the webpage that acts as a digital business card. The displayed contact details can be downloaded and saved onto a smartphone's contacts. </p>
 <h2> How To Share Contact Details With QR Codes? </h2>
 <p>To start sharing your contact details with QR codes, you need to generate one. With a   
-    <a href="#pro">ScanMeFIndMe PRO account</a>  , you can generate a QR code that contains all your personal information with ease.</p>
+    <a href="#pro">ScanMeFIndMe PRO account</a>, you can generate a QR code that contains all your personal information with ease.</p>
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png" alt="Generating QR code for contact card - ScanMeFindMe"></p>
 
