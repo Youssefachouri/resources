@@ -10,7 +10,7 @@ Upload and add a logo to the QR code. Personalize its size and positioning
 
 --- Short content 2 ---
 
-Higher error correction level allows for a bigger part of the QR card to be damaged but still be scannable.  Choose higher error correction level if you plan to add logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo.
+Higher error correction level allows for a bigger part of the QR code to be damaged but still be scannable. Choose higher error correction level if you plan to add a logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo. The different error correction levels will change the appearance of your QR code.
 
 ----------
 
