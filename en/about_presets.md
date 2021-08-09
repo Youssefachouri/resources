@@ -1,4 +1,4 @@
-<h1>Save time by creating presets</h1>
+<h1>Save time by creating presets for your QR codes</h1>
 
 --- Abstract / Meta description ---
 
