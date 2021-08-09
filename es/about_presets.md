@@ -1,4 +1,4 @@
-<h1> Ahorre tiempo creando ajustes preestablecidos </h1>
+<h1>Ahorre tiempo creando ajustes preestablecidos</h1>
 
 --- Abstract / Meta description ---
 

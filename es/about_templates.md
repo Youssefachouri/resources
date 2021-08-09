@@ -1,4 +1,4 @@
-<h1> Cómo agregar bordes y leyendas a los códigos QR </h1>
+<h1>Cómo agregar bordes y leyendas a los códigos QR</h1>
 
 --- Abstract / Meta description ---
 

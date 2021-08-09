@@ -1,4 +1,4 @@
-<h1> ¿Qué información se puede almacenar en códigos QR? </h1>
+<h1>¿Qué información se puede almacenar en códigos QR?</h1>
 
 --- Abstract / Meta description ---
 

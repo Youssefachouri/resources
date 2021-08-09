@@ -1,4 +1,4 @@
-<h1> Utilice códigos QR para crear URL cortas y realizar un seguimiento de las vistas </h1>
+<h1>Utilice códigos QR para crear URL cortas y realizar un seguimiento de las vistas</h1>
 
 --- Abstract / Meta description ---
 

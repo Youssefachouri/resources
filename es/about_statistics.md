@@ -1,4 +1,4 @@
-<h1> Estadísticas de análisis </h1>
+<h1>Estadísticas de escaneos de códigos QR</h1>
 
 --- Abstract / Meta description ---
 

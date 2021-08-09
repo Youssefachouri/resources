@@ -1,4 +1,4 @@
-<h1>Scan-Statistiken</h1>
+<h1>QR-Codes scannt Statistiken</h1>
 
 --- Abstract / Meta description ---
 

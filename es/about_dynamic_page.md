@@ -1,4 +1,4 @@
-<h1> Utilice códigos QR para compartir archivos </h1>
+<h1>Utilice códigos QR para compartir archivos</h1>
 
 --- Abstract / Meta description ---
 
