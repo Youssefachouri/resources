@@ -1,4 +1,4 @@
-<h1>Use QR codes to create short URLs and track views</h1>
+<h1>Using QR codes to create short URLs and track views</h1>
 
 --- Abstract / Meta description ---
 
