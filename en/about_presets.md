@@ -2,7 +2,7 @@
 
 --- Abstract / Meta description ---
 
-Maximize efficiency when personalizing your QR code with presets. Save your choices and reuse them any time you want.
+Maximize efficiency when personalizing your QR codes with presets. Save your choices and reuse them any time you want.
 
 --- Short content 1 ---
 
@@ -14,13 +14,13 @@ Choose a pre-designed preset or create one with selected style, colors, template
 <p>Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code. </p>
 <p>This is where you'll want to create presets, a feature exclusive to ScanMeFindMe PRO users.</p>
 <h2>What Are Presets And Why Do You Need Them?</h2>
-<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with style, colors,
+<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with styles, colors,
     <a href="#article:about_templates">templates</a>,
     and <a href="#article:about_logos">logos</a>.</p>
 <p>These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted. </p>
 <p>Here's how you can use presets to save setup time when creating a QR code. </p>
 <p>You're releasing a series of yoga tutorial videos, and you're
-    <a href="#article:about_static">encoding the links in QR codes.</a> If you're to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
+    <a href="#article:about_static">encoding the links in QR codes.</a> If you're going to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
 <p>It's easy to make a mistake, which results in some QR codes looking out of place. Also, you're wasting time repeating a process that can be automated. </p>
 <p>By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode. </p>
 <h2>How To Create And Save Presets for QR codes</h2>
