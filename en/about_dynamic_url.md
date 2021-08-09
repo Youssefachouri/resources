@@ -12,8 +12,8 @@ Generate a shortened alias of your webpage URL and track who, where, and how use
 
 <p><span class="font-italic">'If you can't measure it, you can't improve it'</span>  -- Peter Drucker</p>
 <p>The oft-repeated saying applies when you're making QR codes part of your marketing campaign.</p>
-<p>If you're clueless about how many scans the QR Code generated over the past week, or which cities that generate the most hits, you won't know if the campaign is on track for success.</p>
-<p>Now, not all QR codes are trackable. You need to create the right QR codes and ensure that they are linked to a tracking module. </p>
+<p>If you're clueless about how many scans your QR Code generated over the past week, or which cities generated the most hits, you won't know if the campaign is on track for success.</p>
+<p>Now, not all QR codes are trackable. You need to create the right QR codes and ensure that they are linked to a tracking module. Creating QR codes with ScanMeFindMe makes this very easy. </p>
 <h2>Why Create Short URLs with QR Codes?</h2>
 <p>A short URL is a shortened link address that redirects the user to the intended webpage. </p>
 
@@ -23,9 +23,9 @@ Generate a shortened alias of your webpage URL and track who, where, and how use
 
 <p>It points to our resource page, which has the full URL: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
 
-<p>If you encode the full URL into the QR code, you will still direct users to the respective webpage. However, you couldn't tap into the full benefits that QR codes could offer. </p>
+<p>If you encode the full URL into the QR code, it will still direct users to the respective webpage. However, you wouldn't be able to tap into the full benefits that QR codes have to offer. </p>
 
-<p><strong>QR codes that encode short URLs</strong> are what you call a dynamic QR code. With a dynamic QR code, you have more flexibility in editing the destination content and also track users that scan the QR code.</p>
+<p><strong>QR codes that encode short URLs</strong> are also known as dynamic QR codes. With a dynamic QR code, you have more flexibility in editing the destination content and also in tracking users that scan the QR code.</p>
 <h2>How To Track Views With QR Code</h2>
 <p>When you generate a dynamic QR code with our <a href="#pro">PRO QR generator</a>, it is automatically linked to our tracking tools.</p>
 
@@ -49,7 +49,7 @@ Generate a shortened alias of your webpage URL and track who, where, and how use
 
 <p>The figures help with other marketing strategies and serve as an early indicator of which region is more likely to generate an impactful engagement. </p>
 <h2>Bottom Line</h2>
-<p>If you wanted to set up a data-driven QR code campaign, you'll need dynamic QR codes and a reliable, hassle-free tracking module. You don't want to spend up hours setting up the analytics or generating the reports.</p>
+<p>If you wanted to set up a data-driven QR code campaign, you'll need dynamic QR codes and a reliable, hassle-free tracking module. You don't want to spend hours setting up the analytics or generating the reports.</p>
 
 <p>ScanMeFindMe PRO takes care of the technical stuff, which means you can start generating QR codes that automatically track views in no time.</p>
 

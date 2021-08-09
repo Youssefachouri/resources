@@ -33,7 +33,7 @@ Static QR codes contain non-editable, simple information such as a URL, WiFi cre
 
 <p>It’s recommended to use a professional QR generator to insert a logo into the code. It reduces the risk of making mistakes that make the QR code unreadable. </p>
 
-<h2>How Much Information Can It Store? </h2>
+<h2>How Much Information Can They Store? </h2>
 
 <p>QR codes are a revolutionary improvement from the single-dimensional barcode, particularly in terms of storage size. A QR code stores up to 4,296 alphanumeric characters or 7,089 numbers, while most 1D barcodes can only manage up to 20 numeric characters. QR codes are also capable of encoding non-Latin symbols like Kanji and hieroglyphs, but this decreases its data capacity. </p>
 
@@ -87,24 +87,24 @@ Static QR codes contain non-editable, simple information such as a URL, WiFi cre
 
 <p>Here are the different types of information that can be stored with QR Codes when you’re using ScanMeFindMe Pro</p>
 
-<h3>Short URL With Dynamic QR</h3>
+<h3>Short URL With Dynamic QR codes</h3>
 
 <p class="imageholder">
 <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png" alt="Generate QR for short url - ScanMeFindMe"></p>
 
 <p>You can create a short URL and encode it into a dynamic QR code. The URL redirects users to the destination link. The destination link, often a website or webpage, can be changed without altering the original QR code.</p>
 
-<H3> Contact Card With Dynamic QR</h3>
+<H3> Contact Card With Dynamic QR codes</h3>
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png" alt="Contact Card With Dynamic QR code - ScanMeFindMe"></p>
 
-<p>ScanMeFindMe allows you to store personal information, an uploaded photo and social network links with a dynamic QR.  It encodes the short URL into the QR, which opens up a webpage displaying the contact information when scanned.</p>
+<p>ScanMeFindMe allows you to store personal information, an uploaded photo and social network links with a dynamic QR.  It encodes the short URL into the QR, which opens up a webpage displaying the contact information when scanned. This contact information can then be saved directly into users contacts.</p>
 
-<h3>Files With Dynamic QR</h3>
+<h3>Files With Dynamic QR codes</h3>
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png" alt="Generate QR code for a page with files - ScanMeFindMe"></p>
 
-<p>Dynamic QR also allows you to share downloadable resources on a webpage. You can upload files and create a QR code that points to the resource page. When users scan the QR code, they will be redirected to the page containing the files.
+<p>Dynamic QR codes also allow you to share downloadable resources on a webpage. You can upload files and create a QR code that points to the resource page. When users scan the QR code, they will be redirected to the page containing the files.
 </p>
 
 <H2> Managing Dynamic QR Codes With ScanMeFindMe Pro</h2>
@@ -118,14 +118,14 @@ Static QR codes contain non-editable, simple information such as a URL, WiFi cre
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png" alt="Managing generated QR codes - ScanMeFindMe"></p>
 
-<p>One of the reasons why dynamic QR code is an effective marketing tools is its ability to track who scanned the QR, when and where. You’ll have access to statistics, charts and reports that will help you improve your targetting strategies.</p>
+<p>One of the reasons why dynamic QR code is an effective marketing tool, is its ability to track who scanned the QR, when and where. You’ll have access to statistics, charts and reports that will help you improve your targetting strategies and reach more potential clients.</p>
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif" alt="QR code scans statistics - ScanMeFindMe"></p>
 
 <p>The bottom line is, ScanMeFindMe Pro gives you exclusive access to features like</p>
 <ul>
 <li>Generate dynamic QR codes.</li>
-<li>Using your own templates.</li>
+<li>Use your own templates.</li>
 <li>View who scans your QR codes, when and where.</li>
 <li>More download formats and advanced settings.</li>
 <li>Save personalized QR code presets.</li>

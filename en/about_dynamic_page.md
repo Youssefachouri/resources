@@ -1,4 +1,4 @@
-<h1>Use QR codes to share files</h1>
+<h1>Using QR codes to share files</h1>
 
 --- Abstract / Meta description ---
 
@@ -6,7 +6,7 @@ Share files with QR codes to consolidate and simplify information access.  Allow
 
 --- Short content 1 ---
 
-Upload menu, music, manuals, and other files on a personalized webpage. Share the QR code with others and monitor how often it’s scanned.
+Upload menus, music, manuals, and other files onto a personalized webpage. Share the QR code with others and monitor how often it’s scanned.
 
 ----------
 
@@ -17,7 +17,7 @@ Upload menu, music, manuals, and other files on a personalized webpage. Share th
 <p>Cloud storage is one part of the solution, but the key to efficient file-sharing is enabling recipients access to the resources with minimum fuss. That's where 
 <a href="#static:url">using QR codes</a>  for file-sharing kicks in.</p>
 <h2>How Does File Sharing With QR Codes Work?</h2>
-<p>Unlike what most people imagined, you wouldn't be storing the files into a QR code. Most files are too large to be encoded into a QR code. </p>
+<p>Unlike what most people imagine, you wouldn't be storing the files into a QR code. Most files are too large to be encoded into a QR code. </p>
 
 <p>Instead, the files are uploaded to a webpage, and a shortened URL is generated and stored in the QR code. When users scan the code, they are redirected to the webpage where they can download the files. </p>
 
@@ -26,7 +26,7 @@ Upload menu, music, manuals, and other files on a personalized webpage. Share th
 <p>If you're using 
 <a href="#pro">ScanMeFindMe PRO</a>, you can also include the title, description, and
 logo on the file-sharing page. It makes the page looks more professional and provides more information about the downloadable files to users.  </p>
-<h2>Why Use QR Codes To Share File?</h2>
+<h2>Why Use QR Codes To Share Files?</h2>
 <p>There are various ways to access information, but QR codes offer multiple advantages over conventional ones. </p>
 <h3>It's Efficient</h3>
 <p>With QR Codes, you can consolidate different resources on a single webpage. It saves you the trouble of sorting out which files to be sent out and who are the right recipients.  </p>
@@ -35,7 +35,7 @@ logo on the file-sharing page. It makes the page looks more professional and pro
 <h3>It's Economical</h3>
 <p>QR code file-sharing offers the best of two different digital technologies. You don't have to invest in printing out stacks of documents, which leads to tremendous savings in print expenses. </p>
 
-<p>You can add the QR code with minimum cost on product packaging, leaflets, banners, or emails and have users accessing the files digitally. </p>
+<p>You can add the QR code with minimum cost onto; product packaging, leaflets, banners or emails, and have users be able to access the files digitally. </p>
 <h3>It's Flexible</h3>
 <p>Did you have an updated version of the user manuals? Or keen to offer new recipes along with packs of pasta? You don't have to scrap existing marketing materials printed with the QR code. </p>
 
