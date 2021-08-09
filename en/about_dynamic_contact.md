@@ -1,4 +1,4 @@
-<h1>Use QR Codes To Share Contact Details</h1>
+<h1>Using QR Codes To Share Contact Details</h1>
 
 --- Abstract / Meta description ---
 
