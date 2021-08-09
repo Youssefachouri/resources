@@ -1,4 +1,4 @@
-<h1>How scan statistics from scanning QR codes can be viewed and used</h1>
+<h1>How QR code scan statistics can be viewed and used</h1>
 
 --- Abstract / Meta description ---
 

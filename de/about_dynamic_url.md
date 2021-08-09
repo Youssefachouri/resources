@@ -1,4 +1,4 @@
-<h1>Verwenden Sie QR-Codes, um kurze URLs zu erstellen und Aufrufe zu verfolgen</h1>
+<h1>Verwenden von QR-Codes, um kurze URLs zu erstellen und Aufrufe zu verfolgen</h1>
 
 --- Abstract / Meta description ---
 

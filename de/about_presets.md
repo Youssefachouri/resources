@@ -1,4 +1,4 @@
-<h1>Sparen Sie Zeit, indem Sie Voreinstellungen erstellen</h1>
+<h1>Sparen Sie Zeit, indem Sie Voreinstellungen für Ihre QR-Codes erstellen</h1>
 
 --- Abstract / Meta description ---
 

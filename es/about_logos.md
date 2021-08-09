@@ -1,4 +1,4 @@
-<h1>Agregar logotipos a QR</h1>
+<h1>Agregar logotipos a códigos QR</h1>
 
 --- Abstract / Meta description ---
 

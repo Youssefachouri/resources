@@ -1,4 +1,4 @@
-<h1>Verwenden Sie QR-Codes, um Dateien zu teilen</h1>
+<h1>Wie QR-Codes zum Teilen von Dateien verwendet werden können</h1>
 
 --- Abstract / Meta description ---
 

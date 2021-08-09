@@ -1,4 +1,4 @@
-<h1>Estadísticas de escaneos de códigos QR</h1>
+<h1>Cómo se pueden ver y utilizar las estadísticas de escaneo de códigos QR</h1>
 
 --- Abstract / Meta description ---
 

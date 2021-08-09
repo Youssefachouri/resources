@@ -1,4 +1,4 @@
-<h1>¿Qué son los formatos MeCard y vCard?</h1>
+<h1>¿Cuáles son los formatos MeCard y vCard que se utilizan para los códigos QR?</h1>
 
 --- Abstract / Meta description ---
 

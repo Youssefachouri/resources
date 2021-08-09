@@ -1,4 +1,4 @@
-<h1>QR-Codes scannt Statistiken</h1>
+<h1>Wie QR-Code-Scan-Statistiken angezeigt und verwendet werden können</h1>
 
 --- Abstract / Meta description ---
 
