@@ -1,4 +1,4 @@
-<h1>Adding logos to QR</h1>
+<h1>Adding logos to QR codes</h1>
 
 --- Abstract / Meta description ---
 
