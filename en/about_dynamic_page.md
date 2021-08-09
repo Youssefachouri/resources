@@ -1,4 +1,4 @@
-<h1>Use QR codes to share files</h1>
+<h1>How QR codes can be used to share files</h1>
 
 --- Abstract / Meta description ---
 
