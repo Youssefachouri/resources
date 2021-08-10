@@ -2,7 +2,7 @@
 
 --- Abstract / Meta description ---
 
-Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they matter for marketers
+Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they are important for marketers
 
 --- Short content 1 ---
 
@@ -16,14 +16,14 @@ The approximate location of the scanning device. It may not always be accurate a
 
 <h2>Why QR Code Scan Statistics Are Important</h2>
 
-<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that help in your marketing effort.</p>
+<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that can help with your marketing.</p>
 
 <p>Rather than merely distributing marketing materials with QR codes,
     you'll want to monitor engagement indicators like how many people are accessing a landing page via QR code.
     Or if a particular campaign is reaching its audience in major cities. </p>
 
 <p>Without dynamic QR codes, you will have no idea if you're reaching the target audience or on the right track
-    with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improvise the campaign.</p>
+    with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improve the campaign.</p>
 
 <p>QR code statistics show you what's working on your campaign and what's not. You'll know if you need a more
     intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts. </p>
@@ -33,29 +33,29 @@ The approximate location of the scanning device. It may not always be accurate a
 
 <h3>Total Scans</h3>
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png" alt="Total scans chart - QR code generator ScanMeFindMe"></p>
-<p>This chart shows you the number of total and unique scans that you're getting daily.</p>
+<p>This chart shows the number of total and unique scans that you're getting everyday.</p>
 <p>Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device. </p>
 
 <p>We use a special method where our server tags a device with a 'fingerprint' when it first scans a QR code.
     If the server detects a new scan with the same 'fingerprint', it is added to the total scans but not the unique scans.</p>
 
 <p>You'll find this chart helpful when you want to know how many people are actually responding to your campaign.
-    The unique scans will paint a clearer picture of how your campaign fared.</p>
+    The unique scans will paint a clearer picture of how your campaign is performing.</p>
  <h3>Scans By Months</h3>
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png" alt="Scans by month chart - QR code generator ScanMeFindMe"></p>
 
-<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted according to months.
-    It helps you to identify months that bring you the most QR code traffic. </p>
+<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted by month.
+    It helps identify the months that bring your business the most QR code traffic. </p>
 
 <h3>Scans By Hour Of The Day</h3>
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png" alt="Scans by hour of the day chart - QR code generator ScanMeFindMe"></p>
 <p>You can also track QR scans by hours of the day. This is useful if you're running a restaurant or e-commerce where
-    customers peak during different times. It helps you to run a more targeted campaign during the peak hours.</p>
+    customers peak during different times. It helps to run a more targeted campaign during the peak hours.</p>
 
 <h3>Scans By OS</h3>
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png" alt="Scans by OS chart - QR code generator ScanMeFindMe"></p>
-<p>Our server could also pick up which operating system the users are using when scanning the QR code. Usually, iOS and
+<p>Our server can also pick up which operating system the users are using when scanning the QR code. Usually, iOS and
     Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics
     help when you're getting users to download an app for a specific OS. </p>
 
@@ -63,8 +63,8 @@ The approximate location of the scanning device. It may not always be accurate a
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png" alt="Scans by language chart - QR code generator ScanMeFindMe"></p>
 
 <p>This chart will show what is the primary language installed on your clients devices. This is usually the language
-they are most comfortable with. And if you find that a lot of your clients prefer French you might offer
-some materials in French for them.</p>
+they are most comfortable with. This can be useful as if you find that a lot of your clients prefer French, for example, you might offer
+some materials in French to increase sales and popularity.</p>
 
 
 <h3>Scans By Country and City</h3>
@@ -75,9 +75,9 @@ some materials in French for them.</p>
     chart only gives an approximate location of where the scans originated. </p>
 
 <p>You may occasionally see scans from a different city or even country and it may seem surprising,
-    especially if your QR code could not have possibly moved there
-(for example, it is a sticker on your office entrance). This usually means that somebody with a mobile phone from
-that country scanned your code while being on mobile data in roaming.</p>
+    especially if your QR code could not have possibly gotten there
+(for example, if it is a sticker on your office entrance). This usually means that somebody with a mobile phone from
+that country scanned your code while being on mobile data roaming.</p>
 
 
 <h3>Last Scans</h3>
@@ -94,6 +94,6 @@ that country scanned your code while being on mobile data in roaming.</p>
 <p>The Last Scans table can be downloaded in CSV (comma-separated values) format, which can be used for in-depth analysis.</p>
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png" alt="Download scans statistics - QR code generator ScanMeFindMe"></p>
 
-<p>You don't want to miss out on the various scan statistics that can be used to drive your marketing campaign in the right direction.</p>
+<p>You don't want to miss out on the scan statistics that can drive your marketing campaign in the right direction.</p>
 
 <p><a href="#pro">Sign up for a ScanMeFindMe PRO account now.</a></p>
