@@ -37,7 +37,7 @@ Vcard stores more information and is commonly used for sharing contacts. MeCard 
 <table>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 1 - qr vcard.png" width="150" height="150" alt="QR code for contact in vCard format - ScanMeFindMe">
     </td>
-        <td>
+        <td class="notranslate">
 <pre>BEGIN:VCARD
 VERSION:4.0
 FN:ScanMeFindMe
@@ -54,7 +54,7 @@ END:VCARD</pre>
 
 <table>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 2 - mecard.png" width="150" height="150" alt="QR code for contact in MeCard format - ScanMeFindMe"></td>
-        <td>
+        <td class="notranslate">
             <pre>MECARD:N:,ScanMeFindMe;URL:https://scanmefindme.com;;</pre>
         </td>
     </tr>

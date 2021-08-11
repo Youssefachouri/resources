@@ -64,9 +64,10 @@ Learn how to add catchy phrases with QR codes captions. Choose from pre-defined 
 <p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png" alt="Editing QR code template - ScanMeFindMe"></p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong>&lt;rect&gt;</strong> element with <strong>id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
-<p>You can also include <strong>&lt;text&gt;</strong> elements, if those elements have an <strong>id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such &lt;text&gt; elements
-contain the <strong>font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.
+<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template.
+    Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements
+contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.
 </p>
 
 <p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="externallink">CairoSVG</a> library to convert 
