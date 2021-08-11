@@ -2,7 +2,7 @@
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-action to boost conversion.
+Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
 
 --- Short content 1 ---
 
@@ -11,7 +11,7 @@ Learn how to add catchy phrases with QR codes captions. Choose from pre-defined 
 ----------
 
 <p>For marketers, everything comes out to conversion. If you have a brilliant ad designed,
-    nothing matters if the audience doesn't reach out in one way or another.</p>
+    it's for nothing if the audience doesn't reach out in one way or another.</p>
 
 <p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do
     justice to the creative works done on marketing materials.</p>
@@ -27,10 +27,10 @@ Learn how to add catchy phrases with QR codes captions. Choose from pre-defined 
     People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
 
 <p>However, a 'Scan Me' text and a unique border draw their attention to the QR code.
-    The CTA leaves no doubt on what the audience should do next: scan on the QR code. </p>
+    The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
 
 <p>You can also add text that previews what's on the other side of the QR code. 
-    For example, an App Store text tells the users that they're about to be redirected to your app on 
+    For example, an 'App Store' text tells the users that they're about to be redirected to your app on 
     Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
 
 <p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. 
@@ -45,7 +45,7 @@ Learn how to add catchy phrases with QR codes captions. Choose from pre-defined 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png" alt="QR code for instagram handle - ScanMeFindMe"></p>
 
 <p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion 
-    when you're sorting them out. Imagine when you're about to print dozens of QR codes in different materials, 
+    when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, 
     and you'll need to scan them for verification manually. By having captions and borders, 
     you'll know what they are meant for just by their visual appearance.</p>
 <h2>How To Create Your Own Templates</h2>
