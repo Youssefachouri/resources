@@ -23,4 +23,4 @@ jobs:
         run: aws s3 sync ./texts/ s3://smfm-userdata-staging/texts/ --delete
 
       - name: Deploy media files to S3 bucket staging
-        run: aws s3 sync ./media/resources/ s3://smfm-userdata-staging/media/blog/ --delete
+        run: aws s3 sync ./media/ s3://smfm-userdata-staging/media/ --delete
