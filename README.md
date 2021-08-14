@@ -7,6 +7,6 @@ There is a separate folder for each language. The main language is "en" (English
 language strings. You can use https://github.com/jcbvm/i18n-editor as a GUI editor
 
 
-## resources/
+## articles/
 
 Articles. Each article has meta information in the beginning of the file that will be excluded from article contents.
