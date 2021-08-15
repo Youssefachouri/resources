@@ -85,8 +85,9 @@
     "hideadditional": "Zusätzliche Parameter ausblenden",
     "info": "Die Info",
     "launchpro": "<p>Erstellen Sie in Sekundenschnelle ein PRO-Konto und genießen Sie eine 14-tägige kostenlose Testversion.</p><p>Bevor Sie mit dem PRO fortfahren, lesen Sie die <a href=\"#about:privacy\">Datenschutzerklärung</a> und <a href=\"#about:tos\">Nutzungsbedingungen</a></p>",
-    "loading": "Wird geladen...",
+    "loading": "Wird geladen",
     "metadesc": "Erstellen Sie attraktive QR-Codes, wählen Sie Ihren Stil, laden Sie als SVG, PNG, PDF oder PS herunter. QR-Code-API, scannt Analysen. Einfach zu bedienender Online QR Code Generator",
+    "metatitle": "QR-Code-Generator - kostenlose QR-Codes mit Logos und Text",
     "poorcontrast": "Dieser QR-Code wird von einigen Geräten möglicherweise nicht erkannt. Versuchen Sie, einige Stil- oder Farbeinstellungen zu ändern",
     "pricing": {
       "additionaluser": "zusätzlicher Benutzer",
@@ -346,6 +347,7 @@
       "notags": "Ausgewählte Codes enthalten keine Tags",
       "os": "Betriebssystem",
       "platform": "Plattform",
+      "previewnotavailable": "Vorschau ist nicht verfügbar, die Benutzer werden sofort zur Ziel-URL weitergeleitet",
       "qrcode": "QR-Code",
       "region": "Region",
       "remove": "Entfernen",

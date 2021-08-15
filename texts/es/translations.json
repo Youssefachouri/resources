@@ -85,7 +85,9 @@
     "hideadditional": "Ocultar parámetros adicionales",
     "info": "Info",
     "launchpro": "<p> Cree una cuenta PRO en segundos y comience a disfrutar de 14 días de prueba absolutamente gratis. </p> <p> Antes de continuar con PRO, asegúrese de leer la <a href=\"#about:privacy\"> Política de privacidad < / a> y <a href=\"#about:tos\"> Condiciones de servicio </a> </p>",
+    "loading": "Cargando",
     "metadesc": "Crea atractivos códigos QR, elige tu estilo, descárgalos como SVG, PNG, PDF o PS. API de código QR, análisis de análisis. Generador de código QR en línea fácil de usar",
+    "metatitle": "Generador de códigos QR: códigos QR gratuitos con logotipos y texto",
     "poorcontrast": "Es posible que algunos dispositivos no reconozcan este código QR, intente cambiar algunos ajustes de estilo o color",
     "pricing": {
       "additionaluser": "usuario adicional",
@@ -345,6 +347,7 @@
       "notags": "No hay etiquetas en los códigos seleccionados",
       "os": "SO",
       "platform": "Plataforma",
+      "previewnotavailable": "La vista previa no está disponible, los usuarios serán redirigidos inmediatamente a la URL de destino",
       "qrcode": "Código QR",
       "region": "Región",
       "remove": "Eliminar",
