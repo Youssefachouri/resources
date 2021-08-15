@@ -13,7 +13,8 @@ Store personal contact information, social media handles, and photo/logo with a 
 <p>If you expect customers to manually store your information from business cards, you need to rethink your branding strategy. Most people find having to save the contact details from a paper business card onto a mobile phone annoying and repetitive.</p>
 
 <p>Besides, did you know that
-    <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="externallink" target="_blank">88% of business cards</a>
+    <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0"
+    class="smfm-externallink" target="_blank" rel="nofollow">88% of business cards</a>
     are thrown off within a week after they are handed out?</p>
 
 <p>That's a staggering number of business cards gone to waste. Not only does it go against many companies' environmental commitment, but it also explains why some clients never reach out to you even when they promised to. </p>

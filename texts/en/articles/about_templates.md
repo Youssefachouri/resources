@@ -70,7 +70,7 @@ Learn how to add catchy phrases with QR codes captions. Choose from pre-defined 
 contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.
 </p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="externallink">CairoSVG</a> library to convert 
+<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert
     generated QR codes to PNG, PDF and PS formats.
     Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during
     conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
@@ -79,7 +79,7 @@ contain the <strong class="notranslate">font-size</strong> attribute, you'll be 
 
 <p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts.
     You can find the fonts that are pre-installed on the server in our Github repository:
-    <a href="https://github.com/ScanMeFindMe/fonts" class="externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+    <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
 
 <p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request.
     Generally, we prefer fonts that support multiple languages.</p>

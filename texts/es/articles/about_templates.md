@@ -69,7 +69,7 @@ Aprenda a agregar frases pegadizas con subtítulos de códigos QR. Elija entre p
 contienen el atributo <strong>tamaño de fuente</strong>, podrá cambiar el tamaño de fuente para cada código QR utilizando la misma plantilla.
 </p>
 
-<p>¡Cuidado con algunas limitaciones! ScanMeFindMe utiliza la biblioteca <a href="https://cairosvg.org/" class="externallink">CairoSVG</a> para convertir
+<p>¡Cuidado con algunas limitaciones! ScanMeFindMe utiliza la biblioteca <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> para convertir
     códigos QR generados a PNG, PDF y formatos PS.
 Es posible que algunos elementos SVG complicados no se conviertan correctamente. Por razones de seguridad, la directiva @include se ignora durante
 conversión, por lo que no puede incluir ninguna URL externa (con la excepción de las fuentes que instalamos en nuestro servidor).</p>
@@ -78,7 +78,7 @@ conversión, por lo que no puede incluir ninguna URL externa (con la excepción 
 
 <p>En lugar de entrar en una interminable discusión entre serif y san serif, le permitimos decidir qué es lo mejor con varias fuentes de uso común.
      Puede encontrar las fuentes que están preinstaladas en el servidor en nuestro repositorio de Github:
-     <a href="https://github.com/ScanMeFindMe/fonts" class="externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+     <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
 
 <p>Si cree que nos estamos perdiendo una fuente interesante para otros especialistas en marketing, puede enviar una solicitud de extracción.
      Generalmente, preferimos fuentes que admitan varios idiomas.</p>

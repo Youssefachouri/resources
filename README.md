@@ -44,3 +44,20 @@ Normally articles meta information have the same sections as respective article 
 Every time the title is changed the previous title has to be added to the "Previous titles"
 section. It will be used to create links (aliases) to the articles so that the previous
 URLs continue to work.
+
+## How to add links to texts
+
+External links:
+
+```markdown
+<a href="https://..." class="smfm-externallink" target="_blank" rel="nofollow">text</a>
+```
+
+Local links:
+- `<a href="#static:url">` - link to the demo QR generator
+- `<a href="#about:product">` - link to one of the information pages (product/api/tos/privacy/pricing)
+- `<a href="#artcle:about_statistics">` - link to another article
+- `<a href="#pro">` - call-to-action link ("Try PRO now")
+
+Such links will be automatically substituted with the proper links in the current language to the
+correct page URL.

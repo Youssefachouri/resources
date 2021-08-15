@@ -69,7 +69,7 @@ Erfahren Sie, wie Sie mit QR-Code-Untertiteln eingängige Phrasen hinzufügen. W
 das Attribut <strong>font-size</strong> enthalten, können Sie die Schriftgröße für jeden QR-Code mit derselben Vorlage ändern.
 </p>
 
-<p>Achten Sie auf einige Einschränkungen! ScanMeFindMe verwendet die Bibliothek <a href="https://cairosvg.org/" class="externallink">CairoSVG</a> zum Konvertieren
+<p>Achten Sie auf einige Einschränkungen! ScanMeFindMe verwendet die Bibliothek <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> zum Konvertieren
     generierte QR-Codes zu PNG, PDF und PS-Formate.
 Einige komplizierte SVG-Elemente werden möglicherweise nicht korrekt konvertiert. Aus Sicherheitsgründen wird die @include-Direktive ignoriert während
 Konvertierung, sodass Sie keine externen URLs einbinden können (mit Ausnahme der Schriftarten, die wir auf unserem Server installiert haben).</p>
@@ -78,7 +78,7 @@ Konvertierung, sodass Sie keine externen URLs einbinden können (mit Ausnahme de
 
 <p>Anstatt auf endlose Argumente zwischen Serifen und San-Serifen einzugehen, lassen wir Sie entscheiden, welche von mehreren häufig verwendeten Schriftarten die beste ist.
      Die auf dem Server vorinstallierten Schriftarten finden Sie in unserem Github-Repository:
-     <a href="https://github.com/ScanMeFindMe/fonts" class="externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+     <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
 
 <p>Wenn Sie der Meinung sind, dass wir eine interessante Schriftart für andere Vermarkter verpassen, können Sie eine Pull-Anfrage einreichen.
      Im Allgemeinen bevorzugen wir Schriftarten, die mehrere Sprachen unterstützen.</p>

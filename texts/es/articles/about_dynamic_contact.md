@@ -13,7 +13,8 @@ Almacene información de contacto personal, identificadores de redes sociales y 
 <p>Si espera que los clientes almacenen manualmente su información de tarjetas de presentación, debe reconsiderar su estrategia de marca. A la mayoría de las personas les resulta complicado guardar los datos de contacto de una tarjeta de presentación impresa.</p>
 
 <p>Además, ¿sabías que
-    <a href = "https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs .5xe9i0 "class =" externallink "target =" _ blank ">88% de las tarjetas de visita</a>
+    <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0"
+        class="smfm-externallink" target="_blank" rel="nofollow">88% de las tarjetas de visita</a>
     se desechan dentro de una semana después de que se entregan?</p>
 
 <p>Es una cantidad asombrosa de tarjetas de visita que se desperdician. No solo va en contra del compromiso medioambiental de muchas empresas, sino que también explica por qué algunos clientes nunca se comunican con usted, incluso cuando lo prometieron.</p>

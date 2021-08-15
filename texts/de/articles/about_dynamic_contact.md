@@ -13,7 +13,8 @@ Speichern Sie persönliche Kontaktinformationen, Social-Media-Handles und Foto/L
 <p>Wenn Sie erwarten, dass Kunden Ihre Informationen von Visitenkarten manuell speichern, müssen Sie Ihre Markenstrategie überdenken. Die meisten Leute finden es mühsam, Kontaktdaten von einer Papiervisitenkarte zu speichern.</p>
 
 <p>Außerdem, wusstest du das?
-    <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="externallink" target="_blank">88% der Visitenkarten</a>
+    <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0"
+        class="smfm-externallink" target="_blank" rel="nofollow">88% der Visitenkarten</a>
     werden innerhalb einer Woche nach der Ausgabe abgeworfen?</p>
 
 <p>So viele Visitenkarten werden verschwendet. Dies widerspricht nicht nur dem Umweltengagement vieler Unternehmen, sondern erklärt auch, warum einige Kunden Sie nie kontaktieren, obwohl sie es versprochen haben.</p>
