@@ -116,7 +116,7 @@ Statische QR-Codes enthalten nicht bearbeitbare, einfache Informationen wie eine
 
 <p>Sie können dynamische Codes, die Sie im Dashboard erstellt haben, anzeigen, sortieren, markieren, filtern und suchen.</p>
 
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png" alt="Generierte QR-Codes verwalten - ScanMeFindMe"></ p>
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png" alt="Generierte QR-Codes verwalten - ScanMeFindMe"></p>
 
 <p>Einer der Gründe, warum dynamischer QR-Code ein effektives Marketinginstrument ist, ist die Möglichkeit zu verfolgen, wer den QR wann und wo gescannt hat. Sie haben Zugriff auf Statistiken, Diagramme und Berichte, die Ihnen helfen, Ihre Targeting-Strategien zu verbessern.</p>
 

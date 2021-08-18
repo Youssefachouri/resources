@@ -38,7 +38,7 @@ Almacene información de contacto personal, identificadores de redes sociales y 
     Cuando escanea un código QR estático, puede guardar la información de contacto en su teléfono inteligente.</p>
 
 <p><a href="#article:about_static">Los códigos QR estáticos</a> codifican la información directamente, lo que limita la cantidad de información que puede almacenar. Deberá utilizar un código QR dinámico para incluir información adicional como una foto / logotipo o identificadores de redes sociales.</p>
-<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png" alt="Campos de la tarjeta de contacto - ScanMeFindMe"> </ p >
+<p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png" alt="Campos de la tarjeta de contacto - ScanMeFindMe"> </p>
 
 
 <p>Los códigos QR dinámicos funcionan de manera diferente a su contraparte estática. En lugar de codificar los datos de contacto, almacena la información en una página web e incrusta una URL abreviada en el código QR.</p>

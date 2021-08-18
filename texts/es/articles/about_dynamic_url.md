@@ -29,7 +29,7 @@ Genere un alias abreviado de la URL de su página web y realice un seguimiento d
 <h2>Cómo realizar un seguimiento de las vistas con código QR</h2>
 <p>Cuando genera un código QR dinámico con nuestro <a href="#pro">generador de QR PRO</a>, se vincula automáticamente a nuestras herramientas de seguimiento.</p>
 
-<p>Cuando un usuario escanea el código QR y es redirigido a la página web de destino, <a href="#static:url">ScanMeFindMe</a> rastrea las métricas clave del dispositivo y las guarda en el panel. </ p >
+<p>Cuando un usuario escanea el código QR y es redirigido a la página web de destino, <a href="#static:url">ScanMeFindMe</a> rastrea las métricas clave del dispositivo y las guarda en el panel. </p>
 
 <p class="imageholder"><img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png" alt="Ejemplo de estadísticas de escaneos de códigos QR - ScanMeFindMe"></p>
 
