@@ -32,7 +32,10 @@ jobs:
             export file=$(echo $x | awk -F '/' '{print $4}' | awk -F '.' '{print $1}')
             echo "Updating template ${file}_${lang}..."
             export subject=$(head -1 $x)
-            export body=$(tail -n +2 $x)
+            cp common/emails/bodyprefix.md body.md
+            tail -n +2 $x >> body.md
+            cat common/emails/bodypostfix.md >> body.md
+            export body=$(cat body.md)
             jq -n --arg tn "${file}_${lang}" --arg sb "$subject" --arg bd "$body" \
                 '{Template: {TemplateName: $tn, SubjectPart: $sb, HtmlPart: $bd}}' \
                 > temp.json
