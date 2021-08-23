@@ -24,3 +24,18 @@ jobs:
 
       - name: Deploy media files to S3 bucket production
         run: aws s3 sync ./media/ s3://smfm-userdata/media/ --delete
+
+      - name: Updating email templates
+        run: |
+          for x in texts/**/emails/*.md; do
+            export lang=$(echo $x | awk -F '/' '{print $2}')
+            export file=$(echo $x | awk -F '/' '{print $4}' | awk -F '.' '{print $1}')
+            echo "Updating template ${file}_${lang}..."
+            export subject=$(head -1 $x)
+            export body=$(tail -n +2 $x)
+            jq -n --arg tn "${file}_${lang}" --arg sb "$subject" --arg bd "$body" \
+                '{Template: {TemplateName: $tn, SubjectPart: $sb, HtmlPart: $bd}}' \
+                > temp.json
+            aws ses create-template --cli-input-json file://temp.json 2> /dev/null || true
+            aws ses update-template --cli-input-json file://temp.json
+          done
