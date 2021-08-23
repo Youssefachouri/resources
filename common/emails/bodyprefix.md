@@ -1,4 +1,4 @@
-<html lang="{lang}">
+<html lang="{{lang}}">
 <head>
 <style type="text/css">
   .mainbody h1, .mainbody h2 { font-size: 24px; line-height: 32px; }
