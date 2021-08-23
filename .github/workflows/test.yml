@@ -17,3 +17,10 @@ jobs:
           echo "hello"
           pwd
           ls -la
+          export lang=en
+          export file=trialstart
+          export subject=$(head -1 texts/en/email/trialstart.md)
+          echo "--SUBJECT--"
+          echo $subject
+          export body=$(tail -n +2 texts/en/email/trialstart.md)
+          echo ::set-output name=json_var::'[{ "name": "test", "client_payload": "111" }, { "name": "test2", "client_payload": "222" }] '
