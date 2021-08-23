@@ -27,3 +27,9 @@ jobs:
               '{Template: {TemplateName: $tn, SubjectPart: $sb, HtmlPart: $bd}}' \
               > $tempfile
           cat $tempfile
+
+          for x in texts/**/email/*.md; do
+            export lang=$(echo $x | awk -F '/' '{print $2}')
+            export file=$(echo $x | awk -F '/' '{print $4}' | awk -F '.' '{print $1}')
+            echo "---------${file}_${lang}-------"
+          done
