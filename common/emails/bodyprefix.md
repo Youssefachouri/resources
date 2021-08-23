@@ -1,8 +1,9 @@
 <html lang="{lang}">
 <head>
 <style type="text/css">
-  h1, h2 { font-size: 24px; line-height: 32px; }
+  .mainbody h1, .mainbody h2 { font-size: 24px; line-height: 32px; }
   .mainbody h1, .mainbody h2, .mainbody p {text-align: center;}
+  .mainbody p {font-size: 16px;}
 </style>
 </head>
 <body>
