@@ -45,6 +45,18 @@ Every time the title is changed the previous title has to be added to the "Previ
 section. It will be used to create links (aliases) to the articles so that the previous
 URLs continue to work.
 
+## texts/{lang}/email/{template}.json
+
+Email templates
+
+See also https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-personalized-email-api.html
+
+Templates and available placeholders:
+- trialended - {name}
+- trialendssoon - {name}, {expires}
+- trialstart - {name}, {expires}
+
+
 ## How to add links to texts
 
 External links:

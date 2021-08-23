@@ -1,0 +1,19 @@
+name: Test
+
+on:
+  push:
+    branches:
+      - emails
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Test
+        run: |
+          echo "hello"
+          pwd
+          ls -la
