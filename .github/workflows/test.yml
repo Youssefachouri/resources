@@ -23,4 +23,9 @@ jobs:
           echo "--SUBJECT--"
           echo $subject
           export body=$(tail -n +2 texts/en/email/trialstart.md)
+          echo "--BODY--"
+          echo $body
+          export tmpl=json_var::'{"Template":{"TemplateName":"hi"}}'
+          echo "--TEMPLATE--"
+          echo $tmpl
           echo ::set-output name=json_var::'[{ "name": "test", "client_payload": "111" }, { "name": "test2", "client_payload": "222" }] '
