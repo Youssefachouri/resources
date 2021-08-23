@@ -24,7 +24,6 @@ jobs:
           export body=$(tail -n +2 texts/${lang}/email/${file}.md)
           export tempfile="${file}_${lang}.json"
           jq -n --arg tn "${file}_${lang}" --arg sb "$subject" --arg bd "$body" \
-              '{Template: {TemplateName: $tn, SubjectPart: $sb, HtmlPart: $bd}}' ) \
+              '{Template: {TemplateName: $tn, SubjectPart: $sb, HtmlPart: $bd}}' \
               > $tempfile
           cat $tempfile
-          
