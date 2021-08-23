@@ -19,7 +19,7 @@ jobs:
           ls -la
           export lang=en
           export file=trialstart
-          export subject=$(head -1 texts/en/email/trialstart.md)
+          export subject=$(head -1 texts/${lang}/email/${file}.md)
           echo "--SUBJECT--"
           echo $subject
           export body=$(tail -n +2 texts/en/email/trialstart.md)
