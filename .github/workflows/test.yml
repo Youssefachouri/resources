@@ -14,22 +14,15 @@ jobs:
 
       - name: Test
         run: |
-          echo "hello"
-          pwd
-          ls -la
-          export lang=en
-          export file=trialstart
-          echo "---------${file}_${lang}-------"
-          export subject=$(head -1 texts/${lang}/email/${file}.md)
-          export body=$(tail -n +2 texts/${lang}/email/${file}.md)
-          export tempfile="${file}_${lang}.json"
-          jq -n --arg tn "${file}_${lang}" --arg sb "$subject" --arg bd "$body" \
-              '{Template: {TemplateName: $tn, SubjectPart: $sb, HtmlPart: $bd}}' \
-              > $tempfile
-          cat $tempfile
-
           for x in texts/**/email/*.md; do
             export lang=$(echo $x | awk -F '/' '{print $2}')
             export file=$(echo $x | awk -F '/' '{print $4}' | awk -F '.' '{print $1}')
             echo "---------${file}_${lang}-------"
+            export subject=$(head -1 $x)
+            export body=$(tail -n +2 $x)
+            export tempfile="${file}_${lang}.json"
+            jq -n --arg tn "${file}_${lang}" --arg sb "$subject" --arg bd "$body" \
+                '{Template: {TemplateName: $tn, SubjectPart: $sb, HtmlPart: $bd}}' \
+                > $tempfile
+            cat $tempfile
           done
