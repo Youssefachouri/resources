@@ -45,6 +45,21 @@ Every time the title is changed the previous title has to be added to the "Previ
 section. It will be used to create links (aliases) to the articles so that the previous
 URLs continue to work.
 
+## texts/{lang}/emails/{template}.md
+
+Email templates
+
+First line of each file is the subject of an email, the rest of the file is the body of the email.
+
+Templates and available placeholders:
+- trialended - {{name}}
+- trialendssoon - {{name}}, {{expires}}
+- trialstart - {{name}}, {{expires}}
+
+Files for emails may be stored in `media/emails`, the prefix and postfix for email body are defined in
+`common/emails/bodyprefix.md` and `common/emails/bodypostfix.md` respectively (they are the same for
+all languages), the {{lang}} placeholder is available there.
+
 ## How to add links to texts
 
 External links:
