@@ -25,7 +25,6 @@ file `media/articles/about_dynamic_contact/files/img2.png` can be included as:
 
 Language strings. You can use https://github.com/jcbvm/i18n-editor as a GUI editor.
 
-
 ## texts/{lang}/articles/{articlename}.md
 
 Articles. Each article has meta information in the beginning of the file that will be excluded from article contents.
@@ -44,6 +43,37 @@ Normally articles meta information have the same sections as respective article 
 Every time the title is changed the previous title has to be added to the "Previous titles"
 section. It will be used to create links (aliases) to the articles so that the previous
 URLs continue to work.
+
+## texts/{lang}/static/{shortname}.md
+
+Types of static QR codes.
+
+First line should have `<h1>` tag with the title and also the name for the tab in the square brackets.
+
+Meta information can have the following sections:
+- Text above the form - normally will be wrapped in `<p class="smfm-hint">`
+- Text below the form - normally will be wrapped in `<p class="font-italic smfm-hint">`
+- Meta description
+- Meta title
+- Previous titles
+
+Normally meta information have the same sections as respective file in English.
+
+Every time the title is changed the previous title has to be added to the "Previous titles"
+section. It will be used to create links (aliases) so that the previous
+URLs continue to work.
+
+## texts/{lang}/dynamic/{shortname}.md
+
+Types of dynamic QR codes.
+
+First line should have `<h1>` tag with the full title and also a short title in the square brackets.
+
+Meta information can have the following sections:
+- Description
+
+Normally meta information have the same sections as respective file in English. There is no need to
+maintain the history of previous titles here.
 
 ## texts/{lang}/emails/{template}.md
 
