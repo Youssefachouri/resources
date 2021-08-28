@@ -86,6 +86,7 @@
     "info": "Info",
     "launchpro": "<p>Create a PRO account in seconds and start enjoying 14 days trial absolutely for free.</p><p>Before proceeding to the PRO make sure that you read <a href=\"#about:privacy\">Privacy policy</a> and <a href=\"#about:tos\">Terms of service</a></p>",
     "loading": "Loading",
+    "menu": "Menu",
     "metadesc": "Create attractive QR codes, choose your style, download as SVG, PNG, PDF or PS. QR code API, scans analytics. Easy to use online QR code generator",
     "metatitle": "QR Code Generator - free QR codes with logos and text",
     "poorcontrast": "This QR code may not be recognised by some devices, try changing style or color settings",
@@ -140,6 +141,9 @@
       "minlengthexceeded": "Can not be shorter than {minlength} characters",
       "nospaces": "Password can not starts and ends with whitespaces",
       "passwordsmatch": "Passwords do not match",
+      "pathcontain": "Path can only contain latin characters, digits, or symbols '-', '_'",
+      "pathminlength": "Path has to be at least {num} characters",
+      "pathstartend": "Path can start and end with only letters or digits",
       "vcardrequired": "Either First name or Last name or Organisation is required"
     },
     "viewqr": "View QR code",
@@ -156,6 +160,31 @@
   },
   "pro": {
     "all": "All",
+    "api": {
+      "addcomment": "Add comment",
+      "addfiles": "Add files",
+      "addfolder": "Add folder",
+      "apikey": "API key",
+      "apikeys": "API keys",
+      "commands": "Commands",
+      "comment": "Comment",
+      "confirmdelete": "Are you sure you want to delete this key?",
+      "created": "Created",
+      "createdesc": "Create a static or dynamic QR code",
+      "createnewkey": "Create new API key",
+      "delete": "Delete",
+      "deletekey": "Delete key",
+      "descriptionapikeys": "You can create as many API key as you need. Usually it is recommended to create separate API keys for each person who uses them and also separate key for each automated system. In this case you can always delete only one key if it was compromised and other people will not be affected. Add the comments to the keys to remember what they are for.",
+      "descriptiontempfiles": "<p>Temporary files can only be used in the API calls and are automatically deleted after two days.</p><p>Call API to add more files or upload them directly here:</p>",
+      "documentation": "Documentation",
+      "endpoint": "Endpoint",
+      "nofolderupload": "Your browser does not support folder upload",
+      "nokeys": "You don't have any API keys yet",
+      "quickreference": "Quick reference",
+      "tempfiles": "Temporary files",
+      "timesused": "Times used",
+      "uploaddesc": "Create a static or dynamic QR code"
+    },
     "billing": {
       "addresscity": "City",
       "addresscountry": "Country",
@@ -362,7 +391,17 @@
     "rowsperpage": "Rows per page",
     "save": "Save changes",
     "searchqr": "Search qr code",
-    "staticcodes": "Static codes"
+    "shorturl": {
+      "available": "Available",
+      "changebtn": "Change",
+      "changeshorturl": "Change short URL",
+      "description": "Please make sure not to change the URL after you printed the QR code, otherwise it will not work",
+      "domain": "Domain",
+      "path": "Path"
+    },
+    "staticcodes": "Static codes",
+    "togglemenu": "Toggle menu",
+    "togglenavbar": "Toggle navbar"
   },
   "qrstyle": {
     "bgcolor": "Background",
