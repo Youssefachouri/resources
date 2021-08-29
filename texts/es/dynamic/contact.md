@@ -1,9 +1,11 @@
 <h1>[Create a contact card] Create a QR code for a Contact card</h1>
 
---- Description ---
+--- Example header ---
 
-Share the company or person's contact information with detailed information and
-maybe even photo or logo. Place the QR code on business cards or information
-leaflets. Track how often it was scanned
+Contact card example
 
 ----------
+
+<p>
+<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png"
+width="500" height="600" alt="Contact card example - ScanMeFindMe"></p>

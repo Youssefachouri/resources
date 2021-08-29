@@ -70,7 +70,7 @@ Types of dynamic QR codes.
 First line should have `<h1>` tag with the full title and also a short title in the square brackets.
 
 Meta information can have the following sections:
-- Description
+- Example header
 
 Normally meta information have the same sections as respective file in English. There is no need to
 maintain the history of previous titles here.
