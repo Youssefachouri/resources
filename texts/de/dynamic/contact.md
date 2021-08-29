@@ -6,4 +6,4 @@ Beispiel einer Kontaktkarte
 
 ----------
 
-<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="500" height="600" alt="Kontaktkartenbeispiel - ScanMeFindMe">
+<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="420" height="600" alt="Kontaktkartenbeispiel - ScanMeFindMe">
