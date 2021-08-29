@@ -6,6 +6,4 @@ Ejemplo de tarjeta de contacto
 
 ----------
 
-<p>
-<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png"
-width="500" height="600" alt="Ejemplo de tarjeta de contacto: ScanMeFindMe"></p>
+<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="500" height="600" alt="Ejemplo de tarjeta de contacto: ScanMeFindMe">

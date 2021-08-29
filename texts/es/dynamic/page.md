@@ -6,6 +6,4 @@ Ejemplo de página con archivos
 
 ----------
 
-<p>
-<img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png"
-width="500" height="600" alt="Ejemplo de página con archivos - ScanMeFindMe"></p>
+<img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width="500" height="600" alt="Ejemplo de página con archivos - ScanMeFindMe">
