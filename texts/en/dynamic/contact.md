@@ -6,4 +6,4 @@ Contact card example
 
 ----------
 
-<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="100%" height="auto"  alt="Contact card example - ScanMeFindMe">
+<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="100%" height="auto" alt="Contact card example - ScanMeFindMe">
