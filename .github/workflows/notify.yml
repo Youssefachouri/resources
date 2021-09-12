@@ -1,0 +1,18 @@
+name: Notify resources_ci about new commits
+
+on:
+  push:
+    branches:
+      - gha
+
+jobs:
+  notify:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create repository dispatch event
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          gh api repos/ScanMeFindMe/resources_ci/dispatches \
+              --raw-field event_type=mytrigger
