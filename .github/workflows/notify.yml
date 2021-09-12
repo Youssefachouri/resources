@@ -15,4 +15,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           gh api repos/ScanMeFindMe/resources_ci/dispatches \
-              --raw-field event_type=mytrigger
+              --raw-field event_type=deploy_staging
