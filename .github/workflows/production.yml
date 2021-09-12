@@ -1,4 +1,4 @@
-name: Upload Website
+name: Notify resources_ci about new commits in production
 
 on:
   push:
@@ -6,39 +6,13 @@ on:
       - production
 
 jobs:
-  deploy:
-    runs-on: ubuntu-latest
+  notify:
+    runs-on: ubuntu-20.04
     steps:
-      - name: Checkout
-        uses: actions/checkout@v1
-
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: eu-west-1
-
-      - name: Deploy static site to S3 bucket production
-        run: aws s3 sync ./texts/ s3://smfm-userdata/texts/ --delete
-
-      - name: Deploy media files to S3 bucket production
-        run: aws s3 sync ./media/ s3://smfm-userdata/media/ --delete
-
-      - name: Updating email templates
+      - uses: actions/checkout@v2
+      - name: Create repository dispatch event deploy_prod
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          for x in texts/**/emails/*.md; do
-            export lang=$(echo $x | awk -F '/' '{print $2}')
-            export file=$(echo $x | awk -F '/' '{print $4}' | awk -F '.' '{print $1}')
-            echo "Updating template ${file}_${lang}..."
-            export subject=$(head -1 $x)
-            cp common/emails/bodyprefix.md body.md
-            tail -n +2 $x >> body.md
-            cat common/emails/bodypostfix.md >> body.md
-            export body=$(cat body.md)
-            jq -n --arg tn "${file}_${lang}" --arg sb "$subject" --arg bd "$body" \
-                '{Template: {TemplateName: $tn, SubjectPart: $sb, HtmlPart: $bd}}' \
-                > temp.json
-            aws ses create-template --cli-input-json file://temp.json 2> /dev/null || true
-            aws ses update-template --cli-input-json file://temp.json
-          done
+          gh api repos/ScanMeFindMe/resources_ci/dispatches \
+              --raw-field event_type=deploy_prod

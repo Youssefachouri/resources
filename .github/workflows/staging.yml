@@ -1,4 +1,4 @@
-name: Upload Website to staging
+name: Notify resources_ci about new commits in master
 
 on:
   push:
@@ -6,21 +6,13 @@ on:
       - master
 
 jobs:
-  deploy:
-    runs-on: ubuntu-latest
+  notify:
+    runs-on: ubuntu-20.04
     steps:
-      - name: Checkout
-        uses: actions/checkout@v1
-
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: eu-west-1
-
-      - name: Deploy static site to S3 bucket staging
-        run: aws s3 sync ./texts/ s3://smfm-userdata-staging/texts/ --delete
-
-      - name: Deploy media files to S3 bucket staging
-        run: aws s3 sync ./media/ s3://smfm-userdata-staging/media/ --delete
+      - uses: actions/checkout@v2
+      - name: Create repository dispatch event deploy_staging
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          gh api repos/ScanMeFindMe/resources_ci/dispatches \
+              --raw-field event_type=deploy_staging
