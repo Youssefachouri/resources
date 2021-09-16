@@ -22,4 +22,4 @@ Short URL example
 
 <p><img
 src="https://media.scanmefindme.com/dynamic/url/url-popup-dahsboard.png"
-width="420" height="274" alt="QR code scans statistics - ScanMeFindMe"></p>
+width="100%" height="auto" alt="QR code scans statistics - ScanMeFindMe"></p>
