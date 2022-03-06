@@ -1,0 +1,46 @@
+<html>
+<head>
+    <script src="make_an_og.js" type="text/javascript"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+    </style>
+
+</head>
+<body>
+<div>
+    <textarea id="caption" rows="5" cols="80">line 1
+line 2</textarea><br>
+    Caption size: <input type="text" id="captionsize" value="70" size="5"><br>
+    <input type="text" id="qrcodegenerator" value="QR code generator"><br>
+    <select id="logoselect" onchange="changeselect()">
+        <option value="about_contactformats">about_contactformats</option>
+        <option value="about_dynamic_contact">about_dynamic_contact</option>
+        <option value="about_dynamic_page">about_dynamic_page</option>
+        <option value="about_dynamic_url">about_dynamic_url</option>
+        <option value="about_logos">about_logos</option>
+        <option value="about_presets">about_presets</option>
+        <option value="about_static">about_static</option>
+        <option value="about_statistics">about_statistics</option>
+        <option value="about_templates">about_templates</option>
+    </select><br>
+<button onclick="draw()">draw</button> ... <button onclick="savepng()">save</button>
+    <br><br>
+</div>
+<div>
+    <canvas id="maincanvas" width="1200" height="625"></canvas>
+</div>
+
+<div style="visibility: hidden;display:none">
+    <img src="left_side.svg" id="leftpanel">
+    <img src="article_base.svg" id="articlebase">
+    <img src="" id="logoimage">
+</div>
+
+<script>
+    window.onload = function() {
+        GFontToDataURI('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+        changeselect()
+    }
+</script>
+</body>
+</html>
