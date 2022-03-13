@@ -7,19 +7,18 @@ Ejemplo de URL corta
 ----------
 
 <div class="d-flex justify-start align-center mb-4">
-    <div class="mr-5"><img src="https://media.scanmefindme.com/dynamic/url/url-popup-qr.svg"
-         width="100%" height="auto" alt="QR"></div>
+    <div class="mr-5">
+        <img src="https://media.scanmefindme.com/dynamic/url/url-popup-qr.svg" width="100%" height="auto"
+            alt="QR">
+    </div>
     <p>Este código QR apunta a la URL corta
-        <a href="http://qrs.re/example1"
-            target="_blank" rel="noopener" class="smfm-externallink">
-            http://qrs.re/example1
-        </a>
+        <a href="http://qrs.re/example1" target="_blank" rel="noopener" class="smfm-externallink">http://qrs.re/ejemplo1</a>
     </p>
 </div>
 
-<p class="mb-7">Lo llevará al formulario de Google. En cualquier momento,
-     el propietario puede cambiar el lugar al que se redirige el enlace sin tener que crear un nuevo código QR.</p>
+<p class="mb-7">Te llevará al formulario de Google. En cualquier momento, el propietario puede cambiar a dónde redirige el enlace sin tener que crear un nuevo código QR.</p>
 
-<p><img
-src="https://media.scanmefindme.com/dynamic/url/url-popup-dahsboard.png"
-width="100%" height="auto" alt="Estadísticas de escaneos de códigos QR - ScanMeFindMe"></p>
+<p>
+    <img src="https://media.scanmefindme.com/dynamic/url/url-popup-dahsboard.png" width="100%" height="auto"
+        alt="Estadísticas de escaneos de código QR - ScanMeFindMe">
+</p>

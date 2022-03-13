@@ -2,9 +2,6 @@
 
 --- Text above the form ---
 
-<p class="hint smfm-hint"> Ingrese un número de teléfono en cualquier formato
-que un teléfono inteligente pueda reconocer. Puede estar en formato local si
-solo espera que las personas de su ciudad / país lo escaneen, sin embargo, el
-formato de teléfono internacional funciona mejor. </p>
+<p class="hint smfm-hint">Ingrese un número de teléfono en cualquier formato que un teléfono inteligente pueda reconocer. Puede estar en un formato local si solo espera que las personas de su ciudad/país lo escaneen, sin embargo, el formato telefónico internacional funciona mejor.</p>
 
 ----------
