@@ -1,118 +1,118 @@
-<h1>How QR code scan statistics can be viewed and used</h1>
+<h1>Como as estatísticas de leitura de código QR podem ser visualizadas e usadas</h1>
 
 --- Abstract / Meta description ---
 
-Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they are important for marketers
+Monitore sua campanha com rastreamento de código QR dinâmico. Descubra quais estatísticas de varredura estão disponíveis no ScanMeFindMe e por que elas são importantes para os profissionais de marketing
 
 --- Short content 1 ---
 
-The approximate location of the scanning device. It may not always be accurate as the location is derived from the IP address of the internet service provider
+A localização aproximada do dispositivo de digitalização. Pode nem sempre ser preciso, pois a localização é derivada do endereço IP do provedor de serviços de Internet
 
 ----------
 
-<p>One of the reasons why marketers are turning to dynamic QR codes is their trackability. Unlike static QR codes, dynamic QR codes redirect users to a custom webpage when scanned. Therefore, it's possible to collect various metrics and compile them in visual formats. </p>
+<p>Uma das razões pelas quais os profissionais de marketing estão adotando códigos QR dinâmicos é sua rastreabilidade. Ao contrário dos códigos QR estáticos, os códigos QR dinâmicos redirecionam os usuários para uma página da Web personalizada quando digitalizados. Portanto, é possível coletar diversas métricas e compilá-las em formatos visuais. </p>
 
-<h2>Why QR Code Scan Statistics Are Important</h2>
+<h2>Por que as estatísticas de leitura de código QR são importantes</h2>
 
-<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that can help with your marketing.</p>
+<p>Se você gerar um código QR dinâmico no <a href="#pro">ScanMeFindMe Pro</a>, poderá acompanhar as principais métricas que podem ajudar no seu marketing.</p>
 
-<p>Rather than merely distributing marketing materials with QR codes, you'll want to monitor engagement indicators like how many people are accessing a landing page via QR code. Or if a particular campaign is reaching its audience in major cities. </p>
+<p>Em vez de simplesmente distribuir materiais de marketing com códigos QR, você deve monitorar indicadores de engajamento, como quantas pessoas estão acessando uma página de destino por meio de código QR. Ou se uma determinada campanha está atingindo seu público nas principais cidades. </p>
 
-<p>Without dynamic QR codes, you will have no idea if you're reaching the target audience or on the right track with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improve the campaign.</p>
+<p>Sem códigos QR dinâmicos, você não saberá se está alcançando o público-alvo ou se está no caminho certo com as metas de conversão. Você precisará coletar estatísticas relevantes de <a href="#about:product">códigos QR dinâmicos</a> e usá-los para melhorar a campanha.</p>
 
-<p>QR code statistics show you what's working on your campaign and what's not. You'll know if you need a more intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts. </p>
+<p>As estatísticas do código QR mostram o que está funcionando em sua campanha e o que não está. Você saberá se precisa de um design mais intrigante ou de uma reformulação na estratégia geral para uma melhor conversão dos números e gráficos. </p>
 
-<h2>Which Scan Statistics Are Available On ScanMeFindMe PRO?</h2>
+<h2>Quais estatísticas de verificação estão disponíveis no ScanMeFindMe PRO?</h2>
 
-<p><a href="#static:url">ScanMeFindMe</a> is developed to track and store important scan metrics in real-time. You'll have access to the following statistics when you sign up for a PRO account.</p>
+O <p><a href="#static:url">ScanMeFindMe</a> foi desenvolvido para rastrear e armazenar métricas de varredura importantes em tempo real. Você terá acesso às seguintes estatísticas ao se inscrever para uma conta PRO.</p>
 
-<h3>Total Scans</h3>
+<h3>Total de varreduras</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
-        alt="Total scans chart - QR code generator ScanMeFindMe">
+        alt="Gráfico de varreduras totais - gerador de código QR ScanMeFindMe">
 </p>
 
-<p>This chart shows the number of total and unique scans that you're getting everyday.</p>
+<p>Este gráfico mostra o número de verificações totais e únicas que você recebe todos os dias.</p>
 
-<p>Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device. </p>
+<p>As varreduras exclusivas são o número de varreduras feitas em diferentes dispositivos. Ele não inclui várias verificações do mesmo dispositivo. </p>
 
-<p>We use a special method where our server tags a device with a 'fingerprint' when it first scans a QR code. If the server detects a new scan with the same 'fingerprint', it is added to the total scans but not the unique scans.</p>
+<p>Usamos um método especial em que nosso servidor marca um dispositivo com uma 'impressão digital' ao escanear um código QR pela primeira vez. Se o servidor detectar uma nova varredura com a mesma 'impressão digital', ela será adicionada ao total de varreduras, mas não às varreduras únicas.</p>
 
-<p>You'll find this chart helpful when you want to know how many people are actually responding to your campaign. The unique scans will paint a clearer picture of how your campaign is performing.</p>
+<p>Você achará este gráfico útil quando quiser saber quantas pessoas estão realmente respondendo à sua campanha. As verificações exclusivas mostrarão com mais clareza o desempenho da sua campanha.</p>
 
-<h3>Scans By Months</h3>
+<h3>Verificações por meses</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
-        alt="Scans by month chart - QR code generator ScanMeFindMe">
+        alt="Gráfico de varreduras por mês - gerador de código QR ScanMeFindMe">
 </p>
 
-<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted by month. It helps identify the months that bring your business the most QR code traffic. </p>
+<p>Se você estiver executando uma campanha sazonal, este gráfico será útil. Os números de varreduras são plotados por mês. Ele ajuda a identificar os meses que trazem mais tráfego de código QR para sua empresa. </p>
 
-<h3>Scans By Hour Of The Day</h3>
+<h3>Scans por hora do dia</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
-        alt="Scans by hour of the day chart - QR code generator ScanMeFindMe">
+        alt="Scans por hora do gráfico do dia - gerador de código QR ScanMeFindMe">
 </p>
 
-<p>You can also track QR scans by hours of the day. This is useful if you're running a restaurant or e-commerce where customers peak during different times. It helps to run a more targeted campaign during the peak hours.</p>
+<p>Você também pode rastrear varreduras de QR por horas do dia. Isso é útil se você estiver administrando um restaurante ou comércio eletrônico em que os clientes atingem o pico em horários diferentes. Isso ajuda a executar uma campanha mais segmentada durante os horários de pico.</p>
 
-<h3>Scans By OS</h3>
+<h3>Verificações por SO</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
-        alt="Scans by OS chart - QR code generator ScanMeFindMe">
+        alt="Scans by OS chart - gerador de código QR ScanMeFindMe">
 </p>
 
-<p>Our server can also pick up which operating system the users are using when scanning the QR code. Usually, iOS and Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics help when you're getting users to download an app for a specific OS. </p>
+<p>Nosso servidor também pode identificar qual sistema operacional os usuários estão usando ao digitalizar o código QR. Normalmente, iOS e Android tendem a dominar o gráfico, pois a maioria dos usuários digitaliza códigos QR de seus telefones celulares. As estatísticas ajudam quando você está fazendo com que os usuários baixem um aplicativo para um sistema operacional específico. </p>
 
-<h3>Scans By Language</h3>
+<h3>Verificações por idioma</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
-        alt="Scans by language chart - QR code generator ScanMeFindMe">
+        alt="Scans by language chart - gerador de código QR ScanMeFindMe">
 </p>
 
-<p>This chart will show what is the primary language installed on your clients devices. This is usually the language they are most comfortable with. This can be useful as if you find that a lot of your clients prefer French, for example, you might offer some materials in French to increase sales and popularity.</p>
+<p>Este gráfico mostrará qual é o idioma principal instalado nos dispositivos de seus clientes. Esta é geralmente a linguagem com a qual eles se sentem mais confortáveis. Isso pode ser útil se você descobrir que muitos de seus clientes preferem francês, por exemplo, você pode oferecer alguns materiais em francês para aumentar as vendas e a popularidade.</p>
 
-<h3>Scans By Country and City</h3>
+<h3>Verificações por país e cidade</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
-        alt="Scans by country and city chart - QR code generator ScanMeFindMe">
+        alt="Scans por país e gráfico de cidade - gerador de código QR ScanMeFindMe">
 </p>
 
-<p><a href="#pro">ScanMeFindMe PRO</a> also tracks scans by city and country. This is done from tracking the IP address of the mobile operator or internet service provider where the device is connected to. Do note that the geolocation chart only gives an approximate location of where the scans originated. </p>
+O <p><a href="#pro">ScanMeFindMe PRO</a> também rastreia as varreduras por cidade e país. Isso é feito a partir do rastreamento do endereço IP da operadora de celular ou provedor de serviços de Internet ao qual o dispositivo está conectado. Observe que o gráfico de geolocalização fornece apenas uma localização aproximada de onde as varreduras se originaram. </p>
 
-<p>You may occasionally see scans from a different city or even country and it may seem surprising, especially if your QR code could not have possibly gotten there (for example, if it is a sticker on your office entrance). This usually means that somebody with a mobile phone from that country scanned your code while being on mobile data roaming.</p>
+<p>Ocasionalmente, você pode ver digitalizações de uma cidade ou país diferente e pode parecer surpreendente, especialmente se seu código QR não puder ter chegado lá (por exemplo, se for um adesivo na entrada do escritório). Isso geralmente significa que alguém com um celular desse país escaneou seu código enquanto estava em roaming de dados móveis.</p>
 
-<h3>Last Scans</h3>
+<h3>Últimas verificações</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
-        alt="Last scans list - QR code generator ScanMeFindMe">
+        alt="Lista das últimas verificações - gerador de código QR ScanMeFindMe">
 </p>
 
-<p>This table is populated with historical scan data. You'll find the finer details of each scan such as the date, time, country, language, OS and browser. </p>
+<p>Esta tabela é preenchida com dados históricos de varredura. Você encontrará os detalhes mais refinados de cada verificação, como data, hora, país, idioma, sistema operacional e navegador. </p>
 
-<h2>How To View And Download The Scan Statistics?</h2>
+<h2>Como visualizar e baixar as estatísticas de verificação?</h2>
 
-<p>All ScanMeFindMe PRO users have access to the statistics, which are displayed on the dashboard. You can also access the charts and tables via the 'Statistics' button on each of the dynamic codes.</p>
+<p>Todos os usuários do ScanMeFindMe PRO têm acesso às estatísticas, que são exibidas no painel. Você também pode acessar os gráficos e tabelas através do botão 'Estatísticas' em cada um dos códigos dinâmicos.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
-        alt="Individual QR code statistics - ScanMeFindMe">
+        alt="Estatísticas individuais do código QR - ScanMeFindMe">
 </p>
 
-<p>The Last Scans table can be downloaded in CSV (comma-separated values) format, which can be used for in-depth analysis.</p>
+<p>A tabela Últimas verificações pode ser baixada no formato CSV (valores separados por vírgula), que pode ser usada para análises detalhadas.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
-        alt="Download scans statistics - QR code generator ScanMeFindMe">
+        alt="Baixe estatísticas de varreduras - gerador de código QR ScanMeFindMe">
 </p>
 
-<p>You don't want to miss out on the scan statistics that can drive your marketing campaign in the right direction.</p>
+<p>Você não quer perder as estatísticas de varredura que podem direcionar sua campanha de marketing na direção certa.</p>
 
-<p><a href="#pro">Sign up for a ScanMeFindMe PRO account now.</a></p>
+<p><a href="#pro">Inscreva-se para uma conta ScanMeFindMe PRO agora.</a></p>

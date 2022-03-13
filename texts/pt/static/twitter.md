@@ -1,4 +1,4 @@
-<h1>[Twitter] Create a QR code for a Twitter link</h1>
+<h1>[Twitter] Criar um código QR para um link do Twitter</h1>
 
 --- File name prefix for download ---
 

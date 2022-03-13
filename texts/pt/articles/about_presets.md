@@ -1,54 +1,53 @@
-<h1>Save time by creating presets for your QR codes</h1>
+<h1>Economize tempo criando predefinições para seus códigos QR</h1>
 
 --- Abstract / Meta description ---
 
-Maximize efficiency when personalizing your QR codes with presets. Save your choices and reuse them any time you want.
+Maximize a eficiência ao personalizar seus códigos QR com predefinições. Salve suas escolhas e reutilize-as sempre que quiser.
 
 --- Short content 1 ---
 
-Choose a pre-designed preset or create one with selected style, colors, templates, and logo. Reuse them easily when generating QR codes.
+Escolha uma predefinição pré-projetada ou crie uma com estilo, cores, modelos e logotipo selecionados. Reutilize-os facilmente ao gerar códigos QR.
 
 ----------
 
-<p>Having a personalized QR code that captures customer's attention helps in getting more engagement. With fun colors, a catchy caption, and a logo, you'll have a QR code that resonates with your brand value.</p>
+<p>Ter um código QR personalizado que capte a atenção do cliente ajuda a obter mais engajamento. Com cores divertidas, uma legenda atraente e um logotipo, você terá um código QR que reflete o valor da sua marca.</p>
 
-<p>Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code. </p>
+<p>Personalizar códigos QR pode ser um processo divertido, mas pode ser igualmente desgastante se você fizer isso sempre que precisar gerar um código QR. </p>
 
-<p>This is where you'll want to create presets, a feature exclusive to ScanMeFindMe PRO users.</p>
+<p>É aqui que você deseja criar predefinições, um recurso exclusivo para usuários do ScanMeFindMe PRO.</p>
 
-<h2>What Are Presets And Why Do You Need Them?</h2>
+<h2>O que são predefinições e por que você precisa delas?</h2>
 
-<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with styles, colors, <a href="#article:about_templates">templates</a>, and <a href="#article:about_logos">logos</a>.</p>
+<p>Predefinições são uma memória de personalização que você selecionou ou criou para um código QR específico. Ao usar o ScanMeFindMe PRO, você pode personalizar o código QR com estilos, cores, <a href="#article:about_templates">modelos</a> e <a href="#article:about_logos">logotipos </a>.</p>
 
-<p>These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted. </p>
+<p>Essas seleções podem ser salvas como uma predefinição onde podem ser selecionadas automaticamente e aplicadas a um novo código QR. Tecnicamente, uma predefinição contém informações sobre as opções específicas de estilos, modelos, logotipos e cores. As predefinições são válidas desde que os elementos individuais não sejam renomeados ou excluídos. </p>
 
-<p>Here's how you can use presets to save setup time when creating a QR code. </p>
+<p>Veja como você pode usar predefinições para economizar tempo de configuração ao criar um código QR. </p>
 
-<p>You're releasing a series of yoga tutorial videos, and you're <a href="#article:about_static">encoding the links in QR codes.</a> If you're going to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
+<p>Você está lançando uma série de vídeos tutoriais de ioga e está <a href="#article:about_static">codificando os links em códigos QR.</a> Se for personalizar o código QR para cada episódio, você precisará escolher manualmente as cores, o logotipo, os modelos e o estilo.</p>
 
-<p>It's easy to make a mistake, which results in some QR codes looking out of place. Also, you're wasting time repeating a process that can be automated. </p>
+<p>É fácil cometer um erro, o que faz com que alguns códigos QR pareçam deslocados. Além disso, você está perdendo tempo repetindo um processo que pode ser automatizado. </p>
 
-<p>By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode. </p>
+<p>Ao salvar suas escolhas como uma predefinição, você pode reutilizar os elementos de estilo apenas carregando a mesma predefinição ao gerar o código QR para cada episódio. </p>
 
-<h2>How To Create And Save Presets for QR codes</h2>
+<h2>Como criar e salvar predefinições para códigos QR</h2>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can create a preset with the 'Create a new preset' button while you create or edit any QR code in the QR code generator. You can choose a name for your preset so it is easier to use in the <a href="#about:api" title="QR code API">API</a>.</p>
+<p>Se você estiver usando o <a href="#pro">ScanMeFindMe PRO</a>, poderá criar uma predefinição com o botão "Criar uma nova predefinição" enquanto cria ou edita qualquer código QR no código QR gerador. Você pode escolher um nome para sua predefinição para facilitar o uso na <a href="#about:api" title="QR code API">API</a>.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
-        alt="Creating a preset from the QR code editor">
+        alt="Criando uma predefinição a partir do editor de código QR">
 </p>
 
-<p>Alternatively, you can duplicate an existing preset in the library and customize it. </p>
+<p>Como alternativa, você pode duplicar uma predefinição existente na biblioteca e personalizá-la. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
-        alt="Creating a preset by copying a system one">
+        alt="Criando uma predefinição copiando uma do sistema">
 </p>
 
-<p>Once you're done, the customized preset will appear alongside other pre-installed presets on the selection panel. </p>
+<p>Quando terminar, a predefinição personalizada aparecerá ao lado de outras predefinições pré-instaladas no painel de seleção. </p>
 
-<p>Selecting a preset will automatically regenerate the QR code with the selected style and design elements. If you're using our <a href="#static:url">QR code generator</a> from the API, you can invoke the presets by specifying their names.</p>
+<p>A seleção de uma predefinição gerará automaticamente o código QR com o estilo e os elementos de design selecionados. Se você estiver usando nosso <a href="#static:url">gerador de código QR</a> da API, poderá invocar as predefinições especificando seus nomes.</p>
 
-<p>Stop re-styling your QR code each time you generate one. Try <a href="#pro">ScanMeFindMe PRO</a> and use presets instead. </p>
-
+<p>Pare de reestilizar seu código QR sempre que gerar um. Experimente o <a href="#pro">ScanMeFindMe PRO</a> e use predefinições. </p>

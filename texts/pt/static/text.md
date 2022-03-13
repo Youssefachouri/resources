@@ -1,3 +1,3 @@
-<h1>[Text] Create a QR code for any text content</h1>
+<h1>[Texto] Crie um código QR para qualquer conteúdo de texto</h1>
 
 ----------
