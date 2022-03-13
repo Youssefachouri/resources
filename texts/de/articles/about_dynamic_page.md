@@ -1,4 +1,8 @@
-<h1>Wie QR-Codes zum Teilen von Dateien verwendet werden können</h1>
+<h1>Wie kann man Dateien mit QR-Codes teilen</h1>
+
+--- Previous titles ---
+
+Wie QR-Codes zum Teilen von Dateien verwendet werden können
 
 --- Abstract / Meta description ---
 
