@@ -1,72 +1,72 @@
-<h1>How to add borders and captions to the QR codes</h1>
+<h1>Comment ajouter des bordures et des légendes aux codes QR</h1>
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
+Découvrez comment ajouter des bordures et des légendes qui rendent votre code QR unique. Donnez du style à votre code QR avec un appel à l'action accrocheur pour stimuler la conversion.
 
 --- Short content 1 ---
 
-Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
+Apprenez à ajouter des phrases accrocheuses avec des légendes de codes QR. Choisissez parmi des modèles prédéfinis ou créez le vôtre avec un compte PRO.
 
 ----------
 
-<p>For marketers, everything comes out to conversion. If you have a brilliant ad designed, it's for nothing if the audience doesn't reach out in one way or another.</p>
+<p>Pour les spécialistes du marketing, tout dépend de la conversion. Si vous avez conçu une publicité brillante, cela ne sert à rien si l'audience ne s'étend pas d'une manière ou d'une autre.</p>
 
-<p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do justice to the creative works done on marketing materials.</p>
+Les <p><a href="#static:url">codes QR</a> sont un outil marketing utile, mais l'ajout d'un code QR au format brut ne rend pas justice aux travaux créatifs effectués sur les supports marketing.</p>
 
-<p>Without a little nudge, the audience may skip over the QR code, even when it's in plain sight. Often, a call-to-action (CTA) and a unique presentation are what it takes to get users to scan the QR code.</p>
+<p>Sans un petit coup de pouce, le public peut ignorer le code QR, même s'il est bien en vue. Souvent, un appel à l'action (CTA) et une présentation unique suffisent pour inciter les utilisateurs à scanner le code QR.</p>
 
-<h2>Why Add Borders And Captions To QR Codes?</h2>
+<h2>Pourquoi ajouter des bordures et des légendes aux codes QR?</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
-        alt="QR code templates - ScanMeFindMe">
+        alt="Modèles de code QR - ScanMeFindMe">
 </p>
 
-<p>Instead of sticking with the default format, you'll want to add a 'Scan Me' text along with the QR code. People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
+<p>Au lieu de vous en tenir au format par défaut, vous voudrez ajouter un texte "Scan Me" avec le code QR. Les gens peuvent avoir développé une « cécité au code QR » en voyant autant d'entre eux dans leur vie quotidienne. </p>
 
-<p>However, a 'Scan Me' text and a unique border draw their attention to the QR code. The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
+<p>Cependant, un texte "Scan Me" et une bordure unique attirent leur attention sur le code QR. Le CTA ne laisse aucun doute sur ce que le public doit faire ensuite : scanner le code QR. </p>
 
-<p>You can also add text that previews what's on the other side of the QR code. For example, an 'App Store' text tells the users that they're about to be redirected to your app on Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
+<p>Vous pouvez également ajouter du texte qui donne un aperçu de ce qui se trouve de l'autre côté du code QR. Par exemple, un texte "App Store" indique aux utilisateurs qu'ils sont sur le point d'être redirigés vers votre application sur l'App Store d'Apple. Ou un simple "Menu" pour amener les utilisateurs à découvrir ce qui est proposé par votre restaurant.</p>
 
-<p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. Customers like to have an idea of what they're getting into before they scan the QR. With the right borders and captions, you can do precisely that and increase conversions.</p>
+<p>L'idée est que vous voudrez instaurer la confiance et lever toute incertitude avec les codes QR. Les clients aiment avoir une idée de ce dans quoi ils s'embarquent avant de scanner le QR. Avec les bonnes bordures et légendes, vous pouvez faire exactement cela et augmenter les conversions.</p>
 
-<p>Even in the <a href="#static:url">Free version of QR code generator</a> you can modify the captions on the templates. Change the default <strong>"Scan me"</strong> to <strong>"More info"</strong>, <strong>"Our menu"</strong>, your instagram handle or a phone number. If your text is too long or too short, you can descrease or increase the font size to make it look better.</p>
+<p>Même dans la <a href="#static:url">version gratuite du générateur de code QR</a>, vous pouvez modifier les légendes sur les modèles. Remplacez la valeur par défaut <strong>"Scan me"</strong> par <strong>"Plus d'infos"</strong>, <strong>"Notre menu"</strong>, votre identifiant Instagram ou un numéro de téléphone. Si votre texte est trop long ou trop court, vous pouvez diminuer ou augmenter la taille de la police pour l'améliorer.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
-        alt="QR code for instagram handle - ScanMeFindMe">
+        alt="Code QR pour le compte Instagram - ScanMeFindMe">
 </p>
 
-<p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, and you'll need to scan them for verification manually. By having captions and borders, you'll know what they are meant for just by their visual appearance.</p>
+<p>La personnalisation de vos codes QR avec des modèles aide non seulement au marketing, mais évite également la confusion lorsque vous les triez. Imaginez que vous êtes sur le point d'imprimer des dizaines de codes QR dans différents matériaux et que vous devrez les scanner manuellement pour les vérifier. En ayant des légendes et des bordures, vous saurez à quoi elles servent simplement par leur apparence visuelle.</p>
 
-<h2>How To Create Your Own Templates</h2>
+<h2>Comment créer vos propres modèles</h2>
 
-<p>When you're using <a href="#pro">ScanMeFindMe PRO</a>, you have access to a set of pre-designed templates. However, you can also design your own templates, upload them and personalize the <a href="#static:url">QR code generated on our platform</a>.</p>
+<p>Lorsque vous utilisez <a href="#pro">ScanMeFindMe PRO</a>, vous avez accès à un ensemble de modèles prédéfinis. Cependant, vous pouvez également concevoir vos propres modèles, les télécharger et personnaliser le <a href="#static:url">code QR généré sur notre plateforme</a>.</p>
 
-<p>Not only that, you can also <a href="#article:about_presets">create presets</a> that include your choice of templates to save time in the future. </p>
+<p>De plus, vous pouvez également <a href="#article:about_presets">créer des préréglages</a> qui incluent votre choix de modèles pour gagner du temps à l'avenir. </p>
 
-<p>Now, how do you create your own templates?</p>
+<p>Maintenant, comment créez-vous vos propres modèles?</p>
 
-<p>The templates are image files in the SVG format. An SVG image is an XML file containing tags representing different elements. Web browsers use the information from the file to render the image at any resolution. You can create an SVG file via graphic design software like Adobe Illustrator or use a JPEG/PNG to SVG converter.</p>
+<p>Les modèles sont des fichiers image au format SVG. Une image SVG est un fichier XML contenant des balises représentant différents éléments. Les navigateurs Web utilisent les informations du fichier pour rendre l'image à n'importe quelle résolution. Vous pouvez créer un fichier SVG via un logiciel de conception graphique comme Adobe Illustrator ou utiliser un convertisseur JPEG/PNG vers SVG.</p>
 
-<p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
+<p>Le moyen le plus rapide de créer un modèle consiste à en dupliquer un à partir de la bibliothèque et à modifier la source SVG.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
-        alt="Editing QR code template - ScanMeFindMe">
+        alt="Modification du modèle de code QR - ScanMeFindMe">
 </p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p>Pour qu'un modèle fonctionne sur ScanMeFindMe, il doit avoir un élément <strong class="notranslate">&lt;rect&gt;</strong> avec <strong class="notranslate">id="qr"</strong> , qui sera remplacé par le code QR lors de sa génération.</p>
 
-<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.</p>
+<p>Vous pouvez également inclure des éléments <strong class="notranslate">&lt;text&gt;</strong>, si ces éléments ont un attribut <strong class="notranslate">id</strong>, ils deviendront des légendes qui vous pouvez modifier pour chaque code QR qui utilise ce modèle. De plus, si ces éléments <span class="notranslate">&lt;text&gt;</span> contiennent l'attribut <strong class="notranslate">font-size</strong>, vous pourrez modifier la taille de la police pour chaque code QR en utilisant le même modèle.</p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert generated QR codes to PNG, PDF and PS formats. Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
+<p>Méfiez-vous de certaines limitations! ScanMeFindMe utilise la bibliothèque <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> pour convertir les codes QR générés aux formats PNG, PDF et PS. Certains éléments SVG compliqués peuvent ne pas être convertis correctement. Pour des raisons de sécurité, la directive @include est ignorée lors de la conversion, vous ne pouvez donc pas inclure d'URL externes (à l'exception des polices que nous avons installées sur notre serveur).</p>
 
-<h2>What Fonts Are Supported? </h2>
+<h2>Quelles sont les polices prises en charge? </h2>
 
-<p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts. You can find the fonts that are pre-installed on the server in our Github repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+<p>Plutôt que d'entrer dans un débat interminable serif contre san serif, nous vous laissons décider quelle est la meilleure avec plusieurs polices couramment utilisées. Vous pouvez trouver les polices préinstallées sur le serveur dans notre référentiel Github: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https: //github.com/ScanMeFindMe/fonts</a></p>
 
-<p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request. Generally, we prefer fonts that support multiple languages.</p>
+<p>Si vous pensez que nous manquons d'une police intéressante pour les autres spécialistes du marketing, vous pouvez soumettre une demande d'extraction. Généralement, nous préférons les polices prenant en charge plusieurs langues.</p>
 
-<p>Start uploading your own templates with a <a href="#pro">ScanMeFindMe PRO account</a> now.</p>
+<p>Commencez à télécharger vos propres modèles avec un <a href="#pro">compte ScanMeFindMe PRO</a> dès maintenant.</p>

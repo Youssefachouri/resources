@@ -1,3 +1,3 @@
-<h1>[E-mail] Create a QR code for an E-mail address</h1>
+<h1>[E-mail] Créer un code QR pour une adresse e-mail</h1>
 
 ----------
