@@ -2,8 +2,6 @@
 
 --- Text above the form ---
 
-<p class="hint smfm-hint">Enter a phone number in any format that a smartphone
-can recognise. It can be in a local format if you only expect people from your
-city/country to scan it, however international phone format works the best.</p>
+<p class="hint smfm-hint">Enter a phone number in any format that a smartphone can recognise. It can be in a local format if you only expect people from your city/country to scan it, however international phone format works the best.</p>
 
 ----------
