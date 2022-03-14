@@ -6,4 +6,5 @@ Page with files example
 
 ----------
 
-<img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width="100%" height="auto" alt="Page with files example - ScanMeFindMe">
+<img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width="100%" height="auto"
+    alt="Page with files example - ScanMeFindMe">

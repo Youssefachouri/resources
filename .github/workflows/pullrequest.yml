@@ -1,0 +1,40 @@
+name: Check translations in pull request
+
+on: [push, pull_request]
+
+jobs:
+  checktranslations:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out repository code (this branch)
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
+          path: pr
+
+      - name: Check out repository code (master)
+        uses: actions/checkout@v2
+        with:
+          path: master
+          ref: master
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 7.4
+          coverage: none
+
+      - name: Check translations
+        run: |
+          # Checking translations
+          cd pr
+          error=0
+          for lang in $(git diff --name-only origin/master.. | grep -e "texts/" | awk -F/ '{print $2;}' | grep -v "en" | sort | uniq); do
+            echo "------- Checking texts/$lang -------"
+            php other/validate/strings.php "${lang}" || error=1
+            php other/validate/validate.php "${lang}" articles || error=1
+            php other/validate/validate.php "${lang}" static || error=1
+            php other/validate/validate.php "${lang}" dynamic || error=1
+            php other/validate/compareheaders.php "${lang}" "../master/texts/${lang}" || error=1
+          done
+          [[ "$error" == "0" ]]

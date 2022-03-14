@@ -2,9 +2,6 @@
 
 --- Text above the form ---
 
-<p class="hint smfm-hint">Geben Sie eine Telefonnummer in einem beliebigen
-Format ein, das ein Smartphone erkennen kann. Es kann ein lokales Format haben,
-wenn Sie nur erwarten, dass Personen aus Ihrer Stadt/Ihrem Land es scannen, aber
-das internationale Telefonformat funktioniert am besten.</p>
+<p class="hint smfm-hint">Geben Sie eine Telefonnummer in einem beliebigen Format ein, das ein Smartphone erkennen kann. Es kann in einem lokalen Format vorliegen, wenn Sie erwarten, dass es nur von Personen aus Ihrer Stadt/Ihrem Land gescannt wird. Das internationale Telefonformat funktioniert jedoch am besten.</p>
 
 ----------

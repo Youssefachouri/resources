@@ -142,7 +142,7 @@
       "nospaces": "Passwort kann nicht mit Leerzeichen beginnen und enden",
       "passwordsmatch": "Passwörter stimmen nicht überein",
       "pathcontain": "Pfad darf nur lateinische Zeichen, Ziffern oder Symbole '-', '_' enthalten",
-      "pathminlength": "Pfad muss mindestens {num} Zeichen lang sein",
+      "pathminlength": "Pfad muss mindestens {num} Zeichen lang sein",
       "pathstartend": "Pfad kann nur mit Buchstaben oder Ziffern beginnen und enden",
       "vcardrequired": "Es ist entweder Vorname oder Nachname oder Organisation erforderlich"
     },
