@@ -82,7 +82,7 @@ function GFontToDataURI(url) {
 
 function changeselect() {
     document.getElementById('logoimage').src =
-        "../media/articles/" + document.getElementById('logoselect').value + "/logo/logo.svg"
+        "../../media/articles/" + document.getElementById('logoselect').value + "/logo/logo.svg"
 }
 
 function addImage(ctx, src) {

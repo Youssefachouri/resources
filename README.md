@@ -6,6 +6,32 @@ Folder 'texts' contains separate folder for each language. The main language is 
 
 **Important!** There is an automated check on pull requests that verifies that the file format in translations corresponds to the respective file in English. Do not insert newlines (use an editor with word wrap). Make sure that all HTML tags are present and have the same attributes, only attributes 'alt' and 'title' can be translated.
 
+## How to upload changes on github
+
+- Sign up for github.com if you don't have an account yet
+- Fork ScanMeFindMe/resources if it is not yet forked
+- Enable Github actions on your fork
+- Make sure the master branch in your fork is up-to-date with the master branch in this repository
+- Check out code locally
+- Create a new branch in your fork
+- Commit and push changes to your branch
+- Make sure Github actions workflows passed on your branch
+- Add more commits to your branch if necessary
+- Create a pull request from your branch to the master branch in ScanMeFindMe/resources
+- Before your pull request is merged you can add more commits to your branch and the pull request will be updated
+- After your pull request is merged you can delete your branch
+- After your pull request is merged the staging site https://staging.scanmefindme.com will be automatically updated
+- If after that you found some errors on the staging site you will need to create another pull request:
+  - Update master branch in your fork (when master branch in this repo is updated your fork will be behind)
+  - If you already downloaded files locally make sure they are up-to-date with both your own changes and other contributors' changes
+  - Create a new branch in your fork
+  - Make and commit changes, check the workflows status, create pull request
+- When you finish working on the project you can delete the fork you created. Make sure not to delete branches and the fork if the pull requests are not yet merged
+
+If any of these steps are not familiar to you, watch this video:
+
+<a href="https://youtu.be/Y-DE_w0cQpA" target="_blank"><img src="other/upload_video_thumb.png" width="120" height="90" alt="Video: Uploading changes to github" style="border: 1px solid darkgray"></a>
+
 ## texts/{lang}/translations.json
 
 Language strings. You can use https://github.com/jcbvm/i18n-editor as a GUI editor.
