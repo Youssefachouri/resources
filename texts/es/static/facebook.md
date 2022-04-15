@@ -1,3 +1,3 @@
-<h1>[Facebook] Crea un código QR para la página de Facebook</h1>
+<h1>[Facebook] Cree un código QR para la página de Facebook</h1>
 
 ----------

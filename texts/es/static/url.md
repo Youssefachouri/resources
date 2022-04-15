@@ -1,4 +1,4 @@
-<h1>[URL] Crea un código QR para una pagina web o URL</h1>
+<h1>[URL] Cree un código QR para una pagina web o URL</h1>
 
 ----------
 
@@ -10,7 +10,7 @@
 
 <h2>Crear</h2>
 
-<p>Genera códigos QR para sitios web, contactos, teléfonos, SMS y más en pasos simples. No tienes que ser un mago técnico.</p>
+<p>Genera códigos QR para sitios web, contactos, teléfonos, SMS y más en unos cuantos pasos simples. No tiene que ser un mago técnico.</p>
 
 <h2>Personalizar</h2>
 
@@ -18,11 +18,11 @@
 
 <h2>Descargar</h2>
 
-<p>Descarga códigos QR en formato de alta resolución. Establezca la ubicación precisa del código QR con la configuración de página avanzada.</p>
+<p>Descargue códigos QR en formato de alta resolución. Establezca la ubicación precisa del código QR con la configuración de página avanzada.</p>
 
 <h2>Administrar</h2>
 
-<p>Almacene y administre todos sus códigos QR con una sola solución. Busque y filtre fácilmente códigos QR por etiquetas. Manténgase organizado mientras crea más códigos QR.</p>
+<p>Almacene y administre todos sus códigos QR con una única solución. Busque y filtre fácilmente códigos QR por etiquetas. Manténgase organizado mientras crea más códigos QR.</p>
 
 <h2>Pista</h2>
 

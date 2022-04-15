@@ -1,4 +1,4 @@
-<h1>[Archivo] Crea un código QR para un archivo</h1>
+<h1>[Archivo] Cree un código QR para un archivo</h1>
 
 --- Text above the form ---
 
