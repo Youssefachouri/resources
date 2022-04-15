@@ -33,7 +33,7 @@ La ubicación aproximada del dispositivo de escaneo. Es posible que no siempre s
         alt="Tabla de escaneos totales - generador de códigos QR ScanMeFindMe">
 </p>
 
-<p>Este gráfico muestra la cantidad de escaneos totales y únicos que recibe todos los días.</p>
+<p>Este gráfico muestra el número de escaneos totales y únicos que recibe todos los días.</p>
 
 <p>Los escaneos únicos son la cantidad de escaneos realizados desde diferentes dispositivos. No incluye múltiples escaneos desde el mismo dispositivo. </p>
 

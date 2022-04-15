@@ -12,30 +12,30 @@ Cargue menús, música, manuales y otros archivos en una página web personaliza
 
 <p>¿Recibe numerosas llamadas de clientes porque tienen problemas para encontrar los manuales de productos correctos? ¿O está cansado de enviar múltiples archivos adjuntos por correo electrónico a los miembros de su equipo? </p>
 
-<p>Independientemente del negocio en el que se encuentre, siempre se puede mejorar cuando se trata de compartir información. Si el método existente resulta ser un cuello de botella, es hora de volver a evaluar si está utilizando la tecnología adecuada para compartir archivos. </p>
+<p>Independientemente del negocio al que se dedique, siempre se puede mejorar cuando se trata de compartir información. Si el método existente resulta ser un cuello de botella, es hora de volver a evaluar si está utilizando la tecnología adecuada para compartir archivos. </p>
 
 <p>El almacenamiento en la nube es una parte de la solución, pero la clave para compartir archivos de manera eficiente es permitir que los destinatarios accedan a los recursos con el mínimo esfuerzo. Ahí es donde entra en juego el <a href="#static:url">uso de códigos QR</a> para compartir archivos.</p>
 
 <h2>¿Cómo funciona el intercambio de archivos con códigos QR?</h2>
 
-<p>A diferencia de lo que la mayoría de la gente imagina, no almacenaría los archivos en un código QR. La mayoría de los archivos son demasiado grandes para codificarlos en un código QR. </p>
+<p>A diferencia de lo que la mayoría imagina, no almacenaría los archivos en un código QR. La mayoría de los archivos son demasiado grandes para codificarlos en un código QR. </p>
 
-<p>En cambio, los archivos se cargan en una página web y se genera una URL abreviada que se almacena en el código QR. Cuando los usuarios escanean el código, son redirigidos a la página web donde pueden descargar los archivos. </p>
+<p>En su lugar, los archivos se cargan en una página web y se genera una URL abreviada que se almacena en el código QR. Cuando los usuarios escanean el código, son redirigidos a la página web donde pueden descargar los archivos. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - preview files.png"
         alt="Vista previa de una página con archivos - ScanMeFindMe">
 </p>
 
-<p>Si usa <a href="#pro">ScanMeFindMe PRO</a>, también puede incluir el título, la descripción y el logotipo en la página para compartir archivos. Hace que la página se vea más profesional y proporciona más información sobre los archivos descargables a los usuarios. </p>
+<p>Si usa <a href="#pro">ScanMeFindMe PRO</a>, también puede incluir el título, la descripción y el logotipo en la página para compartir archivos. Eso hace que la página se vea más profesional y proporciona más información sobre los archivos descargables a los usuarios. </p>
 
 <h2>¿Por qué usar códigos QR para compartir archivos?</h2>
 
-<p>Existen varias formas de acceder a la información, pero los códigos QR ofrecen múltiples ventajas frente a los convencionales. </p>
+<p>Existen varias formas de acceder a la información, pero los códigos QR ofrecen múltiples ventajas frente a las convencionales. </p>
 
 <h3>Es eficiente</h3>
 
-<p>Con los códigos QR, puede consolidar diferentes recursos en una sola página web. Le ahorra la molestia de decidir qué archivos se enviarán y quiénes son los destinatarios correctos. </p>
+<p>Con los códigos QR, puede consolidar diferentes recursos en una sola página web. Le ahorra la molestia de decidir qué archivos enviar y quiénes son los destinatarios correctos. </p>
 
 <p>Todo lo que necesita hacer es cargar los archivos una vez y enviar los códigos QR. Le ahorra la molestia de esperar a que se completen las cargas. Además, hay menos posibilidades de enviar archivos incorrectos en un correo electrónico. </p>
 
@@ -43,7 +43,7 @@ Cargue menús, música, manuales y otros archivos en una página web personaliza
 
 <p>El uso compartido de archivos con código QR ofrece lo mejor de dos tecnologías digitales diferentes. No tiene que invertir en la impresión de montones de documentos, lo que genera enormes ahorros en los gastos de impresión. </p>
 
-<p>Puedes agregar el código QR con costo mínimo en; empaques de productos, folletos, pancartas o correos electrónicos, y que los usuarios puedan acceder a los archivos digitalmente. </p>
+<p>Puedes agregar el código QR con costo mínimo en empaques de productos, folletos, pancartas o correos electrónicos, y que los usuarios puedan acceder a los archivos digitalmente. </p>
 
 <h3>Es Flexible</h3>
 
@@ -55,7 +55,7 @@ Cargue menús, música, manuales y otros archivos en una página web personaliza
 
 <p>Si solo envía archivos adjuntos, no puede rastrear cuántos de ellos descargan los destinatarios. Con un código QR dinámico, puede <a href="#article:about_statistics">rastrear la cantidad de escaneos</a> y dónde se originaron. </p>
 
-<p>Estas estadísticas son útiles cuando evalúa cómo interactúan los clientes con el producto. </p>
+<p>Estas estadísticas son útiles cuando evalúa cómo están interactuando sus clientes con el producto. </p>
 
 <h2>Cómo compartir archivos con códigos QR</h2>
 
@@ -68,6 +68,6 @@ Cargue menús, música, manuales y otros archivos en una página web personaliza
         alt="Vista previa de un generador para una página con archivos - ScanMeFindMe">
 </p>
 
-<p>Se genera un código QR que contiene la URL corta de la página web con archivos descargables. Utilice el código QR en material de marketing, embalaje de productos, correo electrónico, aula u otros medios para permitir un acceso rápido a la información. </p>
+<p>Se genera un código QR que contiene la URL corta de la página web con archivos descargables. Utilice el código QR de material de marketing, embalaje de productos, correo electrónico, aula u otros medios para permitir un acceso rápido a la información. </p>
 
 <p><a href="#pro">Empiece ahora con ScanMeFindMe PRO.</a></p>

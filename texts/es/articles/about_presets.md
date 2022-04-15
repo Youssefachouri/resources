@@ -2,7 +2,7 @@
 
 --- Abstract / Meta description ---
 
-Maximice la eficiencia al personalizar sus códigos QR con preajustes. Guarda tus elecciones y reutilízalas cuando quieras.
+Maximice la eficiencia al personalizar sus códigos QR con preajustes. Guarde sus elecciones y reutilízelas cuando quiera.
 
 --- Short content 1 ---
 
@@ -10,11 +10,11 @@ Elija un ajuste preestablecido prediseñado o cree uno con el estilo, los colore
 
 ----------
 
-<p>Tener un código QR personalizado que capte la atención del cliente ayuda a conseguir una mayor participación. Con colores divertidos, una leyenda pegadiza y un logotipo, tendrá un código QR que resuena con el valor de su marca.</p>
+<p>Tener un código QR personalizado que capte la atención del cliente ayuda a conseguir una mayor participación. Con colores divertidos, una leyenda pegadiza y un logotipo, tendrá un código QR que resuene con el valor de su marca.</p>
 
 <p>Personalizar códigos QR puede ser un proceso divertido, pero puede ser igualmente agotador si lo hace cada vez que necesita generar un código QR. </p>
 
-<p>Aquí es donde querrás crear ajustes preestablecidos, una función exclusiva para los usuarios de ScanMeFindMe PRO.</p>
+<p>Este es el momento en el que querrá crear ajustes preestablecidos, una función exclusiva para los usuarios de ScanMeFindMe PRO.</p>
 
 <h2>¿Qué son los ajustes preestablecidos y por qué los necesita?</h2>
 
@@ -48,6 +48,6 @@ Elija un ajuste preestablecido prediseñado o cree uno con el estilo, los colore
 
 <p>Una vez que haya terminado, el ajuste preestablecido personalizado aparecerá junto con otros ajustes preestablecidos preinstalados en el panel de selección. </p>
 
-<p>Al seleccionar un ajuste preestablecido, se regenerará automáticamente el código QR con el estilo y los elementos de diseño seleccionados. Si está utilizando nuestro <a href="#static:url">generador de códigos QR</a> de la API, puede invocar los ajustes preestablecidos especificando sus nombres.</p>
+<p>Al seleccionar un ajuste preestablecido, se regenerará automáticamente el código QR con el estilo y los elementos de diseño seleccionados. Si está utilizando nuestro <a href="#static:url">generador de códigos QR</a> de la API, puede recurrir los ajustes preestablecidos especificando sus nombres.</p>
 
-<p>Deja de cambiar el estilo de tu código QR cada vez que generas uno. Prueba <a href="#pro">ScanMeFindMe PRO</a> y usa ajustes preestablecidos en su lugar. </p>
+<p>Deje de cambiar el estilo de su código QR cada vez que generes uno. Prueba <a href="#pro">ScanMeFindMe PRO</a> y use ajustes preestablecidos en su lugar. </p>

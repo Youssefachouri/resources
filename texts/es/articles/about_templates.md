@@ -2,11 +2,11 @@
 
 --- Abstract / Meta description ---
 
-Aprenda a agregar bordes y subtítulos que hacen que su código QR sea único. Dale estilo a tu código QR con una llamada a la acción pegadiza para impulsar la conversión.
+Aprenda a agregar bordes y subtítulos que hacen que su código QR sea único. Dale estilo a su código QR con una llamada a la acción pegadiza para impulsar la conversión.
 
 --- Short content 1 ---
 
-Aprenda a agregar frases pegadizas con subtítulos de códigos QR. Elija entre plantillas predefinidas o cree la suya propia con una cuenta PRO.
+Aprenda a agregar frases pegadizas con subtítulos de códigos QR. Elija entre plantillas predefinidas o cree su propia propia con una cuenta PRO.
 
 ----------
 
@@ -23,15 +23,15 @@ Los <p><a href="#static:url">códigos QR</a> son una herramienta de marketing ú
         alt="Plantillas de código QR - ScanMeFindMe">
 </p>
 
-<p>En lugar de apegarse al formato predeterminado, querrá agregar el texto "Escanéame" junto con el código QR. Las personas pueden haber desarrollado 'ceguera de código QR' al ver tantos de ellos en su vida diaria. </p>
+<p>En lugar de quedarse con el formato predeterminado, querrá agregar el texto "Escanéame" junto con el código QR. Las personas pueden haber desarrollado 'ceguera de código QR' al ver tantos de ellos en su vida diaria. </p>
 
-<p>Sin embargo, un texto "Escanéame" y un borde único llaman su atención sobre el código QR. El CTA no deja dudas sobre lo que la audiencia debe hacer a continuación: escanear el código QR. </p>
+<p>Sin embargo, el texto "Escanéame" y un borde único llaman su atención sobre el código QR. El CTA no deja dudas sobre lo que la audiencia debe hacer a continuación: escanear el código QR. </p>
 
-<p>También puede agregar texto que muestra una vista previa de lo que hay al otro lado del código QR. Por ejemplo, un texto de 'App Store' les dice a los usuarios que están a punto de ser redirigidos a su aplicación en Apple App Store. O un simple 'Menú' para que los usuarios vean lo que ofrece tu restaurante.</p>
+<p>También puede agregar un texto que muestre una vista previa de lo que hay al otro lado del código QR. Por ejemplo, un texto de 'App Store' les dice a los usuarios que están a punto de ser redirigidos a su aplicación en Apple App Store. O un simple 'Menú' para que los usuarios vean lo que ofrece tu restaurante.</p>
 
 <p>La idea es que querrá infundir confianza y eliminar cualquier incertidumbre con los códigos QR. A los clientes les gusta tener una idea de en qué se están metiendo antes de escanear el QR. Con los bordes y subtítulos correctos, puede hacer precisamente eso y aumentar las conversiones.</p>
 
-<p>Incluso en la <a href="#static:url">versión gratuita del generador de códigos QR</a> puede modificar los títulos de las plantillas. Cambia el <strong>"Escanearme"</strong> predeterminado a <strong>"Más información"</strong>, <strong>"Nuestro menú"</strong>, tu identificador de Instagram o un número de teléfono. Si su texto es demasiado largo o demasiado corto, puede disminuir o aumentar el tamaño de la fuente para que se vea mejor.</p>
+<p>Incluso en la <a href="#static:url">versión gratuita del generador de códigos QR</a> puede modificar los títulos de las plantillas. Cambie el <strong>"Escanearme"</strong> predeterminado a <strong>"Más información"</strong>, <strong>"Nuestro menú"</strong>, tu identificador de Instagram o un número de teléfono. Si su texto es demasiado largo o demasiado corto, puede disminuir o aumentar el tamaño de la fuente para que se vea mejor.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
@@ -42,11 +42,11 @@ Los <p><a href="#static:url">códigos QR</a> son una herramienta de marketing ú
 
 <h2>Cómo crear sus propias plantillas</h2>
 
-<p>Cuando utiliza <a href="#pro">ScanMeFindMe PRO</a>, tiene acceso a un conjunto de plantillas prediseñadas. No obstante, también puedes diseñar tus propias plantillas, subirlas y personalizar el <a href="#static:url">código QR generado en nuestra plataforma</a>.</p>
+<p>Cuando utiliza <a href="#pro">ScanMeFindMe PRO</a>, tiene acceso a un conjunto de plantillas prediseñadas. No obstante, también puede diseñar sus propias plantillas, subirlas y personalizar el <a href="#static:url">código QR generado en nuestra plataforma</a>.</p>
 
 <p>No solo eso, también puede <a href="#article:about_presets">crear ajustes preestablecidos</a> que incluyan su elección de plantillas para ahorrar tiempo en el futuro. </p>
 
-<p>Ahora, ¿cómo creas tus propias plantillas?</p>
+<p>Ahora, ¿cómo crea sus propias plantillas?</p>
 
 <p>Las plantillas son archivos de imagen en formato SVG. Una imagen SVG es un archivo XML que contiene etiquetas que representan diferentes elementos. Los navegadores web utilizan la información del archivo para representar la imagen en cualquier resolución. Puede crear un archivo SVG a través de un software de diseño gráfico como Adobe Illustrator o usar un convertidor de JPEG/PNG a SVG.</p>
 
