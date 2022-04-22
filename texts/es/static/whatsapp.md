@@ -1,4 +1,8 @@
-<h1>[WhatsApp] Crea un código QR para iniciar una conversación de WhatsApp</h1>
+<h1>[WhatsApp] Cree un código QR para iniciar una conversación de WhatsApp</h1>
+
+--- Previous titles ---
+
+Crea un código QR para iniciar una conversación de WhatsApp
 
 --- Text below the form ---
 

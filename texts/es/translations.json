@@ -2,7 +2,7 @@
   "app": {
     "acceptgotopro": "Acepto, llévame a PRO",
     "api": {
-      "metadesc": "¡La mejor API de código QR para compartir URL, texto, vCards, archivos! Genera y descarga códigos QR estáticos y dinámicos desde tu aplicación, sube tus propios archivos.",
+      "metadesc": "¡La mejor API de código QR para compartir URL, texto, vCards, archivos! Genere y descarge códigos QR estáticos y dinámicos desde tu aplicación, suba sus propios archivos.",
       "metatitle": "Generador de códigos QR: documentación de la API",
       "title": "API"
     },
@@ -10,11 +10,11 @@
     "cancel": "Cancelar",
     "close": "Cerrar",
     "contact": {
-      "contact": "Si tiene preguntas o sugerencias o desea una solución personalizada, contáctenos",
-      "contactinfo": "Información del contacto",
+      "contact": "Si tiene preguntas o sugerencias o desea una solución personalizada, por favor contáctenos",
+      "contactinfo": "Información de contacto",
       "contactus": "Contáctenos",
       "getback": "Nos pondremos en contacto con usted en breve",
-      "gotit": "¡Ok lo tengo!",
+      "gotit": "¡Perfecto, lo tengo!",
       "illtry": "Esta bien lo intentaré",
       "messagesubject": "Asunto (opcional)",
       "messagesubjectdefault": "Pregunta de ScanMeFindMe.com",
@@ -63,12 +63,12 @@
       "message": "Mensaje",
       "mobilephone": "Teléfono móvil",
       "notes": "Notas",
-      "organisation": "Organización",
+      "organisation": "Empresa",
       "other": "Otros",
       "otherphone": "Otro teléfono",
       "startdatetime": "Fecha y hora de inicio",
-      "subject": "Sujeto",
-      "tweettext": "Tweet texto",
+      "subject": "Tema",
+      "tweettext": "Texto de tweeter",
       "twitterprofile": "Enlace al perfil de Twitter",
       "twittertweet": "Publica un tweet",
       "urltoshare": "URL para compartir",
@@ -84,7 +84,7 @@
     "generatedqr": "Código QR",
     "hideadditional": "Ocultar parámetros adicionales",
     "info": "Info",
-    "launchpro": "<p>Cree una cuenta PRO en segundos y comience a disfrutar de una prueba de 14 días absolutamente gratis.</p><p>Antes de continuar con PRO, asegúrese de leer la <a href=\"#about:privacy\">política de privacidad</a> y <a href=\"#about:tos\">Términos de servicio</a></p>",
+    "launchpro": "<p>Cree una cuenta PRO en segundos y comience a disfrutar de una prueba de 14 días absolutamente gratis.</p><p>Antes de continuar con PRO, asegúrese de leer la <a href=\"#about:privacy\">política de privacidad</a> y los <a href=\"#about:tos\">Términos de servicio</a></p>",
     "loading": "Cargando",
     "menu": "Menú",
     "metadesc": "Cree atractivos códigos QR, elija su estilo, descárguelos como SVG, PNG, PDF o PS. API de código QR, análisis de escaneos. Generador de código QR en línea fácil de usar",
@@ -95,7 +95,7 @@
       "additionalusers": "usuarios adicionales",
       "apicalls": "Llamadas a la API cada año",
       "billedannually": "Facturado anualmente, <strong>{price}</strong> por año",
-      "connectplan": "Conecta este plan",
+      "connectplan": "Conecte este plan",
       "dynamiccodes": "códigos dinámicos",
       "exrateexplanation": "El precio real en {curr} puede ser ligeramente diferente en el momento del pago dependiendo de la tasa de conversión actual de EUR",
       "featuredemo": "Genere y descargue códigos QR en diferentes estilos y colores",
@@ -152,11 +152,11 @@
     "withproversionurl": "¡Con la versión PRO puede crear URL cortas y realizar un seguimiento de las vistas!"
   },
   "plan": {
-    "advanced": "Advanced",
-    "basic": "Basic",
-    "expert": "Expert",
-    "free": "Free",
-    "trial": "Trial"
+    "advanced": "Avanzado",
+    "basic": "Básico",
+    "expert": "Experto",
+    "free": "Gratis",
+    "trial": "Prueba"
   },
   "pro": {
     "all": "Todas",
@@ -215,8 +215,8 @@
     "continue": "Continuar",
     "copytoclipboard": "Copiar al portapapeles",
     "createnewcode": "Crear nuevo código",
-    "createnewdynamiccode": "Crea un código QR dinámico",
-    "createnewstaticcode": "Crea un código QR estático",
+    "createnewdynamiccode": "Cree un código QR dinámico",
+    "createnewstaticcode": "Cree un código QR estático",
     "dashboard": {
       "alltime": "Todo el tiempo",
       "create": "Crear",
@@ -292,13 +292,13 @@
         "subtitle": "Personalice los códigos QR agregando una imagen.",
         "title": "Logotipos",
         "uploader": "Cargue sus logotipos o arrastre y suelte aquí",
-        "yours": "Tus logotipos"
+        "yours": "Sus logotipos"
       },
       "name": "Nombre",
-      "noedithint": "Duplica este elemento para guardarlo en tu biblioteca para poder cambiarlo",
+      "noedithint": "Duplique este elemento para guardarlo en su biblioteca para poder cambiarlo",
       "presets": {
         "newname": "Nombre para el nuevo preset",
-        "nouseroptions": "Todavía no tienes ningún ajuste preestablecido",
+        "nouseroptions": "Todavía no tiene ningún ajuste preestablecido",
         "nouseroptions2": "Para agregar un ajuste preestablecido, duplique cualquier ajuste preestablecido del sistema",
         "savedesc": "Guarde el estilo QR actual como un ajuste preestablecido que puede usar con otros códigos QR. Puede administrar sus ajustes preestablecidos en la biblioteca",
         "savetitle": "Guardar preestablecido",
@@ -310,20 +310,20 @@
       "templates": {
         "cannotparsesvg": "SVG no se puede analizar, los últimos cambios no se procesan",
         "export": "Plantilla de exportación",
-        "nouseroptions": "Aún no tienes ninguna plantilla.",
+        "nouseroptions": "Aún no tiene ninguna plantilla.",
         "previewcaptions": "Vista previa del editor de subtítulos",
         "showsystem": "Mostrar plantillas del sistema",
         "subtitle": "Haga que el código QR parezca más interesante, agregue una etiqueta (título) con una frase pegajosa como \"Escanéame\" o coloque la información real del código QR allí.",
         "title": "Plantillas",
         "uploader": "Cargue sus plantillas o arrastre y suelte aquí",
-        "yours": "Tus plantillas"
+        "yours": "Sus plantillas"
       },
       "upload": "Subir"
     },
     "of": "de",
     "previewpage": "Vista previa de la página",
     "profile": {
-      "accountclosed": "Tu cuenta ha sido desactivada",
+      "accountclosed": "Su cuenta ha sido desactivada",
       "additionalusers": "Usuarios adicionales",
       "apicalls": "Llamadas a la API",
       "confirmdeleteaccount1": "Su cuenta será desactivada inmediatamente. Ya no podrá iniciar sesión con este correo electrónico.",
@@ -397,7 +397,7 @@
       "changeshorturl": "Cambiar URL corta",
       "description": "Asegúrese de no cambiar la URL después de imprimir el código QR, de lo contrario no funcionará",
       "domain": "Dominio",
-      "path": "Sendero"
+      "path": "Camino"
     },
     "staticcodes": "Códigos estáticos",
     "togglemenu": "Alternar menú",
@@ -408,10 +408,10 @@
     "color": "Color",
     "color1": "Color primario",
     "color2": "Color secundario",
-    "color3": "Color tercero",
-    "color4": "Color cuarto",
+    "color3": "Color terciario",
+    "color4": "Color cuaternario",
     "colors": "Colores",
-    "customeyecolor": "Personaliza el color de la esquina",
+    "customeyecolor": "Personalice el color de la esquina",
     "customeyes": "Personalizar esquinas",
     "designideas": "Ideas de diseño",
     "errorlevel": "Nivel de corrección de errores",
@@ -424,7 +424,7 @@
     "eyeoutlinecolor": "color del contorno",
     "fill": "Llenar",
     "fontsize": "Tamaño de fuente",
-    "gap": "Personaliza cómo se representan los bloques en el medio",
+    "gap": "Personalice cómo se representan los bloques en el medio",
     "gapheight": "Altura del hueco",
     "gapwidth": "Anchura de rendija",
     "inside": "En el interior",

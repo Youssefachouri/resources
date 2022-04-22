@@ -16,7 +16,7 @@ Ejemplo de URL corta
     </p>
 </div>
 
-<p class="mb-7">Te llevará al formulario de Google. En cualquier momento, el propietario puede cambiar a dónde redirige el enlace sin tener que crear un nuevo código QR.</p>
+<p class="mb-7">Le llevará al formulario de Google. En cualquier momento, el propietario puede cambiar a dónde redirige el enlace sin tener que crear un nuevo código QR.</p>
 
 <p>
     <img src="https://media.scanmefindme.com/dynamic/url/url-popup-dahsboard.png" width="100%" height="auto"

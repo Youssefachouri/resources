@@ -2,7 +2,7 @@
 
 --- Abstract / Meta description ---
 
-Los códigos QR no solo pueden ser enlaces a sitios web. Pueden "decirle" a su teléfono inteligente que inicie una llamada, conectarse a Wi-Fi, guardar tarjetas de contacto o eventos del calendario. Incluso pueden abrir aplicaciones específicas en su teléfono
+Los códigos QR no solo pueden ser enlaces a sitios web. Pueden "decirle" a su smartphone que inicie una llamada, conectarse a Wi-Fi, guardar tarjetas de contacto o eventos del calendario. Incluso pueden abrir aplicaciones específicas en su teléfono
 
 --- Short content 1 ---
 
@@ -10,7 +10,7 @@ Los códigos QR estáticos contienen información simple no editable, como una U
 
 ----------
 
-<p>Los códigos QR son una de las herramientas de marketing más asequibles y efectivas que cualquier empresa podría pedir. Estuvo infrautilizado durante años desde su introducción, pero desde entonces ha cobrado impulso gracias al aumento de la disponibilidad y la digitalización de los teléfonos inteligentes.</p>
+<p>Los códigos QR son una de las herramientas de marketing más asequibles y efectivas que cualquier empresa podría pedir. Estuvo infrautilizado durante años desde su introducción, pero desde entonces ha cobrado impulso gracias al aumento de la disponibilidad y la digitalización de los smartphones.</p>
 
 <p>Tanto si es un profesional del marketing, el fundador de una empresa emergente o un emprendedor experimentado, se sorprenderá de cómo los códigos QR mejoran la experiencia del cliente, aumentan la conversión y simplifican las operaciones comerciales. </p>
 
@@ -18,7 +18,7 @@ Los códigos QR estáticos contienen información simple no editable, como una U
 
 <h2>¿Qué son los códigos QR?</h2>
 
-<p>El código QR, que significa código de respuesta rápida, es el estándar más popular entre los códigos de barras bidimensionales. Lo más probable es que haya encontrado códigos QR al comprar boletos, hojear folletos o visitar eventos comerciales. </p>
+<p>El código QR, que significa código de respuesta rápida, es el estándar más popular entre los códigos de barras bidimensionales. Lo más probable es que haya encontrado códigos QR al comprar tickets, hojear folletos o visitar eventos comerciales. </p>
 
 <p>Los códigos QR son cuadrados y tienen tres marcadores idénticos en las esquinas, que sobresalen del resto de los píxeles. Estos marcadores ayudan al escáner a detectar los bordes de un código QR. Dentro del área escaneable, el código QR está lleno de espacios en blanco y negro más pequeños, que contienen la información codificada.</p>
 
@@ -29,15 +29,15 @@ Los códigos QR estáticos contienen información simple no editable, como una U
         alt="Ejemplo de código QR, ScanMeFindMe">
 </p>
 
-<p>También es interesante notar que los códigos QR están construidos con un algoritmo de corrección de errores. Según el tamaño y la información almacenada, un código QR sigue siendo legible incluso si tiene cubierto hasta el 30 % de su área. </p>
+<p>También es interesante notar que los códigos QR están diseñados con un algoritmo de corrección de errores. Según el tamaño y la información almacenada, un código QR sigue siendo legible incluso si tiene cubierto hasta el 30 % de su área. </p>
 
-<p>Para los especialistas en marketing, la solidez de QR Code es una oportunidad de marca. Abre la posibilidad de colocar un <a href="#article:about_logos" title="Códigos QR con logo">logotipo</a> o icono en medio del código QR, sin comprometer su integridad. </p>
+<p>Para los especialistas en marketing, la solidez del código QR es una oportunidad de marca. Abre la posibilidad de colocar un <a href="#article:about_logos" title="Códigos QR con logo">logotipo</a> o icono en medio del código QR, sin comprometer su integridad. </p>
 
 <p>Se recomienda utilizar un generador QR profesional para insertar un logotipo en el código. Reduce el riesgo de cometer errores que hacen ilegible el código QR. </p>
 
 <h2>¿Cuánta información pueden almacenar? </h2>
 
-<p>Los códigos QR son una mejora revolucionaria del código de barras unidimensional, particularmente en términos de tamaño de almacenamiento. Un código QR almacena hasta 4296 caracteres alfanuméricos o 7089 números, mientras que la mayoría de los códigos de barras 1D solo pueden administrar hasta 20 caracteres numéricos. Los códigos QR también son capaces de codificar símbolos no latinos como Kanji y jeroglíficos, pero esto reduce su capacidad de datos. </p>
+<p>Los códigos QR son una mejora revolucionaria del código de barras unidimensional, sobre todo en términos de tamaño de almacenamiento. Un código QR almacena hasta 4296 caracteres alfanuméricos o 7089 números, mientras que la mayoría de los códigos de barras 1D solo pueden administrar hasta 20 caracteres numéricos. Los códigos QR también son capaces de codificar símbolos no latinos como Kanji y jeroglíficos, pero esto reduce su capacidad de datos. </p>
 
 <p>Para una mejor comparación, es posible incluir todos los detalles básicos (nombre, correo electrónico, dirección, número de teléfono) de un cliente en un código QR. Esto no es posible si todavía está utilizando el antiguo código de barras 1D. </p>
 
@@ -45,13 +45,13 @@ Los códigos QR estáticos contienen información simple no editable, como una U
 
 <H2>¿Qué sucede cuando escaneas un código QR?</h2>
 
-<p>No hay mejor momento para hacer que los códigos QR formen parte de su plan de marketing. Eso es porque casi todo el mundo parece tener un escáner de código QR personal, es decir, su teléfono inteligente. </p>
+<p>No hay mejor momento para hacer que los códigos QR formen parte de su plan de marketing. Eso es porque casi todo el mundo parece tener un escáner de código QR personal, es decir, su smartphone. </p>
 
 <p>No necesita un escáner de código de barras especial y dedicado para decodificar un código QR. Si está utilizando un iPhone, la cámara está integrada con un escáner de código QR. Mientras tanto, los usuarios de Android deben descargar una aplicación de escáner QR, si sus modelos de teléfonos inteligentes no tienen un escáner QR integrado.</p>
 
 <p>Para escanear un código QR, inicie la aplicación de escáner QR y alinee el código QR con el área de escaneo designada. La cámara capturará automáticamente el código QR y recuperará la información codificada, que normalmente contiene textos y números.</p>
 
-<p>Ahora, es difícil imaginar cómo el texto sin formato y los números pueden hacer maravillas en marketing, pero lo hacen cuando su audiencia tiene un teléfono inteligente. Permite que los códigos QR se usen de manera interactiva y creativa al hacer que el teléfono inteligente responda de manera única a diferentes tipos de información.
+<p>Ahora, es difícil imaginar cómo el texto sin formato y los números pueden hacer maravillas en marketing, pero lo hacen cuando su audiencia tiene un smartphone. Permite que los códigos QR se usen de manera interactiva y creativa al hacer que el smartphone responda de manera única a diferentes tipos de información.
 
 <p>Esto se hace incluyendo texto con formato como "mailto:" o "tel:", que le indica al teléfono que envíe un correo electrónico o marque un número respectivamente, en el código QR. Por supuesto, ninguna de las acciones se lleva a cabo automáticamente sin su confirmación.</p>
 
@@ -74,7 +74,7 @@ Los códigos QR estáticos contienen información simple no editable, como una U
 <ul>
     <li><strong>URL</strong>: el código QR contiene un enlace a su página web que se puede iniciar en un navegador.</li>
     <li><strong>Teléfono</strong>: un número de teléfono está codificado en el código QR. Cuando se escanea, abre la aplicación del teléfono y automáticamente completa el número de teléfono.</li>
-    <li><strong>SMS/ Whatsapp</strong>: almacena el número de teléfono del destinatario en el código QR. Abre la aplicación de mensajería de texto respectiva con el número precargado cuando se escanea.</li>
+    <li><strong>SMS/ Whatsapp</strong>: almacena el número de teléfono del destinatario en el código QR. Abre la aplicación de mensajería de texto correspondiente al número precargado cuando se escanea.</li>
     <li><strong>Facebook/Twitter</strong>: el código QR contiene el enlace a la página de la red social. Escanear el código QR abre la página en un navegador o la aplicación respectiva si está instalada.</li>
     <li><strong>WiFi</strong>: almacena su credencial de WiFi. Es útil si tienes un café. Ya no tendrá que entregar pequeños trocitos de su contraseña WiFi.</li>
     <li><strong>Correo electrónico</strong>: contiene una dirección de correo electrónico y activa automáticamente una aplicación de correo electrónico con la dirección del destinatario precargada cuando se escanea. </li>
@@ -120,7 +120,7 @@ Los códigos QR estáticos contienen información simple no editable, como una U
 
 <H2> Administrar códigos QR dinámicos con ScanMeFindMe Pro</h2>
 
-<p>Una vez que haya creado un código QR dinámico, puede administrarlo con facilidad en el tablero. </p>
+<p>Una vez que haya creado un código QR dinámico, puede administrarlo con facilidad en el panel de control. </p>
 
 <p>Si necesita descargar el código QR, simplemente haga clic en el botón Descargar QR y se le presentarán varias opciones de imagen y configuraciones de página avanzadas.</p>
 
