@@ -1,5 +1,9 @@
 <h1>[URL] Cree un código QR para una pagina web o URL</h1>
 
+--- Previous titles ---
+
+Crea un código QR para una pagina web o URL
+
 ----------
 
 <h1>Soluciones sencillas de códigos QR para expertos en marketing</h1>
