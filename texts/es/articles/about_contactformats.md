@@ -1,5 +1,9 @@
 <h1>¿Cuáles son los formatos MeCard y vCard usados para los códigos QR?</h1>
 
+--- Previous titles ---
+
+¿Cuáles son los formatos MeCard y vCard que se utilizan para los códigos QR?
+
 --- Abstract / Meta description ---
 
 ¿Cuáles son las diferencias entre MeCard y Vcard? ¿Cuál funciona mejor para los códigos QR? Obtenga más información en este artículo.
