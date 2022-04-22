@@ -188,10 +188,10 @@
     "billing": {
       "addresscity": "Ciudad",
       "addresscountry": "País",
-      "addressline": "Dirección de facturación, línea {número}",
+      "addressline": "Dirección de facturación, línea {no}",
       "addresspostalcode": "Código Postal",
       "addressstate": "Estado/región",
-      "billingdesc": "Se le cobrará inmediatamente {cantidad} por el primer año y se suscribirá para pagos recurrentes. Puedes cancelar la suscripción en cualquier momento",
+      "billingdesc": "Se le cobrará inmediatamente {amount} por el primer año y se suscribirá para pagos recurrentes. Puedes cancelar la suscripción en cualquier momento",
       "billingemail": "Correo Electrónico de Facturas",
       "billinginfo": "Datos de facturación",
       "billingname": "Nombre de facturación",
