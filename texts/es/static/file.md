@@ -1,5 +1,9 @@
 <h1>[Archivo] Cree un código QR para un archivo</h1>
 
+--- Previous titles ---
+
+Crea un código QR para un archivo
+
 --- Text above the form ---
 
 <p class="smfm-static-file-link">¿Su archivo ya está en Internet y solo desea crear un enlace estático para él?<br>
