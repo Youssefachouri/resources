@@ -142,9 +142,8 @@ correct page URL.
   defines sort order of the articles
 * Create a folder `media/articles/{articlename}/logo/` and place an image there
   that will be used as an article main image
-* Open file `other/generate_og/index.html` in the browser, select the article, add the text and press 'Draw'
-  (sometimes you need to press is twice). Save the generated OG image in the
-  folder `media/articles/{articlename}/ogimage/`
+* Place images required for the article into `media/articles/{articlename}/files/`
+* Generate OG image using script in `other/generate_og/` and place it in `media/articles/{articlename}/ogimage/`
 
 # Deployment
 

@@ -17,7 +17,7 @@
 <div>
     <div class="container-fluid p-a-6">
         <div class="row  pa-6">
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="form-group">
                     Language: <input type="text" value="en" id="lang" size="10" onchange="changeselect()">
                     <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">en</a>
@@ -41,13 +41,19 @@
                     -->
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="form-group">
-                    <textarea id="caption" rows="5" cols="30"></textarea><br><br>
+                    <textarea id="caption" rows="6" cols="30"></textarea><br><br>
                     <input type="text" id="qrcodegenerator" value="QR code generator">
                 </div>
                 <div class="form-group">
-                    <button onclick="draw()">draw</button> ... <button onclick="savepng()">save</button>
+                    <button onclick="draw()">update</button> ... <button onclick="savepng()">save</button> ... <button onclick="saveserver()">save on server</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                    Existing image:<br><br>
+                    <img id="existingimage" style="max-width: 300px; border: 1px solid gray" src="">
                 </div>
             </div>
         </div>

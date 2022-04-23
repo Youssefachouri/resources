@@ -81,10 +81,15 @@ function GFontToDataURI(url) {
 }
 
 function changeselect() {
-    const lang = document.getElementById('lang').value 
-    
+    const lang = document.getElementById('lang').value
+
     document.getElementById('logoimage').src =
         "../../media/articles/" + document.getElementById('logoselect').value + "/logo/logo.svg"
+
+    let langsuffix = '_' + document.getElementById('lang').value
+    const filename = 'og' + (langsuffix === '_en' ? '' : langsuffix) + ".png"
+    document.getElementById('existingimage').src =
+        "../../media/articles/" + document.getElementById('logoselect').value + "/ogimage/"+ filename
 
     readFile('../../texts/'+lang+'/articles/' + document.getElementById('logoselect').value + '.md', (t) => {
         var firstLine = t.split('\n')[0].replace(/<h1>/i, '').replace(/<[\\/]h1>/i, '');
@@ -97,9 +102,6 @@ function addImage(ctx, src) {
 
     const image = new Image(); // Using optional size for image
     image.onload = function() {
-        // console.log(this)
-        // console.log(this.naturalWidth + " , "+this.naturalHeight)
-        
         // Use the intrinsic size of image in CSS pixels for the canvas element
         // canvas.width = this.naturalWidth;
         // canvas.height = this.naturalHeight;
@@ -123,7 +125,7 @@ function addImage(ctx, src) {
         ctx.drawImage(this, (625 - width)/2, (625 - height)/2, width, height);
     }
 
-// Load an image of intrinsic size 300x227 in CSS pixels
+    // Load an image of intrinsic size 300x227 in CSS pixels
     image.src = src;
 
 }
@@ -151,6 +153,38 @@ function savepng() {
 
 }
 
+function saveserver() {
+    const mimetype = "image/png"
+    const imgURI = document.getElementById('maincanvas')
+        .toDataURL(mimetype)
+        .replace(/^data:image\/png;base64,/, "");
+
+    let lang = '_' + document.getElementById('lang').value
+    const filename = 'og' + (lang === '_en' ? '' : lang) + ".png"
+
+    var query = (params) => Object.keys(params)
+        .map(k => encodeURIComponent(k) + '=' + encodeURIComponent(params[k]))
+        .join('&');
+
+    var http = new XMLHttpRequest();
+    var url = 'store.php';
+    var params = query({filename, article: document.getElementById('logoselect').value, file: imgURI})
+    http.open('POST', url, true);
+
+    http.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+
+    http.onreadystatechange = function() {
+        if (http.readyState === 4 && http.status === 200) {
+            document.getElementById('existingimage').src =
+                "../../media/articles/" + document.getElementById('logoselect').value + "/ogimage/"+ filename+"?x="+Math.random()
+            if (http.responseText !== "OK") {
+                alert(http.responseText);
+            }
+       }
+    }
+    http.send(params);
+}
+
 function readFile(theURL, funcSuccess) {
     if (window.XMLHttpRequest) { // code for IE7+, Firefox, Chrome, Opera, Safari, SeaMonkey
         xmlhttp = new XMLHttpRequest();
@@ -170,13 +204,7 @@ function readFile(theURL, funcSuccess) {
 }
 
 function loadAll() {
-    //console.log('teststuff')
-    //var dirname = (loc) => loc.substring(0, loc.lastIndexOf('/'));
-    var basedir = '../../'
-    //var file = basedir + '/texts/en/articles/metadata.json'
-    //console.log('Metadata file: ' + file);
-    
-    readFile(basedir + 'texts/en/articles/metadata.json', (t) => {
+    readFile('../../texts/en/articles/metadata.json', (t) => {
         var articles = JSON.parse(t)
         var logoselect = document.getElementById('logoselect');
         for (var i in articles) {
@@ -188,7 +216,6 @@ function loadAll() {
 }
 
 function quicklang(el) {
-    console.log(el.innerHTML)
     document.getElementById('lang').value = el.innerHTML
     document.getElementById('qrcodegenerator').value = el.getAttribute('data-subtitle')
     changeselect()
@@ -198,7 +225,7 @@ const formatTextWrap = (text, maxLineLength) => {
     const words = text.replace(/[\r\n]+/g, ' ').split(' ');
     let lineLength = 0;
 
-    // use functional reduce, instead of for loop 
+    // use functional reduce, instead of for loop
     return words.reduce((result, word) => {
         if (lineLength + word.length >= maxLineLength) {
             lineLength = word.length;
@@ -226,14 +253,14 @@ const howGoodIsTheWrap = (wrap, textlen) => {
     const minlength = Math.min(...linelengths)
     const noflines = linelengths.length
     const avglength = linelengths.reduce((partialSum, a) => partialSum + a, 0) / noflines;
-    
+
     w = w + Math.round((1-minlength/maxlength)*15)
     if (noflines > 4) {
         w = w + (noflines - 4) * 40
     } else {
         const opt1 = 8
         const opt2 = 13
-        // Optimum line length is 8-13 chars, lines bigger and smaller should be penalised 
+        // Optimum line length is 8-13 chars, lines bigger and smaller should be penalised
         w = w + Math.max(0, avglength - opt2) * 2
         w = w + Math.max(0, opt1 - avglength) * 2
     }
@@ -245,23 +272,15 @@ const findBestWrap = (text) => {
     //let weights = []
     for (var len=Math.floor(text.length / 4); len < text.length + 1; len++) {
         const w = formatTextWrap(text, len)
-        //wraps[len] = w
-        //weights[len] = howGoodIsTheWrap(w)
         wraps[w] = howGoodIsTheWrap(w)
     }
-    //console.log(wraps)
-    //console.log(weights)
 
     var keys = Object.keys(wraps);
     var s = keys.sort(function(a,b){return wraps[a]-wraps[b]});
-    //console.log(s)
     return s[0]
 }
 
 function settext(text) {
-    // console.log(text)
-    // console.log(formatTextWrap(text, 20))
-    // console.log(formatTextWrap(text, 5))
     const w = findBestWrap(text)
     const lineslengths = getLineLengths(w), maxlength = Math.max(...lineslengths)
     document.getElementById('caption').value = w
@@ -269,18 +288,6 @@ function settext(text) {
     const sizes = {13: 65, 14: 63, 15: 59, 16: 53, 17: 51, 18: 48, 19: 46, 20: 45, 21: 43, 22: 42, 23: 39, 24: 37, 25: 36}
     if (maxlength >= 13 && maxlength <= 25) sz = sizes[maxlength]
     if (maxlength > 25) sz = 35
-    // 23 - 39
-    // 22 - 43
-    // 21 - 45, 41
-    // 20 char -> size 45
-    // 19 - 47, 46
-    // 18 char -> size 46, 50
-    // 17 - 51
-    // 16 char -> size 53
-    // 14 - 59, 65, 64
-    // 13 - 67, 60, 66
-    // 12 - 70
-    console.log("maxlength = "+maxlength)
     document.getElementById('captionsize').value = sz
 }
 
