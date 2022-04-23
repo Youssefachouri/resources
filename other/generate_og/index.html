@@ -4,27 +4,54 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
     </style>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
 
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 </head>
 <body>
 <div>
-    <textarea id="caption" rows="5" cols="80">line 1
-line 2</textarea><br>
-    Caption size: <input type="text" id="captionsize" value="70" size="5"><br>
-    <input type="text" id="qrcodegenerator" value="QR code generator"><br>
-    <select id="logoselect" onchange="changeselect()">
-        <option value="about_contactformats">about_contactformats</option>
-        <option value="about_dynamic_contact">about_dynamic_contact</option>
-        <option value="about_dynamic_page">about_dynamic_page</option>
-        <option value="about_dynamic_url">about_dynamic_url</option>
-        <option value="about_logos">about_logos</option>
-        <option value="about_presets">about_presets</option>
-        <option value="about_static">about_static</option>
-        <option value="about_statistics">about_statistics</option>
-        <option value="about_templates">about_templates</option>
-    </select><br>
-<button onclick="draw()">draw</button> ... <button onclick="savepng()">save</button>
-    <br><br>
+    <div class="container-fluid p-a-6">
+        <div class="row  pa-6">
+            <div class="col-md-4">
+                <div class="form-group">
+                    Language: <input type="text" value="en" id="lang" size="10" onchange="changeselect()">
+                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">en</a>
+                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">de</a>
+                    <a href="#" onclick="return quicklang(this)" data-subtitle="Generador de c&#243;digos QR">es</a>
+                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">fr</a>
+                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">pt</a>
+                </div>
+                <div class="form-group">
+                    Select article: <select id="logoselect" onchange="changeselect()"></select>
+                </div>
+                <div class="form-group">
+                    Caption size: <input type="text" id="captionsize" value="70" size="5">
+                    <a href="#" onclick="return changesize(1)" style="text-decoration: none">&#9650;</a>
+                    <a href="#" onclick="return changesize(-1)" style="text-decoration: none">&#9660;</a>
+                    <!--
+                    U+25B3 &#9651; (up white)
+                    U+25B2 &#9650; (up black)
+                    U+25BD &#9661; (down white)
+                    U+25BE &#9660; (down black)
+                    -->
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-group">
+                    <textarea id="caption" rows="5" cols="30"></textarea><br><br>
+                    <input type="text" id="qrcodegenerator" value="QR code generator">
+                </div>
+                <div class="form-group">
+                    <button onclick="draw()">draw</button> ... <button onclick="savepng()">save</button>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 <div>
     <canvas id="maincanvas" width="1200" height="625"></canvas>
@@ -39,7 +66,7 @@ line 2</textarea><br>
 <script>
     window.onload = function() {
         GFontToDataURI('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-        changeselect()
+        loadAll()
     }
 </script>
 </body>
