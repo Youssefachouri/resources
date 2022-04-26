@@ -1,7 +1,7 @@
-<h1>[Telefon] Erstellen Sie einen QR-Code für eine Telefonnummer</h1>
+<h1>[Telefon] Erstellen Sie einen QR-Code für eine Rufnummer</h1>
 
---- Text above the form ---
+--- Text  oberhalb des Formulars ---
 
-<p class="hint smfm-hint">Geben Sie eine Telefonnummer in einem beliebigen Format ein, das ein Smartphone erkennen kann. Es kann in einem lokalen Format vorliegen, wenn Sie erwarten, dass es nur von Personen aus Ihrer Stadt/Ihrem Land gescannt wird. Das internationale Telefonformat funktioniert jedoch am besten.</p>
+<p class="hint smfm-hint">Geben Sie eine Telefonnummer in einem beliebigen Format ein, das ein Smartphone erkennen kann. Es kann ein lokales Format sein, wenn Sie erwarten, dass nur Personen aus Ihrer Stadt/Ihrem Land den Code scannen, aber das internationale Telefonformat funktioniert am besten.</p>
 
 ----------
