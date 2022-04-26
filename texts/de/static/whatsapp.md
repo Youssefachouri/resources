@@ -2,7 +2,7 @@
 
 --- Text unterhalb des Formulars ---
 
-<p Durch Scannen des Codes wird eine Unterhaltung in WhatsApp geöffnet!</p>
+  <p Durch Scannen des Codes wird eine Unterhaltung in WhatsApp geöffnet!</p>
 
 --- Text oberhalb des Formulars ---
 
