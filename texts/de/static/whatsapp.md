@@ -2,7 +2,7 @@
 
 --- Text below the form ---
 
-<p class="font-italic hint smfm-hint">Das Scannen des Codes öffnet eine Unterhaltung in WhatsApp!</p>
+<p class="font-italic hint smfm-hint">Durch Scannen des Codes wird eine Unterhaltung in WhatsApp geöffnet!</p>
 
 --- Text above the form ---
 

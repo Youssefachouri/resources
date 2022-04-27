@@ -27,7 +27,7 @@ if ($filename) {
 }
 
 if (count($errors)) {
-    echo join("\n", $errors)."\n";
+    echo join("\n\n", $errors)."\n";
     exit(1);
 }
 
@@ -83,10 +83,10 @@ function comparefiles($language, $section, $filename): array {
     }
 
     // Compare each part.
-    $parts = array_diff(array_keys($endata), ['h1logn', 'h1short']);
+    $parts = array_diff(array_keys($endata), ['h1logn', 'h1short'], $missing);
     foreach ($parts as $part) {
         $errors = array_merge($errors,
-            comparetext($langfile, $section, $part, $langoffsets[$part], $endata[$part] ?? '', $langdata[$part] ?? ''));
+            comparetext($langfile, $section, $part, $langoffsets[$part] ?? 0, $endata[$part] ?? '', $langdata[$part] ?? ''));
     }
 
     return $errors;
