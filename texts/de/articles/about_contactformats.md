@@ -12,7 +12,7 @@ Vcard speichert mehr Informationen und wird in der Regel für den Austausch von 
 
 <p>Sie haben sicher schon gehört, dass QR-Codes das soziale Netzwerken erleichtern. Sie können auf stapelweise gedruckte Visitenkarten verzichten und alle Ihre Kontaktdaten in einem QR-Code codieren lassen. </p>
 
-<p>Bei der Erstellung eines QR-Codes für Kontakte muss jedoch oft eine Entscheidung getroffen werden. Sollen Sie das MeCard- oder das Vcard-Format wählen? </p>
+<p>Bei der Erstellung eines <a href="#static:contact">QR-Codes</a> für Kontakte muss jedoch oft eine Entscheidung getroffen werden. Sollen Sie das MeCard- oder das Vcard-Format wählen? </p>
 
 <p>Für die meisten Menschen sind Begriffe wie MeCard und Vcard ungewohnt und einschüchternd. Aber wenn man den grundlegenden Unterschied zwischen beiden Formaten kennt, kann man die richtige Wahl treffen, wenn man QR-Codes für Kontakte drucken möchte.</p>
 
@@ -61,15 +61,15 @@ END:VCARD</pre>
 
 <p>Es hängt davon ab, wie Sie den QR-Code verwenden möchten. MeCard ist einfach und Sie können ihn leicht auf eine Visitenkarte drucken. Sie benötigen keine Internetverbindung, um die Kontaktinformationen zu scannen und in Ihrem Telefonbuch zu speichern.</p>
 
-<p>Vcard wird in größerem Umfang für die gemeinsame Nutzung von Kontakten verwendet und ist in Bezug auf die Art der gespeicherten Informationen überlegen. Vcard kann zwar als statischer QR-Code gespeichert werden, aber Sie haben viel mehr davon, wenn Sie ihn als dynamischen QR-Code verwenden.</p>
+<p>Vcard wird in größerem Umfang für die gemeinsame Nutzung von Kontakten verwendet und ist in Bezug auf die Art der gespeicherten Informationen überlegen. Vcard kann zwar als statischer QR-Code gespeichert werden, aber Sie haben viel mehr davon, wenn Sie ihn als <a href="#article:about_dynamic_contact" title="Dynamischer QR-Code für Kontaktkarten">dynamischen QR-Code</a> verwenden.</p>
 
-<p>Ein dynamischer QR-Code speichert einen Link, der den Benutzer zu einer Webseite weiterleitet, auf der er die Kontaktdaten im VCF-Format ansehen und herunterladen kann. Sie können auch Fotos und Links zu sozialen Medien einfügen, wenn Sie ScanMeFindMe PRO verwenden.</a></p>
+<p>Ein dynamischer QR-Code speichert einen Link, der den Benutzer zu einer Webseite weiterleitet, auf der er die Kontaktdaten im VCF-Format ansehen und herunterladen kann. Sie können auch Fotos und Links zu sozialen Medien einfügen, wenn Sie <a href="#pro">ScanMeFindMe PRO</a> verwenden.</p>
 
-<p>Außerdem ist ein dynamischer Vcard-QR-Code kompakter, da er die URL der virtuellen Karte speichert und nicht die tatsächlichen Kontakte. Sie können auch verfolgen, wie viele Personen Ihre Kontakte mit einer dynamischen Vcard gescannt und angesehen haben.</p>
+<p>Außerdem ist ein dynamischer Vcard-QR-Code kompakter, da er die URL der virtuellen Karte speichert und nicht die tatsächlichen Kontakte. Sie können auch <a href="#article:about_statistics" title="QR-Code-Scans verfolgen">verfolgen</a>, wie viele Personen Ihre Kontakte mit einer dynamischen Vcard gescannt und angesehen haben.</p>
 
 <h2>So generieren Sie QR-Codes mit MeCard- und VCard-Formaten</h2>
 
-<p>ScanMeFindMe unterstützt sowohl das MeCard- als auch das VCard-Format. Sie können statische MeCard- und VCard-Kontakte mit unserem kostenlosen QR-Code-Generator erstellen
+<p>ScanMeFindMe unterstützt sowohl das MeCard- als auch das VCard-Format. Sie können statische MeCard- und VCard-Kontakte mit unserem <a href="#static:contact">kostenlosen QR-Code-Generator</a> erstellen</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - create a qr code for contact.png"
@@ -78,7 +78,7 @@ END:VCARD</pre>
 
 <p>Wählen Sie einfach das gewünschte Format und füllen Sie die Felder entsprechend aus. Der entsprechende QR-Code wird dabei automatisch generiert.</p>
 
-<p>Wie bereits erwähnt, können Sie mit einem dynamischen Vcard-Kontakt viel mehr tun.</p>
+<p>Wie bereits erwähnt, können Sie mit einem <a href="#article:about_dynamic_contact">dynamischen Vcard-Kontakt</a> viel mehr tun.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - contact card.png"

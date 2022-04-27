@@ -99,7 +99,7 @@
       "dynamiccodes": "dynamische Codes",
       "exrateexplanation": "Der tatsächliche Preis in {curr} kann zum Zeitpunkt der Zahlung geringfügig abweichen, abhängig vom aktuellen Umrechnungskurs von EUR",
       "featuredemo": "Generieren Sie QR-Codes in verschiedenen Stilen und Farben und laden Sie sie herunter.",
-      "featurelibrary": "Hochladen und Verwenden von <strong>eigenen Logos, Vorlagen und Presets</strong",
+      "featurelibrary": "Hochladen und Verwenden von <strong>eigenen Logos, Vorlagen und Presets</strong>",
       "featurelogos": "Wählen Sie aus über 30 verschiedenen Logos",
       "featuretemplates": "Rahmen und Etiketten hinzufügen",
       "metadesc": "Immer kostenlose statische QR-Codes. Kostenlose 14-Tage-Testversion für dynamische QR-Codes. Verfolgen Sie Scans Ihrer QR-Codes, verwenden Sie die QR-Code-API, laden Sie Ihre Inhalte hoch",
@@ -191,7 +191,7 @@
       "addressline": "Rechnungsadresse, Zeile {no}",
       "addresspostalcode": "Postleitzahl",
       "addressstate": "Bundesland/Region",
-      "billingdesc": "Sie werden sofort mit {Betrag} für das erste Jahr belastet und abonnieren für wiederkehrende Zahlungen. Sie können das Abonnement jederzeit kündigen",
+      "billingdesc": "Sie werden sofort mit {amount} für das erste Jahr belastet und abonnieren für wiederkehrende Zahlungen. Sie können das Abonnement jederzeit kündigen",
       "billingemail": "E-Mail für die Rechnungsstellung",
       "billinginfo": "Informationen zur Rechnungsstellung",
       "billingname": "Name des Rechnungsstellers",
@@ -209,7 +209,7 @@
       "subscriptionwithoutrenewal": "Sie haben ein Abonnement ohne Verlängerung!",
       "trialended": "Ihr Probezeitraum ist beendet",
       "yourplan": "Ihr aktueller Plan:",
-      "yourplanended": "Wenn Sie sich entscheiden, keinen Plan zu kaufen, wird Ihr Konto am {datum} automatisch gelöscht"
+      "yourplanended": "Wenn Sie sich entscheiden, keinen Plan zu kaufen, wird Ihr Konto am {date} automatisch gelöscht"
     },
     "confirm": "Bestätigen Sie",
     "continue": "Weiter",
@@ -280,7 +280,7 @@
       "delete": "Löschen",
       "duplicate": "Duplizieren",
       "edit": "Bearbeiten",
-      "editfile": "Bearbeiten {Datei}",
+      "editfile": "Bearbeiten {file}",
       "editname": "Name bearbeiten",
       "editsvg": "SVG-Quelle bearbeiten",
       "filenametoolong": "Dateiname ist zu lang",
@@ -320,7 +320,7 @@
       },
       "upload": "Hochladen"
     },
-    "von": "von",
+    "of": "von",
     "previewpage": "Vorschau der Seite",
     "profile": {
       "accountclosed": "Ihr Konto wurde deaktiviert",
@@ -356,7 +356,7 @@
       "support": "Unterstützen Sie",
       "uploadedfiles": "Hochgeladene Dateien",
       "usageleft": "{n}% übrig",
-      "usageof": "{verwendet} von {Gesamt}"
+      "usageof": "{used} von {total}"
     },
     "qrlist": {
       "addingto": "Hinzufügen von Tags zu den folgenden QR-Codes:",
@@ -364,7 +364,7 @@
       "browser": "Browser",
       "city": "Stadt",
       "confirmdelete": "Sind Sie sicher, dass Sie die folgenden QR-Codes löschen möchten?",
-      "confirmdelete1": "Sind Sie sicher, dass Sie {Name} löschen möchten QR-Code?",
+      "confirmdelete1": "Sind Sie sicher, dass Sie {name} löschen möchten QR-Code?",
       "country": "Land",
       "datecreated": "Datum erstellt",
       "delete": "Löschen",

@@ -12,7 +12,7 @@
 
 <p>Generieren Sie in einfachen Schritten QR-Codes für Websites, Kontakte, Telefone, SMS und mehr. Sie müssen kein technisches Genie sein.</p>
 
-<h2>herunterladen</h2>
+<h2>Herunterladen</h2>
 
 <p>Laden Sie QR-Codes im hochauflösenden Format herunter. Legen Sie die genaue Position des QR-Codes mit den erweiterten Seiteneinstellungen fest.</p>
 
@@ -28,10 +28,10 @@
 
 <p>Nutzen Sie QR-Code-Analysen in Echtzeit, um Scans, Standorte, Sprache, Plattform und andere wichtige Kennzahlen zu verfolgen. Ein Muss für datengesteuerte Marketingbemühungen.</p>
 
-
+<p><a href="#article:about_statistics">Weitere Informationen</a></p>
 
 <h2>Entschlüsseln Sie dynamische QR-Codes mit ScanMeFindMe PRO</h2>
 
-<p>Dynamische QR-Codes machen ihrem Namen alle Ehre. Sie können die Informationen dynamisch ändern, nachdem Sie den QR-Code gedruckt haben. Dynamische QR-Codes sind nur in ScanMeFindMe PRO verfügbar
+<p>Dynamische QR-Codes machen ihrem Namen alle Ehre. Sie können die Informationen dynamisch ändern, nachdem Sie den QR-Code gedruckt haben. Dynamische QR-Codes sind nur in ScanMeFindMe PRO verfügbar</p>
 
 <p><a href="#article:about_static">Statische vs. dynamische QR-Codes (Erfahren Sie mehr)</a></p>
