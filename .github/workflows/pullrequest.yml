@@ -15,8 +15,8 @@ jobs:
       - name: Check out repository code (master)
         uses: actions/checkout@v2
         with:
-          path: master
-          ref: master
+          path: production
+          ref: production
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -35,6 +35,6 @@ jobs:
             php other/validate/validate.php "${lang}" articles || error=1
             php other/validate/validate.php "${lang}" static || error=1
             php other/validate/validate.php "${lang}" dynamic || error=1
-            php other/validate/compareheaders.php "${lang}" "../master/texts/${lang}" || error=1
+            php other/validate/compareheaders.php "${lang}" "../production/texts/${lang}" || error=1
           done
           [[ "$error" == "0" ]]
