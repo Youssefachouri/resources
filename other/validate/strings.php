@@ -15,7 +15,7 @@ $langfile = "texts/{$language}/translations.json";
 
 $errors = comparejsonfiles($enfile, $langfile);
 if (count($errors)) {
-    echo join("\n", $errors)."\n";
+    echo join("\n\n", $errors)."\n\n";
     exit(1);
 }
 

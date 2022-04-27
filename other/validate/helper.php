@@ -203,7 +203,7 @@ function comparetags($langfile, $section, $sname, $partkey, $lineno, $entext, $l
 
     if (join('', $entags) !== join('', $langtags)) {
         $language = preg_match('|texts/(.*?)/|', $langfile, $matches) ? $matches[1] : '??';
-        return ["File {$langfile} ($lineno): tags do not match:\n    en: {$entext}\n    {$language}: {$langtext}\n"];
+        return ["File {$langfile} ($lineno): tags do not match:\n    en: {$entext}\n    {$language}: {$langtext}"];
     }
 
     return [];
@@ -219,7 +219,7 @@ function compareplaceholders($langfile, $section, $sname, $partkey, $lineno, $en
 
     if (join('', $entags) !== join('', $langtags)) {
         $language = preg_match('|texts/(.*?)/|', $langfile, $matches) ? $matches[1] : '??';
-        return ["File {$langfile} ($lineno): placeholders do not match:\n    en: {$entext}\n    {$language}: {$langtext}\n"];
+        return ["File {$langfile} ($lineno): placeholders do not match:\n    en: {$entext}\n    {$language}: {$langtext}"];
     }
 
     return [];

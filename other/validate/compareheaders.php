@@ -49,7 +49,6 @@ function checktitles($language, $section, $filename, $oldfilename): array {
     $headerchanged = $data['h1long'] !== $olddata['h1long'];
     if ($headerchanged) {
         if (!array_key_exists('Previous titles', $data)) {
-            $errors[] = "File {$filename} has changed the header. Please add a section '--- Previous titles ---' with the old header: '".$olddata['h1long']."'";
             $expected = $olddata['h1long'];
         } else {
             $expected = trim(trim($olddata['Previous titles'] ?? '')."\n".$olddata['h1long']);
