@@ -225,6 +225,21 @@ function compareplaceholders($langfile, $section, $sname, $partkey, $lineno, $en
     return [];
 }
 
+function strip_placeholders($text): string {
+    // Replace placeholders in double curly brackets {{name}}.
+    $text = preg_replace('/\\{\\{[^\\}]*\\}\\}/', '', $text);
+    // Replace placeholders in single curly brackets {name}.
+    return preg_replace('/\\{[^\\}]*\\}/', '', $text);
+}
+
 function strip_alt_title($text): string {
     return preg_replace('/\b(alt|title)="([^"]*)"/', '\\1=""', $text);
+}
+
+function append_alt_title($text): string {
+    $r = preg_match_all('/\b(alt|title)="([^"]*)"/', $text, $matches);
+    if ($r) {
+        $text .= " ".join(" ", $matches[2]);
+    }
+    return $text;
 }
