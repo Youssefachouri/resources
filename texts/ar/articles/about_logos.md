@@ -1,73 +1,73 @@
-<h1>Adding logos to QR codes</h1>
+<h1>إضافة الشعارات إلى أكواد QR</h1>
 
 --- Abstract / Meta description ---
 
-Adding logos to QR codes helps in increasing brand awareness, trust, and scan-through rate. Learn how you can do so without compromising the QR code's integrity
+تساعد إضافة الشعارات إلى أكواد QR في زيادة الوعي بالعلامة التجارية والثقة ومعدل المسح. تعرف على كيفية القيام بذلك دون المساس بسلامة رمز الاستجابة السريعة
 
 --- Short content 1 ---
 
-Upload and add a logo to the QR code. Personalize its size and positioning
+قم بتحميل وإضافة شعار إلى رمز الاستجابة السريعة. إضفاء الطابع الشخصي على حجمها وتحديد المواقع
 
 --- Short content 2 ---
 
-Higher error correction level allows for a bigger part of the QR code to be damaged but still be scannable. Choose higher error correction level if you plan to add a logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo. The different error correction levels will change the appearance of your QR code.
+يسمح مستوى تصحيح الخطأ الأعلى بتلف جزء أكبر من رمز الاستجابة السريعة ولكن لا يزال قابلاً للفحص. اختر مستوى تصحيح خطأ أعلى إذا كنت تخطط لإضافة شعار إلى الكود. تعني كلمة "تلقائي" أن مستوى تصحيح الخطأ سيكون متوسطًا بدون شعار وعاليًا جدًا مع وجود شعار. ستؤدي مستويات تصحيح الخطأ المختلفة إلى تغيير مظهر رمز الاستجابة السريعة الخاص بك.
 
 ----------
 
-<p>The emergence of QR codes has transformed marketing. It encourages customer engagement, makes information more accessible, and adds flexibility to marketing. </p>
+<p> أدى ظهور رموز الاستجابة السريعة إلى تحول في عملية التسويق. يشجع مشاركة العملاء ، ويجعل الوصول إلى المعلومات أكثر سهولة ، ويضيف مرونة للتسويق. </p>
 
-<p>However, a little bit of personalization can go a long way in increasing brand exposure and awareness. Adding a logo to a QR code is a step towards getting more scans, leads, and conversions.   </p>
+<p> ومع ذلك ، فإن القليل من التخصيص يمكن أن يقطع شوطًا طويلاً في زيادة انتشار العلامة التجارية والوعي بها. تعد إضافة شعار إلى رمز الاستجابة السريعة خطوة نحو الحصول على المزيد من عمليات المسح والعملاء المحتملين والتحويلات. </p>
 
-<h2> Why Should You Add Logos To Your QR Codes?</h2>
+<h2> لماذا يجب عليك إضافة الشعارات إلى رموز QR الخاصة بك؟ </h2>
 
-<p>Imagine printing plain QR codes onto leaflets, product packagings, banners, and other marketing materials. While the QR codes work perfectly, they do nothing to convey your brand identity.</p>
+<p> تخيل طباعة أكواد QR العادية على المنشورات وعبوات المنتجات واللافتات والمواد التسويقية الأخرى. بينما تعمل رموز QR بشكل مثالي ، فإنها لا تفعل شيئًا للتعبير عن هوية علامتك التجارية. </p>
 
-<p>In business, it's important to increase awareness and instill brand loyalty amongst your customers. Logos are the most identifiable element that customers associate with a brand. You'll want your QR code to stand out from those printed in the plain, default format.</p>
+<p> في مجال الأعمال ، من المهم زيادة الوعي وغرس الولاء للعلامة التجارية بين عملائك. الشعارات هي العنصر الأكثر تحديدًا الذي يربطه العملاء بالعلامة التجارية. سترغب في تمييز رمز الاستجابة السريعة الخاص بك عن تلك المطبوعة بالتنسيق العادي الافتراضي. </p>
 
-<p>Customers associate logos with the company. By adding it to the QR code, you instill trust amongst the customers, and they'll have little hesitation about scanning it. If you're using a plain QR code, people may question if scanning the QR code is safe.</p>
+<p> يربط العملاء الشعارات بالشركة. من خلال إضافته إلى رمز الاستجابة السريعة ، فإنك تغرس الثقة بين العملاء ، ولن يترددوا كثيرًا في مسحه ضوئيًا. إذا كنت تستخدم رمز QR عاديًا ، فقد يتساءل الأشخاص عما إذا كان مسح رمز الاستجابة السريعة آمنًا. </p>
 
-<h2>Does Adding A Logo Affect QR Code Scanability?</h2>
+<h2> هل تؤثر إضافة شعار على قابلية مسح رمز الاستجابة السريعة؟ </h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
-        alt="QR code logo example - ScanMeFindMe">
+        alt="مثال على شعار رمز الاستجابة السريعة - ScanMeFindMe">
 </p>
 
-<p>QR codes store information in segments of dots and spaces within the scannable area. When you add a logo, it occupies an area that's supposed to hold part of the encoded information.</p>
+<p> تخزن أكواد QR المعلومات في أجزاء من النقاط والمسافات داخل المنطقة القابلة للفحص. عند إضافة شعار ، فإنه يشغل مساحة من المفترض أن تحتوي على جزء من المعلومات المشفرة. </p>
 
-<p>The question is, will it affect the QR code's integrity in any manner?</p>
+<p> السؤال هو ، هل سيؤثر على سلامة رمز الاستجابة السريعة بأي شكل من الأشكال؟ </p>
 
-<p>If you're using  <a href="#static:url" title="QR code generator ScanMeFindMe">ScanMeFindMe</a>  to add the logo, there will not be any problem in scanning it. This is because QR codes are built with an error-correcting mechanism. Depending on the error correction level, a QR code is still readable even with up to 30% of its area covered up.</p>
+<p> إذا كنت تستخدم <a href="#static:url" title="QR code generator ScanMeFindMe"> ScanMeFindMe </a> لإضافة الشعار ، فلن تكون هناك أية مشكلة في مسحه ضوئيًا. هذا لأن رموز QR مبنية بآلية لتصحيح الأخطاء. اعتمادًا على مستوى تصحيح الخطأ ، يظل رمز الاستجابة السريعة قابلاً للقراءة حتى مع تغطية ما يصل إلى 30٪ من مساحته. </p>
 
-<p>The trade off is that the QR codes with bigger error correction levels have a bigger “matrix”. Here is the same URL encoded with four different error correction levels: low (L), medium (M), high (H) and very high (Q):</p>
+<p> وتتمثل المقايضة في أن رموز QR ذات مستويات تصحيح الخطأ الأكبر لها "مصفوفة" أكبر. إليك نفس عنوان URL المشفر بأربعة مستويات مختلفة لتصحيح الخطأ: منخفض (L) ومتوسط (M) وعالي (H) وعالي جدًا (Q): </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff matrix.png"
-        alt="QR code with different error correction levels - ScanMeFindMe">
+        alt="رمز الاستجابة السريعة بمستويات تصحيح خطأ مختلفة - ScanMeFindMe">
 </p>
 
-<p>Of course, you shouldn't cover critical functional elements such as the QR markers and version identifier with the logo. It is, however, generally safe to add a logo in the middle of the QR code.</p>
+<p> بالطبع ، لا يجب تغطية العناصر الوظيفية الهامة مثل علامات QR ومعرف الإصدار بالشعار. ومع ذلك ، فمن الآمن عمومًا إضافة شعار في منتصف رمز الاستجابة السريعة. </p>
 
-<p>When you add a logo to a QR code, you need to set its error correction level to the maximum, which is 30%. Our <a href="#static:url">QR code generator</a>  automatically does that for you and determines the best logo placement based on factors like QR code size and information density.</p>
+<p> عندما تضيف شعارًا إلى رمز QR ، فأنت بحاجة إلى ضبط مستوى تصحيح الخطأ على الحد الأقصى ، وهو 30٪. يقوم <a href="#static:url"> مُنشئ رمز الاستجابة السريعة </a> بذلك تلقائيًا نيابة عنك ويحدد أفضل موضع للشعار استنادًا إلى عوامل مثل حجم رمز الاستجابة السريعة وكثافة المعلومات. </p>
 
-<h2> How To Add Logos To QR Codes?</h2>
+<h2> كيف تضيف شعارات إلى أكواد QR؟ </h2>
 
-<p>With <a href="#static:url" title="Add logos to QR codes">ScanMeFindMe</a>, adding logos to QR codes is a simple process. There's no complex calculation nor graphic design skills involved.</p>
+<p> باستخدام <a href="#static:url" title="إضافة شعارات إلى رموز QR"> ScanMeFindMe </a> ، تعد إضافة الشعارات إلى رموز QR عملية بسيطة. ليست هناك عمليات حسابية معقدة ولا مهارات في التصميم الجرافيكي. </p>
 
-<p>Upload your business logo and select the thumbnail: it will automatically appear on the QR code. This applies when you're creating any <a href="#about:product">dynamic or static QR codes</a>  on  ScanMeFindMe .</p>
+<p> قم بتحميل شعار عملك وحدد الصورة المصغرة: ستظهر تلقائيًا على رمز الاستجابة السريعة. ينطبق هذا عند إنشاء أي <a href="#about:product"> رموز QR ديناميكية أو ثابتة </a> على ScanMeFindMe. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - adding logo.png" width="600"
-        alt="Adding logo to QR code - ScanMeFindMe">
+        alt="إضافة شعار إلى رمز الاستجابة السريعة - ScanMeFindMe">
 </p>
 
-<p>You can also customize the positioning, size, and style of the logo. Don't worry about compromising the QR code's scannability, as our QR code generator will warn you if the logo is obscuring any of the critical elements.</p>
+<p> يمكنك أيضًا تخصيص موضع الشعار وحجمه ونمطه. لا تقلق بشأن المساس بإمكانية مسح رمز الاستجابة السريعة ، حيث سيحذرك مُنشئ رمز الاستجابة السريعة الخاص بنا إذا كان الشعار يحجب أيًا من العناصر المهمة. </p>
 
-<p>ScanMeFindMe <a href="#static:url">QR generator</a> not only allows you to place the logo in the middle of QR code, you can also make it look more accurate by removing or adding some blocks of the QR code matrix. Depending on the style of your QR code, you can pick the shape and style of your logo and choose different types of rendering blocks in the center of the QR code.</p>
+<p> لا يسمح لك ScanMeFindMe <a href="#static:url"> منشئ الاستجابة السريعة </a> بوضع الشعار في منتصف رمز الاستجابة السريعة فحسب ، بل يمكنك أيضًا جعله يبدو أكثر دقة عن طريق إزالة بعض المجموعات أو إضافتها من مصفوفة رمز الاستجابة السريعة. اعتمادًا على نمط رمز الاستجابة السريعة الخاص بك ، يمكنك اختيار شكل ونمط شعارك واختيار أنواع مختلفة من كتل العرض في وسط رمز الاستجابة السريعة. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - center of qr.png"
-        alt="Example of logo placement on QR code - ScanMeFindMe">
+        alt="مثال على وضع الشعار على رمز الاستجابة السريعة - ScanMeFindMe">
 </p>
 
-<p>Try adding your own logos to your QR code with <a href="#pro">ScanMeFindMe Pro</a> now.</p>
+<p> حاول إضافة شعاراتك الخاصة إلى رمز الاستجابة السريعة باستخدام <a href="#pro"> ScanMeFindMe Pro </a> الآن. </p>

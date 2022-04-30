@@ -1,72 +1,72 @@
-<h1>How to add borders and captions to the QR codes</h1>
+<h1>كيفية إضافة حدود وتعليقات توضيحية إلى رموز QR</h1>
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
+تعرف على كيفية إضافة حدود وتعليقات تجعل رمز QR فريدًا. صمم رمز الاستجابة السريعة الخاص بك باستخدام عبارة جذابة تحث المستخدم على اتخاذ إجراءات لتعزيز التحويل.
 
 --- Short content 1 ---
 
-Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
+تعرف على كيفية إضافة عبارات جذابة مع تسميات رموز QR. اختر من بين القوالب المحددة مسبقًا أو أنشئ نموذجًا خاصًا بك باستخدام حساب PRO.
 
 ----------
 
-<p>For marketers, everything comes out to conversion. If you have a brilliant ad designed, it's for nothing if the audience doesn't reach out in one way or another.</p>
+<p> بالنسبة إلى جهات التسويق ، يتم تحويل كل شيء. إذا كان لديك إعلان رائع مصمم ، فلا شيء إذا لم يتواصل الجمهور بطريقة أو بأخرى. </p>
 
-<p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do justice to the creative works done on marketing materials.</p>
+<p><a href="#static:url"> رموز QR </a> هي أداة تسويقية مفيدة ، ولكن إضافة رمز QR بتنسيق عادي لا ينصف الأعمال الإبداعية التي يتم إجراؤها على المواد التسويقية.  ص</p>
 
-<p>Without a little nudge, the audience may skip over the QR code, even when it's in plain sight. Often, a call-to-action (CTA) and a unique presentation are what it takes to get users to scan the QR code.</p>
+<p> بدون تنبيه بسيط ، يمكن للجمهور تخطي رمز الاستجابة السريعة ، حتى عندما يكون في مرمى البصر. غالبًا ما تكون عبارة الحث على اتخاذ إجراء (CTA) والعرض التقديمي الفريد هي ما يتطلبه الأمر لدفع المستخدمين إلى مسح رمز الاستجابة السريعة ضوئيًا. </p>
 
-<h2>Why Add Borders And Captions To QR Codes?</h2>
+<h2> لماذا تضيف حدودًا وتعليقات توضيحية إلى رموز QR؟ </h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
-        alt="QR code templates - ScanMeFindMe">
+        alt="قوالب أكواد QR - ScanMeFindMe">
 </p>
 
-<p>Instead of sticking with the default format, you'll want to add a 'Scan Me' text along with the QR code. People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
+<p> بدلاً من الالتزام بالتنسيق الافتراضي ، سترغب في إضافة نص "Scan Me" مع رمز الاستجابة السريعة. قد يكون الناس قد طوروا "عمى رمز الاستجابة السريعة" عند رؤية الكثير منهم في حياتهم اليومية. </p>
 
-<p>However, a 'Scan Me' text and a unique border draw their attention to the QR code. The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
+<p> ومع ذلك ، يجذب نص "Scan Me" والإطار الفريد انتباههم إلى رمز الاستجابة السريعة. لا يترك CTA أي شك بشأن ما يجب على الجمهور فعله بعد ذلك: مسح رمز الاستجابة السريعة. </p>
 
-<p>You can also add text that previews what's on the other side of the QR code. For example, an 'App Store' text tells the users that they're about to be redirected to your app on Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
+<p> يمكنك أيضًا إضافة نص يعاين ما يوجد على الجانب الآخر من رمز الاستجابة السريعة. على سبيل المثال ، يخبر نص "متجر التطبيقات" المستخدمين أنهم على وشك إعادة توجيههم إلى تطبيقك في متجر تطبيقات Apple. أو "قائمة" بسيطة لجعل المستخدمين يتفقدون ما يقدمه مطعمك. </p>
 
-<p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. Customers like to have an idea of what they're getting into before they scan the QR. With the right borders and captions, you can do precisely that and increase conversions.</p>
+<p> الفكرة هي أنك سترغب في غرس الثقة وإزالة أي شكوك تتعلق برموز QR. يحب العملاء الحصول على فكرة عما يدخلون إليه قبل أن يقوموا بمسح QR. باستخدام الحدود الصحيحة والتعليقات التوضيحية ، يمكنك فعل ذلك تحديدًا وزيادة التحويلات. </p>
 
-<p>Even in the <a href="#static:url">Free version of QR code generator</a> you can modify the captions on the templates. Change the default <strong>"Scan me"</strong> to <strong>"More info"</strong>, <strong>"Our menu"</strong>, your instagram handle or a phone number. If your text is too long or too short, you can descrease or increase the font size to make it look better.</p>
+<p> حتى في <a href="#static:url"> الإصدار المجاني من منشئ رمز الاستجابة السريعة </a> ، يمكنك تعديل التسميات التوضيحية على القوالب. غيّر الإعداد الافتراضي <strong> "امسحني ضوئيًا" </strong> إلى <strong> "مزيد من المعلومات" </strong> ، أو <strong> "قائمتنا" </strong> ، أو عنوان instagram الخاص بك أو رقم هاتف. إذا كان النص طويلًا جدًا أو قصيرًا جدًا ، فيمكنك تقليل حجم الخط أو زيادته لجعله يبدو أفضل. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
-        alt="QR code for instagram handle - ScanMeFindMe">
+        alt="رمز الاستجابة السريعة لمقبض instagram - ScanMeFindMe">
 </p>
 
-<p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, and you'll need to scan them for verification manually. By having captions and borders, you'll know what they are meant for just by their visual appearance.</p>
+<p> لا يساعد تخصيص رموز QR باستخدام القوالب في التسويق فحسب ، بل يمنع أيضًا حدوث ارتباك عند فرزها. تخيل أنك على وشك طباعة العشرات من رموز QR في مواد مختلفة ، وستحتاج إلى مسحها ضوئيًا للتحقق يدويًا. من خلال وجود التعليقات والحدود ، ستعرف ما تعنيه فقط من خلال مظهرها المرئي. </p>
 
-<h2>How To Create Your Own Templates</h2>
+<h2> كيفية إنشاء النماذج الخاصة بك </h2>
 
-<p>When you're using <a href="#pro">ScanMeFindMe PRO</a>, you have access to a set of pre-designed templates. However, you can also design your own templates, upload them and personalize the <a href="#static:url">QR code generated on our platform</a>.</p>
+<p> عند استخدام <a href="#pro"> ScanMeFindMe PRO </a> ، يمكنك الوصول إلى مجموعة من القوالب المصممة مسبقًا. ومع ذلك ، يمكنك أيضًا تصميم النماذج الخاصة بك وتحميلها وتخصيص <a href="#static:url"> رمز الاستجابة السريعة الذي تم إنشاؤه على نظامنا الأساسي </a>. </p>
 
-<p>Not only that, you can also <a href="#article:about_presets">create presets</a> that include your choice of templates to save time in the future. </p>
+<p> ليس ذلك فحسب ، بل يمكنك أيضًا <a href="#article:about_presets"> إنشاء إعدادات مسبقة </a> تتضمن اختيارك للنماذج لتوفير الوقت في المستقبل. </p>
 
-<p>Now, how do you create your own templates?</p>
+<p> الآن ، كيف تنشئ نماذجك الخاصة؟ </p>
 
-<p>The templates are image files in the SVG format. An SVG image is an XML file containing tags representing different elements. Web browsers use the information from the file to render the image at any resolution. You can create an SVG file via graphic design software like Adobe Illustrator or use a JPEG/PNG to SVG converter.</p>
+<p> القوالب هي ملفات صور بتنسيق SVG. صورة SVG هي ملف XML يحتوي على علامات تمثل عناصر مختلفة. تستخدم مستعرضات الويب المعلومات من الملف لعرض الصورة بأي دقة. يمكنك إنشاء ملف SVG عبر برنامج تصميم رسومي مثل Adobe Illustrator أو استخدام محول JPEG / PNG إلى SVG. </p>
 
-<p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
+<p> إن أسرع طريقة لإنشاء قالب هي نسخ قالب من المكتبة وتحرير مصدر SVG. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
-        alt="Editing QR code template - ScanMeFindMe">
+        alt="تحرير قالب رمز الاستجابة السريعة - ScanMeFindMe">
 </p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p> لكي يعمل النموذج على ScanMeFindMe ، يجب أن يحتوي على عنصر <strong class="notranslate"> & lt؛ rect & gt؛ </strong> مع <strong class="notranslate"> id = "qr" </strong> ، والذي سيتم استبداله برمز الاستجابة السريعة عند إنشائه. </p>
 
-<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.</p>
+<p> يمكنك أيضًا تضمين عناصر <strong class="notranslate"> & lt؛ text & gt؛ </strong> ، إذا كانت هذه العناصر تحتوي على سمة <strong class="notranslate"> id </strong> ، فستصبح تسميات توضيحية يمكنك التعديل لكل رمز QR يستخدم هذا النموذج. بالإضافة إلى ذلك ، إذا كانت عناصر <span class="notranslate"> & lt؛ text & gt؛ </span> تحتوي على سمة <strong class="notranslate"> font-size </strong> ، فستتمكن من تغيير حجم الخط لكل رمز QR باستخدام نفس النموذج. </p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert generated QR codes to PNG, PDF and PS formats. Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
+<p> احذر من بعض القيود! يستخدم ScanMeFindMe مكتبة <a href="https://cairosvg.org/" class="smfm-externallink"> CairoSVG </a> لتحويل رموز QR التي تم إنشاؤها إلى تنسيقات PNG و PDF و PS. قد لا يتم تحويل بعض عناصر SVG المعقدة بشكل صحيح. لأسباب أمنية ، يتم تجاهل التوجيهinclude أثناء التحويل ، لذلك لا يمكنك تضمين أي عناوين URL خارجية (باستثناء الخطوط التي قمنا بتثبيتها على خادمنا). </p>
 
-<h2>What Fonts Are Supported? </h2>
+<h2> ما هي الخطوط المدعومة؟ </h2>
 
-<p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts. You can find the fonts that are pre-installed on the server in our Github repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+<p> بدلاً من الخوض في حجة لا نهاية لها من serif مقابل san serif ، نتيح لك تحديد الأفضل من خلال العديد من الخطوط شائعة الاستخدام. يمكنك العثور على الخطوط المثبتة مسبقًا على الخادم في مستودع Github الخاص بنا: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank"> https: //github.com/ScanMeFindMe/fonts </a> </p>
 
-<p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request. Generally, we prefer fonts that support multiple languages.</p>
+<p> إذا كنت تشعر أننا فقدنا خطًا مثيرًا للاهتمام لزملائك المسوقين ، فيمكنك إرسال طلب سحب. بشكل عام ، نفضل الخطوط التي تدعم لغات متعددة. </p>
 
-<p>Start uploading your own templates with a <a href="#pro">ScanMeFindMe PRO account</a> now.</p>
+<p> ابدأ في تحميل القوالب الخاصة بك باستخدام <a href="#pro"> ScanMeFindMe PRO حساب </a> الآن. </p>

@@ -1,54 +1,53 @@
-<h1>Save time by creating presets for your QR codes</h1>
+<h1>وفر الوقت عن طريق إنشاء إعدادات مسبقة لرموز QR الخاصة بك</h1>
 
 --- Abstract / Meta description ---
 
-Maximize efficiency when personalizing your QR codes with presets. Save your choices and reuse them any time you want.
+حقق أقصى قدر من الكفاءة عند تخصيص أكواد QR باستخدام الإعدادات المسبقة. احفظ اختياراتك وأعد استخدامها في أي وقت تريده.
 
 --- Short content 1 ---
 
-Choose a pre-designed preset or create one with selected style, colors, templates, and logo. Reuse them easily when generating QR codes.
+اختر إعدادًا مسبقًا مصممًا مسبقًا أو أنشئ واحدًا بنمط وألوان وقوالب وشعار محدد. أعد استخدامها بسهولة عند إنشاء رموز QR.
 
 ----------
 
-<p>Having a personalized QR code that captures customer's attention helps in getting more engagement. With fun colors, a catchy caption, and a logo, you'll have a QR code that resonates with your brand value.</p>
+<p> يساعد امتلاك رمز QR مخصص يجذب انتباه العميل في الحصول على مزيد من المشاركة. من خلال الألوان الممتعة والتعليق الجذاب والشعار ، ستحصل على رمز الاستجابة السريعة الذي يتوافق مع قيمة علامتك التجارية. </p>
 
-<p>Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code. </p>
+<p> يمكن أن يكون تخصيص رموز QR عملية ممتعة ، ولكن يمكن أن يكون مرهقًا بنفس القدر إذا قمت بذلك في كل مرة تحتاج فيها إلى إنشاء رمز QR. </p>
 
-<p>This is where you'll want to create presets, a feature exclusive to ScanMeFindMe PRO users.</p>
+<p> هذا هو المكان الذي تريد إنشاء إعدادات مسبقة ، وهي ميزة حصرية لمستخدمي ScanMeFindMe PRO. </p>
 
-<h2>What Are Presets And Why Do You Need Them?</h2>
+<h2> ما هي الإعدادات المسبقة ولماذا تحتاجها؟ </h2>
 
-<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with styles, colors, <a href="#article:about_templates">templates</a>, and <a href="#article:about_logos">logos</a>.</p>
+<p> الإعدادات المسبقة هي ذاكرة للتخصيص الذي حددته أو أنشأته لرمز QR معين. عند استخدام ScanMeFindMe PRO ، يمكنك تخصيص رمز الاستجابة السريعة باستخدام الأنماط والألوان و <a href="#article:about_templates"> القوالب </a> و <a href="#article:about_logos"> الشعارات </a>. </p>
 
-<p>These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted. </p>
+<p> يمكن حفظ هذه التحديدات كإعداد مسبق حيث يمكن تحديدها تلقائيًا وتطبيقها على رمز QR جديد. من الناحية الفنية ، يحتوي الإعداد المسبق على معلومات حول اختيارات معينة للأنماط والقوالب والشعارات والألوان. الإعدادات المسبقة صالحة طالما لم يتم إعادة تسمية العناصر الفردية أو حذفها. </p>
 
-<p>Here's how you can use presets to save setup time when creating a QR code. </p>
+<p> فيما يلي كيفية استخدام الإعدادات المسبقة لتوفير وقت الإعداد عند إنشاء رمز QR. </p>
 
-<p>You're releasing a series of yoga tutorial videos, and you're <a href="#article:about_static">encoding the links in QR codes.</a> If you're going to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
+<p> إنك تصدر سلسلة من مقاطع الفيديو التعليمية لليوجا ، وتقوم <a href="#article:about_static"> بترميز الروابط في رموز QR. </a> إذا كنت تريد تخصيص رمز الاستجابة السريعة لكل حلقة ، ستحتاج إلى اختيار الألوان والشعار والقوالب والأسلوب يدويًا. </p>
 
-<p>It's easy to make a mistake, which results in some QR codes looking out of place. Also, you're wasting time repeating a process that can be automated. </p>
+<p> من السهل ارتكاب خطأ ، مما يؤدي إلى ظهور بعض رموز QR في غير مكانها. أيضًا ، أنت تهدر الوقت في تكرار عملية يمكن أتمتتها. </p>
 
-<p>By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode. </p>
+<p> بحفظ اختياراتك كإعداد مسبق ، يمكنك إعادة استخدام عناصر النمط بمجرد تحميل نفس الإعداد المسبق عند إنشاء رمز الاستجابة السريعة لكل حلقة. </p>
 
-<h2>How To Create And Save Presets for QR codes</h2>
+<h2> كيفية إنشاء وحفظ الإعدادات المسبقة لرموز QR </h2>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can create a preset with the 'Create a new preset' button while you create or edit any QR code in the QR code generator. You can choose a name for your preset so it is easier to use in the <a href="#about:api" title="QR code API">API</a>.</p>
+<p> إذا كنت تستخدم <a href="#pro"> ScanMeFindMe PRO </a> ، فيمكنك إنشاء إعداد مسبق باستخدام الزر "إنشاء إعداد مسبق جديد" أثناء إنشاء أو تعديل أي رمز QR في رمز الاستجابة السريعة مولد كهرباء. يمكنك اختيار اسم لإعدادك المسبق بحيث يسهل استخدامه في <a href="#about:api" title="QR code API"> API </a>. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
-        alt="Creating a preset from the QR code editor">
+        alt="إنشاء إعداد مسبق من محرر رمز الاستجابة السريعة">
 </p>
 
-<p>Alternatively, you can duplicate an existing preset in the library and customize it. </p>
+<p> بدلاً من ذلك ، يمكنك نسخ إعداد مسبق موجود في المكتبة وتخصيصه. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
-        alt="Creating a preset by copying a system one">
+        alt="إنشاء إعداد مسبق عن طريق نسخ نظام واحد">
 </p>
 
-<p>Once you're done, the customized preset will appear alongside other pre-installed presets on the selection panel. </p>
+<p> بمجرد الانتهاء ، سيظهر الإعداد المسبق المخصص جنبًا إلى جنب مع الإعدادات المسبقة الأخرى المثبتة مسبقًا على لوحة التحديد. </p>
 
-<p>Selecting a preset will automatically regenerate the QR code with the selected style and design elements. If you're using our <a href="#static:url">QR code generator</a> from the API, you can invoke the presets by specifying their names.</p>
+<p> سيؤدي تحديد إعداد مسبق إلى إعادة إنشاء رمز الاستجابة السريعة تلقائيًا باستخدام النمط المحدد وعناصر التصميم. إذا كنت تستخدم <a href="#static:url"> مُنشئ رمز الاستجابة السريعة </a> من واجهة برمجة التطبيقات ، فيمكنك استدعاء الإعدادات المسبقة عن طريق تحديد أسمائها. </p>
 
-<p>Stop re-styling your QR code each time you generate one. Try <a href="#pro">ScanMeFindMe PRO</a> and use presets instead. </p>
-
+<p> توقف عن إعادة تصميم رمز الاستجابة السريعة في كل مرة تنشئ واحدًا. جرب <a href="#pro"> ScanMeFindMe PRO </a> واستخدم الإعدادات المسبقة بدلاً من ذلك. </p>

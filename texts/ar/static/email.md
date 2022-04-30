@@ -1,3 +1,3 @@
-<h1>[E-mail] Create a QR code for an E-mail address</h1>
+<h1>[بريد الالكتروني] قم بإنشاء رمز QR لعنوان بريد إلكتروني</h1>
 
 ----------

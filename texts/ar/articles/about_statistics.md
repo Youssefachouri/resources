@@ -1,118 +1,118 @@
-<h1>How QR code scan statistics can be viewed and used</h1>
+<h1>كيف يمكن عرض إحصائيات مسح رمز الاستجابة السريعة واستخدامها</h1>
 
 --- Abstract / Meta description ---
 
-Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they are important for marketers
+راقب حملتك من خلال تتبع رمز الاستجابة السريعة الديناميكي. تعرف على إحصائيات المسح المتوفرة على ScanMeFindMe وسبب أهميتها للمسوقين
 
 --- Short content 1 ---
 
-The approximate location of the scanning device. It may not always be accurate as the location is derived from the IP address of the internet service provider
+الموقع التقريبي لجهاز المسح. قد لا يكون دقيقًا دائمًا لأن الموقع مشتق من عنوان IP لمزود خدمة الإنترنت
 
 ----------
 
-<p>One of the reasons why marketers are turning to dynamic QR codes is their trackability. Unlike static QR codes, dynamic QR codes redirect users to a custom webpage when scanned. Therefore, it's possible to collect various metrics and compile them in visual formats. </p>
+<p> أحد أسباب تحول المسوقين إلى رموز QR الديناميكية هو قابليتها للتتبع. على عكس رموز QR الثابتة ، تعيد رموز QR الديناميكية توجيه المستخدمين إلى صفحة ويب مخصصة عند مسحها ضوئيًا. لذلك ، من الممكن جمع مقاييس مختلفة وتجميعها في تنسيقات مرئية. </p>
 
-<h2>Why QR Code Scan Statistics Are Important</h2>
+<h2> لماذا تعتبر إحصاءات مسح رمز الاستجابة السريعة مهمة </h2>
 
-<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that can help with your marketing.</p>
+<p> إذا أنشأت رمز QR ديناميكيًا على <a href="#pro"> ScanMeFindMe Pro </a> ، فستتمكن من تتبع المقاييس الرئيسية التي يمكن أن تساعدك في التسويق. </p>
 
-<p>Rather than merely distributing marketing materials with QR codes, you'll want to monitor engagement indicators like how many people are accessing a landing page via QR code. Or if a particular campaign is reaching its audience in major cities. </p>
+<p> بدلاً من مجرد توزيع المواد التسويقية باستخدام رموز الاستجابة السريعة ، ستحتاج إلى مراقبة مؤشرات المشاركة مثل عدد الأشخاص الذين يصلون إلى صفحة مقصودة عبر رمز الاستجابة السريعة. أو إذا وصلت حملة معينة إلى جمهورها في المدن الكبرى. </p>
 
-<p>Without dynamic QR codes, you will have no idea if you're reaching the target audience or on the right track with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improve the campaign.</p>
+<p> بدون رموز QR الديناميكية ، لن يكون لديك أي فكرة عما إذا كنت تصل إلى الجمهور المستهدف أو على المسار الصحيح بأهداف التحويل. ستحتاج إلى جمع الإحصاءات ذات الصلة من <a href="#about:product"> رموز QR الديناميكية </a> واستخدامها لتحسين الحملة. </p>
 
-<p>QR code statistics show you what's working on your campaign and what's not. You'll know if you need a more intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts. </p>
+<p> توضح إحصائيات رمز الاستجابة السريعة ما يعمل في حملتك وما لا يعمل في حملتك. ستعرف ما إذا كنت بحاجة إلى تصميم أكثر إثارة للاهتمام أو تجديدًا في الإستراتيجية العامة لتحسين التحويل من الأرقام والرسوم البيانية. </p>
 
-<h2>Which Scan Statistics Are Available On ScanMeFindMe PRO?</h2>
+<h2> ما هي إحصائيات المسح المتوفرة على ScanMeFindMe PRO؟ </h2>
 
-<p><a href="#static:url">ScanMeFindMe</a> is developed to track and store important scan metrics in real-time. You'll have access to the following statistics when you sign up for a PRO account.</p>
+تم تطوير <p> <a href="#static:url"> ScanMeFindMe </a> لتتبع وتخزين مقاييس المسح المهمة في الوقت الفعلي. سيكون لديك حق الوصول إلى الإحصائيات التالية عند التسجيل للحصول على حساب PRO. </p>
 
-<h3>Total Scans</h3>
+<h3> إجمالي عمليات الفحص </h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
-        alt="Total scans chart - QR code generator ScanMeFindMe">
+        alt="مخطط إجمالي عمليات المسح - منشئ رمز الاستجابة السريعة ScanMeFindMe">
 </p>
 
-<p>This chart shows the number of total and unique scans that you're getting everyday.</p>
+<p> يوضح هذا الرسم البياني عدد عمليات الفحص الإجمالية والفريدة التي تحصل عليها كل يوم. </p>
 
-<p>Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device. </p>
+<p> عمليات الفحص الفريدة هي عدد عمليات الفحص التي يتم إجراؤها من أجهزة مختلفة. لا يشمل عمليات المسح المتعددة من نفس الجهاز. </p>
 
-<p>We use a special method where our server tags a device with a 'fingerprint' when it first scans a QR code. If the server detects a new scan with the same 'fingerprint', it is added to the total scans but not the unique scans.</p>
+<p> نستخدم طريقة خاصة حيث يقوم خادمنا بتمييز الجهاز "ببصمة الإصبع" عند مسح رمز الاستجابة السريعة لأول مرة. إذا اكتشف الخادم عملية مسح ضوئي جديدة بنفس "بصمة الإصبع" ، تتم إضافتها إلى إجمالي عمليات الفحص وليس عمليات الفحص الفريدة. </p>
 
-<p>You'll find this chart helpful when you want to know how many people are actually responding to your campaign. The unique scans will paint a clearer picture of how your campaign is performing.</p>
+<p> ستجد هذا المخطط مفيدًا عندما تريد معرفة عدد الأشخاص الذين يستجيبون فعليًا لحملتك. سترسم عمليات الفحص الفريدة صورة أوضح عن أداء حملتك. </p>
 
-<h3>Scans By Months</h3>
+<h3> عمليات المسح حسب الأشهر </h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
-        alt="Scans by month chart - QR code generator ScanMeFindMe">
+        alt="مخطط عمليات المسح حسب الشهر - منشئ رمز الاستجابة السريعة ScanMeFindMe">
 </p>
 
-<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted by month. It helps identify the months that bring your business the most QR code traffic. </p>
+<p> إذا كنت تدير حملة موسمية ، فسيكون هذا الرسم البياني مفيدًا. يتم رسم عدد عمليات الفحص بالشهر. يساعد في تحديد الأشهر التي تجلب لعملك أكبر عدد من حركة مرور رمز الاستجابة السريعة. </p>
 
-<h3>Scans By Hour Of The Day</h3>
+<h3> المسح حسب ساعة من اليوم </h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
-        alt="Scans by hour of the day chart - QR code generator ScanMeFindMe">
+        alt="عمليات المسح بالساعة من الرسم البياني لليوم - منشئ رمز الاستجابة السريعة ScanMeFindMe">
 </p>
 
-<p>You can also track QR scans by hours of the day. This is useful if you're running a restaurant or e-commerce where customers peak during different times. It helps to run a more targeted campaign during the peak hours.</p>
+<p> يمكنك أيضًا تتبع عمليات مسح QR بساعات من اليوم. يكون هذا مفيدًا إذا كنت تدير مطعمًا أو تجارة إلكترونية حيث يصل العملاء إلى الذروة خلال أوقات مختلفة. من المفيد تشغيل حملة أكثر استهدافًا خلال ساعات الذروة. </p>
 
-<h3>Scans By OS</h3>
+<h3> عمليات المسح حسب نظام التشغيل </h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
-        alt="Scans by OS chart - QR code generator ScanMeFindMe">
+        alt="عمليات المسح حسب مخطط نظام التشغيل - منشئ رمز الاستجابة السريعة ScanMeFindMe">
 </p>
 
-<p>Our server can also pick up which operating system the users are using when scanning the QR code. Usually, iOS and Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics help when you're getting users to download an app for a specific OS. </p>
+<p> يمكن لخادمنا أيضًا اختيار نظام التشغيل الذي يستخدمه المستخدمون عند مسح رمز الاستجابة السريعة. عادةً ما يميل iOS و Android إلى الهيمنة على الرسم البياني حيث يقوم معظم المستخدمين بمسح رموز QR من هواتفهم المحمولة. تساعد الإحصائيات عندما تدفع المستخدمين إلى تنزيل تطبيق لنظام تشغيل معين. </p>
 
-<h3>Scans By Language</h3>
+<h3> المسح حسب اللغة </h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
-        alt="Scans by language chart - QR code generator ScanMeFindMe">
+        alt="عمليات المسح حسب مخطط اللغة - منشئ رمز الاستجابة السريعة ScanMeFindMe">
 </p>
 
-<p>This chart will show what is the primary language installed on your clients devices. This is usually the language they are most comfortable with. This can be useful as if you find that a lot of your clients prefer French, for example, you might offer some materials in French to increase sales and popularity.</p>
+<p> سيعرض هذا الرسم البياني اللغة الأساسية المثبتة على أجهزة عملائك. عادة ما تكون هذه هي اللغة الأكثر راحة لهم. قد يكون هذا مفيدًا كما لو وجدت أن الكثير من عملائك يفضلون الفرنسية ، على سبيل المثال ، قد تقدم بعض المواد باللغة الفرنسية لزيادة المبيعات والشعبية. </p>
 
-<h3>Scans By Country and City</h3>
+<h3> عمليات المسح حسب البلد والمدينة </h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
-        alt="Scans by country and city chart - QR code generator ScanMeFindMe">
+        alt="عمليات المسح حسب مخطط الدولة والمدينة - منشئ رمز الاستجابة السريعة ScanMeFindMe">
 </p>
 
-<p><a href="#pro">ScanMeFindMe PRO</a> also tracks scans by city and country. This is done from tracking the IP address of the mobile operator or internet service provider where the device is connected to. Do note that the geolocation chart only gives an approximate location of where the scans originated. </p>
+يتتبع <p> <a href="#pro"> ScanMeFindMe PRO </a> أيضًا عمليات المسح حسب المدينة والبلد. يتم ذلك من خلال تتبع عنوان IP الخاص بمشغل الهاتف المحمول أو مزود خدمة الإنترنت الذي يتصل به الجهاز. هل لاحظ أن مخطط تحديد الموقع الجغرافي يعطي فقط موقعًا تقريبيًا لمكان إنشاء عمليات المسح. </p>
 
-<p>You may occasionally see scans from a different city or even country and it may seem surprising, especially if your QR code could not have possibly gotten there (for example, if it is a sticker on your office entrance). This usually means that somebody with a mobile phone from that country scanned your code while being on mobile data roaming.</p>
+<p> قد تشاهد أحيانًا عمليات مسح ضوئي من مدينة أو دولة مختلفة وقد يبدو ذلك مفاجئًا ، خاصة إذا لم يكن من المحتمل أن يكون رمز الاستجابة السريعة الخاص بك قد وصل إلى هناك (على سبيل المثال ، إذا كان ملصق على مدخل مكتبك). يعني هذا عادةً أن شخصًا ما لديه هاتف جوال من تلك الدولة قد مسح الرمز الخاص بك ضوئيًا أثناء تجوال بيانات الجوال. </p>
 
-<h3>Last Scans</h3>
+<h3> عمليات الفحص الأخيرة </h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
-        alt="Last scans list - QR code generator ScanMeFindMe">
+        alt="قائمة عمليات الفحص الأخيرة - منشئ رمز الاستجابة السريعة ScanMeFindMe">
 </p>
 
-<p>This table is populated with historical scan data. You'll find the finer details of each scan such as the date, time, country, language, OS and browser. </p>
+<p> يتم ملء هذا الجدول ببيانات المسح التاريخية. ستجد أدق تفاصيل كل عملية مسح مثل التاريخ والوقت والبلد واللغة ونظام التشغيل والمتصفح. </p>
 
-<h2>How To View And Download The Scan Statistics?</h2>
+<h2> كيفية عرض وتنزيل إحصائيات المسح؟ </h2>
 
-<p>All ScanMeFindMe PRO users have access to the statistics, which are displayed on the dashboard. You can also access the charts and tables via the 'Statistics' button on each of the dynamic codes.</p>
+<p> يتمتع جميع مستخدمي ScanMeFindMe PRO بإمكانية الوصول إلى الإحصائيات التي يتم عرضها على لوحة القيادة. يمكنك أيضًا الوصول إلى المخططات والجداول عبر زر "الإحصائيات" على كل من الرموز الديناميكية. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
-        alt="Individual QR code statistics - ScanMeFindMe">
+        alt="إحصائيات رمز الاستجابة السريعة الفردية - ScanMeFindMe">
 </p>
 
-<p>The Last Scans table can be downloaded in CSV (comma-separated values) format, which can be used for in-depth analysis.</p>
+<p> يمكن تنزيل جدول عمليات المسح الأخيرة بتنسيق CSV (قيم مفصولة بفواصل) ، والتي يمكن استخدامها للتحليل المتعمق. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
-        alt="Download scans statistics - QR code generator ScanMeFindMe">
+        alt="تنزيل إحصائيات عمليات المسح - منشئ رمز الاستجابة السريعة ScanMeFindMe">
 </p>
 
-<p>You don't want to miss out on the scan statistics that can drive your marketing campaign in the right direction.</p>
+<p> لا تريد أن تفوتك إحصائيات المسح التي يمكن أن تقود حملتك التسويقية في الاتجاه الصحيح. </p>
 
-<p><a href="#pro">Sign up for a ScanMeFindMe PRO account now.</a></p>
+<p> <a href="#pro"> اشترك للحصول على حساب ScanMeFindMe PRO الآن. </a> </p>

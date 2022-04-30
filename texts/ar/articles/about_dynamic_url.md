@@ -1,74 +1,74 @@
-<h1>Using QR codes to create short URLs and track views</h1>
+<h1>استخدام رموز QR لإنشاء عناوين URL قصيرة وتتبع العروض</h1>
 
 --- Abstract / Meta description ---
 
-Creating short URLs with QR codes enables view tracking. It's a useful feature that helps in monitoring marketing campaigns.
+يتيح إنشاء عناوين URL قصيرة باستخدام أكواد QR إمكانية تتبع العرض. إنها ميزة مفيدة تساعد في مراقبة الحملات التسويقية.
 
 --- Short content 1 ---
 
-Generate a shortened alias of your webpage URL and track who, where, and how users are scanning it.
+قم بإنشاء اسم مستعار مختصر لعنوان URL لصفحة الويب الخاصة بك وتتبع من وأين وكيف يقوم المستخدمون بمسحها ضوئيًا.
 
 ----------
 
-<p><span class="font-italic">'If you can't measure it, you can't improve it'</span>  -- Peter Drucker</p>
+<p> <span class="font-italic"> "إذا لم تتمكن من قياسه ، فلا يمكنك تحسينه" </span> - بيتر دراكر </p>
 
-<p>The oft-repeated saying applies when you're making QR codes part of your marketing campaign.</p>
+<p> ينطبق المثل الذي يتكرر كثيرًا عندما تجعل رموز QR جزءًا من حملتك التسويقية. </p>
 
-<p>If you're clueless about how many scans your QR Code generated over the past week, or which cities generated the most hits, you won't know if the campaign is on track for success.</p>
+<p> إذا لم تكن على دراية بعدد عمليات المسح التي تم إجراؤها على رمز الاستجابة السريعة الخاص بك على مدار الأسبوع الماضي ، أو عن المدن التي حققت أكبر عدد من الزيارات ، فلن تعرف ما إذا كانت الحملة على المسار الصحيح لتحقيق النجاح. </p>
 
-<p>Now, not all QR codes are trackable. You need to create the right QR codes and ensure that they are linked to a tracking module. Creating QR codes with ScanMeFindMe makes this very easy. </p>
+<p> الآن ، ليست كل رموز QR قابلة للتتبع. تحتاج إلى إنشاء أكواد QR الصحيحة والتأكد من أنها مرتبطة بوحدة تتبع. يجعل إنشاء رموز QR باستخدام ScanMeFindMe هذا الأمر سهلاً للغاية. </p>
 
-<h2>Why Create Short URLs with QR Codes?</h2>
+<h2> لماذا تنشئ عناوين URL قصيرة برموز QR؟ </h2>
 
-<p>A short URL is a shortened link address that redirects the user to the intended webpage. </p>
+<p> عنوان URL المختصر هو عنوان ارتباط مختصر يعيد توجيه المستخدم إلى صفحة الويب المقصودة. </p>
 
-<p>For example, here's a short URL: <span class="font-italic">http://qrs.re/resources</span></p>
+<p> على سبيل المثال ، إليك عنوان URL قصير: <span class="font-italic"> http://qrs.re/resources </span> </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 1 - qr.png"
-        alt="Example of QR code for short URL - ScanMeFindMe">
+        alt="مثال على رمز الاستجابة السريعة لعنوان URL قصير - ScanMeFindMe">
 </p>
 
-<p>It points to our resource page, which has the full URL: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
+<p> إنها تشير إلى صفحة الموارد الخاصة بنا ، والتي تحتوي على عنوان URL الكامل: <span class="font-italic"> https://scanmefindme.com/en/resources </span> </p>
 
-<p>If you encode the full URL into the QR code, it will still direct users to the respective webpage. However, you wouldn't be able to tap into the full benefits that QR codes have to offer. </p>
+<p> إذا قمت بتشفير عنوان URL الكامل في رمز الاستجابة السريعة ، فسيظل يوجه المستخدمين إلى صفحة الويب المعنية. ومع ذلك ، لن تتمكن من الاستفادة من المزايا الكاملة التي تقدمها رموز QR. </p>
 
-<p><strong>QR codes that encode short URLs</strong> are also known as dynamic QR codes. With a dynamic QR code, you have more flexibility in editing the destination content and also in tracking users that scan the QR code.</p>
+تُعرف <p> <strong> رموز QR التي تشفر عناوين URL القصيرة </strong> أيضًا باسم رموز QR الديناميكية. باستخدام رمز الاستجابة السريعة الديناميكي ، تتمتع بقدر أكبر من المرونة في تعديل محتوى الوجهة وأيضًا في تتبع المستخدمين الذين يقومون بمسح رمز الاستجابة السريعة. </p>
 
-<h2>How To Track Views With QR Code</h2>
+<h2> كيفية تتبع المشاهدات باستخدام رمز الاستجابة السريعة </h2>
 
-<p>When you generate a dynamic QR code with our <a href="#pro">PRO QR generator</a>, it is automatically linked to our tracking tools.</p>
+<p> عند إنشاء رمز QR ديناميكي باستخدام <a href="#pro"> PRO QR منشئ </a> ، فإنه يتم ربطه تلقائيًا بأدوات التتبع الخاصة بنا. </p>
 
-<p>When a user scans the QR code and is redirected to the destination webpage, <a href="#static:url">ScanMeFindMe</a> traces key metrics from the device and saves them on the dashboard.</p>
+<p> عندما يمسح المستخدم رمز الاستجابة السريعة ويُعاد توجيهه إلى صفحة الويب الوجهة ، يتتبع <a href="#static:url"> ScanMeFindMe </a> المقاييس الرئيسية من الجهاز ويحفظها على لوحة التحكم. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+        alt="مثال على إحصائيات مسح رمز الاستجابة السريعة - ScanMeFindMe">
 </p>
 
-<p>From the <a href="#article:about_statistics" title="Scans statistics for dynamic QR codes">statistics</a>, you will discover how many scans are generated by a particular QR code and how many of them are unique hits. Unique hits are scans generated from different devices. Often, it means different individuals are scanning the QR code. </p>
+<p> من <a href="#article:about_statistics" title="Scans Statistics for Dynamic QR Code"> Statistics </a> ، سوف تكتشف عدد عمليات الفحص التي تم إنشاؤها بواسطة رمز QR معين وعددها هي ضربات فريدة. الزيارات الفريدة هي عمليات مسح يتم إنشاؤها من أجهزة مختلفة. في كثير من الأحيان ، هذا يعني أن أشخاصًا مختلفين يقومون بمسح رمز الاستجابة السريعة ضوئيًا. </p>
 
-<p>Also, you'll get a monthly and daily breakdown of the scans, which helps in determining the peak hours or any distinct patterns where users frequent your website. </p>
+<p> ستحصل أيضًا على تفصيل شهري ويومي لعمليات الفحص ، مما يساعد في تحديد ساعات الذروة أو أي أنماط مميزة حيث يتردد المستخدمون على موقعك على الويب. </p>
 
-<p>The charts help marketers to fine-tune their campaigns to increase conversion and sales. For example, an online retailer can run targeted promotions during the hours when it's anticipating peak traffic.</p>
+<p> تساعد المخططات جهات التسويق في ضبط حملاتهم لزيادة التحويلات والمبيعات. على سبيل المثال ، يمكن لمتاجر التجزئة عبر الإنترنت تشغيل عروض ترويجية مستهدفة خلال الساعات التي يتوقع فيها ذروة حركة المرور. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - scans by.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+        alt="مثال على إحصائيات مسح رمز الاستجابة السريعة - ScanMeFindMe">
 </p>
 
-<p>There's more to getting the number of total hits with our QR code tracker. You'll get access to details like the number of scans by OS, language, city, and country. </p>
+<p> هناك المزيد للحصول على إجمالي عدد الزيارات باستخدام متتبع رمز الاستجابة السريعة. ستتمكن من الوصول إلى تفاصيل مثل عدد عمليات الفحص حسب نظام التشغيل واللغة والمدينة والبلد. </p>
 
-<p>These metrics provide insights into how your campaign is faring at a deeper level. For example, if you're promoting an app developed for Android users, you'll want scans originating from the Android platform. </p>
+<p> توفر هذه المقاييس رؤى حول أداء حملتك على مستوى أعمق. على سبيل المثال ، إذا كنت تروج لتطبيق تم تطويره لمستخدمي Android ، فستحتاج إلى عمليات المسح التي تنشأ من نظام Android الأساسي. </p>
 
-<p>Marketers targeting the global audience can personalize their campaigns based on how users in the respective cities or countries are responding. </p>
+<p> يمكن للمسوقين الذين يستهدفون الجمهور العالمي تخصيص حملاتهم بناءً على كيفية استجابة المستخدمين في المدن أو البلدان المعنية. </p>
 
-<p>The figures help with other marketing strategies and serve as an early indicator of which region is more likely to generate an impactful engagement. </p>
+<p> تساعد الأرقام في استراتيجيات التسويق الأخرى وتعمل كمؤشر مبكر للمنطقة التي من المرجح أن تؤدي إلى مشاركة فعالة. </p>
 
-<h2>Bottom Line</h2>
+<h2> الخلاصة </h2>
 
-<p>If you wanted to set up a data-driven QR code campaign, you'll need dynamic QR codes and a reliable, hassle-free tracking module. You don't want to spend hours setting up the analytics or generating the reports.</p>
+<p> إذا كنت ترغب في إعداد حملة رموز QR تعتمد على البيانات ، فستحتاج إلى رموز QR ديناميكية ووحدة تتبع موثوقة وخالية من المتاعب. لا تريد قضاء ساعات في إعداد التحليلات أو إنشاء التقارير. </p>
 
-<p>ScanMeFindMe PRO takes care of the technical stuff, which means you can start generating QR codes that automatically track views in no time.</p>
+<p> يعتني ScanMeFindMe PRO بالأشياء التقنية ، مما يعني أنه يمكنك البدء في إنشاء رموز QR التي تتعقب المشاهدات تلقائيًا في أي وقت من الأوقات. </p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p> <a href="#pro"> جرّب ScanMeFindMe PRO الآن مجانًا. </a> </p>

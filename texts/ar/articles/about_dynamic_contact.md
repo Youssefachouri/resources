@@ -1,63 +1,63 @@
-<h1>Using QR codes to share contact details</h1>
+<h1>استخدام رموز QR لمشاركة تفاصيل الاتصال</h1>
 
 --- Abstract / Meta description ---
 
-Sharing contact details with QR codes is a greener and more efficient branding strategy. Learn how you could easily create and share digital contacts with QR codes.
+تعد مشاركة تفاصيل الاتصال مع رموز QR استراتيجية علامة تجارية أكثر مراعاة للبيئة وأكثر كفاءة. تعرف على كيفية إنشاء جهات اتصال رقمية ومشاركتها بسهولة باستخدام رموز QR.
 
 --- Short content 1 ---
 
-Store personal contact information, social media handles, and photo/logo with a sharable QR code. Track how often it is scanned.
+قم بتخزين معلومات الاتصال الشخصية ومقابض الوسائط الاجتماعية والصورة / الشعار باستخدام رمز QR قابل للمشاركة. تتبع عدد مرات فحصها.
 
 ----------
 
-<p>If you expect customers to manually store your information from business cards, you need to rethink your branding strategy. Most people find having to save the contact details from a paper business card onto a mobile phone annoying and repetitive.</p>
+<p> إذا كنت تتوقع أن يقوم العملاء بتخزين معلوماتك يدويًا من بطاقات العمل ، فأنت بحاجة إلى إعادة التفكير في إستراتيجية علامتك التجارية. يجد معظم الناس أن الاضطرار إلى حفظ تفاصيل الاتصال من بطاقة العمل الورقية على الهاتف المحمول أمر مزعج ومتكرر. </p>
 
-<p>Besides, did you know that <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% of business cards</a> are thrown off within a week after they are handed out?</p>
+<p> علاوة على ذلك ، هل تعلم أن <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow"> 88٪ من بطاقات العمل </a> يتم التخلص منها في غضون أسبوع بعد تسليمها ؟ </p>
 
-<p>That's a staggering number of business cards gone to waste. Not only does it go against many companies' environmental commitment, but it also explains why some clients never reach out to you even when they promised to. </p>
+<p> هذا عدد مذهل من بطاقات العمل ذهبت سدى. لا يتعارض ذلك مع الالتزامات البيئية للعديد من الشركات فحسب ، بل إنه يفسر أيضًا سبب عدم تواصل بعض العملاء معك أبدًا حتى عندما وعدوا بذلك. </p>
 
-<p>Nowadays, more and more business cards have a QR code printed on them, allowing people to easily save the contacts onto smartphones. This should be part of your strategy. </p>
+<p> في الوقت الحاضر ، هناك المزيد والمزيد من بطاقات العمل التي تحتوي على رمز QR مطبوع عليها ، مما يسمح للأشخاص بسهولة حفظ جهات الاتصال على الهواتف الذكية. يجب أن يكون هذا جزءًا من استراتيجيتك. </p>
 
-<h3> Why Use QR Codes For Sharing Contact Details? </h3>
+<h3> لماذا استخدم أكواد QR لمشاركة تفاصيل الاتصال؟ </h3>
 
-<p>You need to make it easier for clients to save your contacts on their phones, but unfortunately, physical business cards aren't optimized for that.  </p>
+<p> تحتاج إلى تسهيل قيام العملاء بحفظ جهات الاتصال الخاصة بك على هواتفهم ، ولكن للأسف ، لم يتم تحسين بطاقات العمل الفعلية لذلك. </p>
 
-<p>Busy professionals find it a hassle to browse through stacks of business cards to find the right contact unless they invest in a business card scanner. Still, there's a chance that some cards are misplaced or are already disposed of. </p>
+<p> يجد المحترفون المشغولون صعوبة في تصفح أكوام بطاقات العمل للعثور على جهة الاتصال الصحيحة ما لم يستثمروا في ماسح ضوئي لبطاقات العمل. ومع ذلك ، هناك احتمال أن تكون بعض البطاقات في غير محلها أو تم التخلص منها بالفعل. </p>
 
-<p><a href="#static:contact">Digitizing your contact details with QR codes</a>   addresses many of the disadvantages of using physical business cards.</p>
+<p> <a href="#static:contact"> رقمنة تفاصيل الاتصال الخاصة بك باستخدام رموز QR </a> يعالج العديد من عيوب استخدام بطاقات العمل المادية. </p>
 
-<p>All your clients have to do is scan the QR code and have all the contact information displayed on the screen.  </p>
+<p> كل ما يتعين على عملائك القيام به هو مسح رمز الاستجابة السريعة ضوئيًا وعرض جميع معلومات الاتصال على الشاشة. </p>
 
-<p>With a single button, the user can contact you straight away or save the contact information onto their device. It puts an end to instances where clients misplace or forget your emails or phone numbers. </p>
+<p> من خلال زر واحد ، يمكن للمستخدم الاتصال بك على الفور أو حفظ معلومات الاتصال على أجهزته. إنه يضع حدًا للحالات التي يضيع فيها العملاء أو ينسون رسائل البريد الإلكتروني أو أرقام الهواتف الخاصة بك. </p>
 
-<h2> What Contact Information Can Be Stored In A QR Code </h2>
+<h2> ما هي معلومات الاتصال التي يمكن تخزينها في رمز الاستجابة السريعة </h2>
 
-<p>This depends on which type of QR code you are using.</p>
+<p> يعتمد هذا على نوع رمز الاستجابة السريعة الذي تستخدمه. </p>
 
-<p>If you're using a static QR code, you can store basic details (such as name, phone, email, website, and address) on the QR code in <a href="#article:about_contactformats">Vcard or MeCard format</a>. When you scan a static QR code, you get to save the contact information onto your smartphone. </p>
+<p> إذا كنت تستخدم رمز QR ثابتًا ، فيمكنك تخزين التفاصيل الأساسية (مثل الاسم والهاتف والبريد الإلكتروني وموقع الويب والعنوان) على رمز الاستجابة السريعة في <a href="#article:about_contactformats"> Vcard أو تنسيق MeCard </a>. عندما تقوم بمسح رمز QR ثابت ضوئيًا ، يمكنك حفظ معلومات الاتصال على هاتفك الذكي. </p>
 
-<p><a href="#article:about_static">Static QR codes</a> encode the information directly, limiting how much information you can store. You'll need to use a dynamic QR code to include additional information like a photo/logo or social media handles.  </p>
+تعمل <p> <a href="#article:about_static"> رموز QR الثابتة </a> على ترميز المعلومات مباشرةً ، مما يحد من مقدار المعلومات التي يمكنك تخزينها. ستحتاج إلى استخدام رمز QR ديناميكي لتضمين معلومات إضافية مثل صورة / شعار أو مقابض الوسائط الاجتماعية. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
-        alt="Contact card fields - ScanMeFindMe">
+        alt="حقول بطاقة جهة الاتصال - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes work differently from their static counterpart. Instead of encoding the contact details, it stores the information on a webpage and embeds a shortened URL in the QR Code.  </p>
+<p> تعمل رموز QR الديناميكية بشكل مختلف عن نظيرتها الثابتة. بدلاً من ترميز تفاصيل الاتصال ، يقوم بتخزين المعلومات على صفحة ويب ويقوم بتضمين عنوان URL مختصر في رمز الاستجابة السريعة. </p>
 
-<p>When users scan the code, they are redirected to the webpage that acts as a digital business card. The displayed contact details can be downloaded and saved into a smartphone's contacts. </p>
+<p> عندما يقوم المستخدمون بمسح الرمز ضوئيًا ، تتم إعادة توجيههم إلى صفحة الويب التي تعمل كبطاقة عمل رقمية. يمكن تنزيل تفاصيل جهة الاتصال المعروضة وحفظها في جهات اتصال الهاتف الذكي. </p>
 
-<h2> How To Share Contact Details With QR Codes? </h2>
+<h2> كيفية مشاركة تفاصيل الاتصال باستخدام رموز QR؟ </h2>
 
-<p>To start sharing your contact details with a QR code, you need to generate one. With a <a href="#pro">ScanMeFIndMe PRO account</a>, you can generate a QR code that contains all your personal information with ease.</p>
+<p> لبدء مشاركة تفاصيل الاتصال الخاصة بك مع رمز الاستجابة السريعة ، تحتاج إلى إنشاء واحد. باستخدام <a href="#pro"> حساب ScanMeFIndMe PRO </a> ، يمكنك إنشاء رمز QR يحتوي على جميع معلوماتك الشخصية بسهولة. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
-        alt="Generating QR code for contact card - ScanMeFindMe">
+        alt="إنشاء رمز الاستجابة السريعة لبطاقة جهة الاتصال - ScanMeFindMe">
 </p>
 
-<p>A QR code is automatically created after you have filled in the related fields.</p>
+<p> يتم إنشاء رمز الاستجابة السريعة تلقائيًا بعد أن تملأ الحقول ذات الصلة. </p>
 
-<p>Once you're done, you can download the QR code, print it out, or share it digitally. With a dynamic QR code, you can also view how many people have scanned the QR code. We automatically track and record <a href="#article:about_statistics">key metrics</a>   whenever a user scans the QR code to view your contact information, this can help you personalize and improve your marketing strategies.</p>
+<p> بمجرد الانتهاء ، يمكنك تنزيل رمز الاستجابة السريعة أو طباعته أو مشاركته رقميًا. باستخدام رمز الاستجابة السريعة الديناميكي ، يمكنك أيضًا عرض عدد الأشخاص الذين قاموا بمسح رمز الاستجابة السريعة ضوئيًا. نحن نتتبع تلقائيًا ونسجل <a href="#article:about_statistics"> المقاييس الرئيسية </a> عندما يقوم المستخدم بمسح رمز الاستجابة السريعة لعرض معلومات الاتصال الخاصة بك ، وهذا يمكن أن يساعدك في تخصيص استراتيجيات التسويق الخاصة بك وتحسينها. </p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p> <a href="#pro"> جرّب ScanMeFindMe PRO الآن مجانًا. </a> </p>

@@ -1,36 +1,36 @@
-<h1>What are MeCard and vCard formats that are used for QR codes</h1>
+<h1>ما هي تنسيقات MeCard و vCard المستخدمة لرموز QR</h1>
 
 --- Abstract / Meta description ---
 
-What are the differences between MeCard and Vcard? Which works best for QR codes? Find out more in this article.
+ما الفرق بين MeCard و Vcard؟ أيهما يعمل بشكل أفضل مع رموز QR؟ اكتشف المزيد فى هذه المقالة.
 
 --- Short content 1 ---
 
-Vcard stores more information and is commonly used for sharing contacts. MeCard is used exclusively for QR codes and is more compact.
+يخزن Vcard المزيد من المعلومات ويستخدم بشكل شائع لمشاركة جهات الاتصال. يتم استخدام MeCard حصريًا لرموز QR وهو أكثر إحكاما.
 
 ----------
 
-<p>You've heard that QR codes make social networking easier. You can do away with stacks of printed business cards and have all your contact information encoded in a QR code. </p>
+<p> لقد سمعت أن رموز QR تجعل الشبكات الاجتماعية أسهل. يمكنك التخلص من أكوام بطاقات العمل المطبوعة وتشفير جميع معلومات الاتصال الخاصة بك في رمز الاستجابة السريعة. </p>
 
-<p>Yet, there's often a choice to be made when <a href="#static:contact">generating a QR code for contacts</a>. Should you choose the MeCard or the Vcard format? </p>
+<p> ومع ذلك ، غالبًا ما يكون هناك خيار يتم اتخاذه عند <a href="#static:contact"> إنشاء رمز QR لجهات الاتصال </a>. هل يجب أن تختار تنسيق MeCard أم Vcard؟ </p>
 
-<p>For most people, terms like MeCard and Vcard are intimidatingly unfamiliar. But knowing the fundamental difference between both formats helps in making the right choice when printing QR codes for contacts.</p>
+<p> بالنسبة لمعظم الأشخاص ، تعتبر مصطلحات مثل MeCard و Vcard غير مألوفة بشكل مخيف. لكن معرفة الاختلاف الأساسي بين كلا التنسيقين يساعد في اتخاذ القرار الصحيح عند طباعة رموز QR لجهات الاتصال. </p>
 
-<h2>MeCard vs Vcard</h2>
+<h2> MeCard مقابل Vcard </h2>
 
-<p>Both MeCard and Vcard are established standards in how personal details are stored in a QR code. Vcard was created in the 1990s and is the more popular of the two standards. Meanwhile, MeCard was developed by Domoco, the largest mobile phone service provider in Japan.</p>
+<p> يعد كل من MeCard و Vcard معايير راسخة في كيفية تخزين التفاصيل الشخصية في رمز الاستجابة السريعة. تم إنشاء Vcard في التسعينيات وهو الأكثر شيوعًا بين المعيارين. وفي الوقت نفسه ، تم تطوير MeCard بواسطة Domoco ، أكبر مزود لخدمات الهاتف المحمول في اليابان. </p>
 
-<p>Vcard supports a wide range of applications, including mobile phones, QR codes, emails, websites, and SMS. However, MeCard is limited to QR codes and mobile phones. </p>
+<p> يدعم Vcard مجموعة كبيرة من التطبيقات ، بما في ذلك الهواتف المحمولة ورموز QR ورسائل البريد الإلكتروني ومواقع الويب والرسائل النصية القصيرة. ومع ذلك ، فإن MeCard مقصور على رموز QR والهواتف المحمولة. </p>
 
-<p>Both formats support similar information, such as name, telephone, email, website, and address. The Vcard format supports organization and job title fields, which are not available in MeCard.</p>
+<p> يدعم كلا التنسيقين معلومات متشابهة ، مثل الاسم والهاتف والبريد الإلكتروني وموقع الويب والعنوان. يدعم تنسيق Vcard حقلي المؤسسة والمسمى الوظيفي ، وهما غير متاحين في MeCard. </p>
 
-<p>When rendered, you'll get a smaller, compact QR code with the MeCard format. This means that a MeCard contact QR code is more readable when printed on a smaller area compared to its Vcard counterpart.</p>
+<p> عند العرض ، ستحصل على رمز QR أصغر حجمًا بتنسيق MeCard. وهذا يعني أن رمز الاستجابة السريعة الخاص بجهة اتصال MeCard يكون أكثر قابلية للقراءة عند الطباعة على مساحة أصغر مقارنةً بنظيره في Vcard. </p>
 
-<p>vCard:</p>
+<p> بطاقة vCard: </p>
 
 <table>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 1 - qr vcard.png" width="150" height="150"
-        alt="QR code for contact in vCard format - ScanMeFindMe">
+        alt="رمز الاستجابة السريعة لجهة اتصال بتنسيق vCard - ScanMeFindMe">
     </td>
         <td class="notranslate">
 <pre>BEGIN:VCARD
@@ -46,54 +46,54 @@ END:VCARD</pre>
 
 <p></p>
 
-<p>MeCard:</p>
+<p> بطاقة MeCard: </p>
 
 <table>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 2 - mecard.png" width="150" height="150"
-            alt="QR code for contact in MeCard format - ScanMeFindMe"></td>
+            alt="رمز الاستجابة السريعة لجهة اتصال بتنسيق MeCard - ScanMeFindMe"></td>
         <td class="notranslate">
             <pre>MECARD:N:,ScanMeFindMe;URL:https://scanmefindme.com;;</pre>
         </td>
     </tr>
 </table>
 
-<h2>Which Is The Better Choice?</h2>
+<h2> أيهما الخيار الأفضل؟ </h2>
 
-<p>It depends on how you intend to use the QR code. MeCard offers simplicity, and you can print it easily on a business card. You don't need an internet connection to scan and save the contact details into your phone book.</p>
+<p> يعتمد ذلك على الطريقة التي تنوي بها استخدام رمز الاستجابة السريعة. تقدم MeCard البساطة ، ويمكنك طباعتها بسهولة على بطاقة العمل. لست بحاجة إلى اتصال بالإنترنت لمسح تفاصيل الاتصال وحفظها في دفتر هاتفك. </p>
 
-<p>Vcard is used more extensively for sharing contacts and is superior in terms of the types of information stored. While Vcard can be stored as a static QR code, you'll get much more out of it by using it as a <a href="#article:about_dynamic_contact" title="Dynamic QR code for contact card">dynamic QR code</a>.</p>
+<p> يتم استخدام Vcard بشكل مكثف لمشاركة جهات الاتصال وهو متفوق من حيث أنواع المعلومات المخزنة. بينما يمكن تخزين Vcard كرمز QR ثابت ، ستحصل على المزيد منه باستخدامه <a href="#article:about_dynamic_contact" title="Dynamic QR code for contact card"> رمز QR الديناميكي </a> أ>. </p>
 
-<p>A dynamic QR code stores a link that redirects users to a web page to view and download the contact details in VCF format. You can also include photos and social media links when you're using <a href="#pro">ScanMeFindMe PRO.</a></p>
+<p> يخزن رمز الاستجابة السريعة الديناميكي ارتباطًا يعيد توجيه المستخدمين إلى صفحة ويب لعرض تفاصيل الاتصال وتنزيلها بتنسيق VCF. يمكنك أيضًا تضمين روابط الصور والوسائط الاجتماعية عند استخدام <a href="#pro"> ScanMeFindMe PRO. </a> </p>
 
-<p>Also, a dynamic Vcard QR code is more compact because it stores the virtual card's URL instead of the actual contacts. It's also possible to <a href="#article:about_statistics" title="Track QR code scans">track</a> how many people have scanned and viewed your contacts with a dynamic Vcard.</p>
+<p> أيضًا ، يكون رمز الاستجابة السريعة Vcard الديناميكي أكثر إحكاما لأنه يخزن عنوان URL للبطاقة الافتراضية بدلاً من جهات الاتصال الفعلية. من الممكن أيضًا <a href="#article:about_statistics" title="Track QR code scans"> تتبع </a> عدد الأشخاص الذين قاموا بفحص جهات الاتصال الخاصة بك وعرضها باستخدام Vcard ديناميكي. </p>
 
-<h2>How To Generate QR Codes with MeCard and VCard formats</h2>
+<h2> كيفية إنشاء أكواد QR بتنسيقات MeCard و VCard </h2>
 
-<p>ScanMeFindMe supports both MeCard and VCard formats. You can create static MeCard and VCard contacts with our <a href="#static:contact">free QR code generator.</a> </p>
+<p> يدعم ScanMeFindMe كلاً من تنسيق MeCard و VCard. يمكنك إنشاء جهات اتصال ثابتة من MeCard و VCard باستخدام <a href="#static:contact"> منشئ رمز الاستجابة السريعة المجاني. </a> </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - create a qr code for contact.png"
-        alt="Create a static QR code for contact - ScanMeFindMe">
+        alt="إنشاء رمز QR ثابت لجهة اتصال - ScanMeFindMe">
 </p>
 
-<p>Just choose the desired format and fill in the fields accordingly. The corresponding QR code is automatically generated as you do so.</p>
+<p> فقط اختر التنسيق المطلوب واملأ الحقول وفقًا لذلك. يتم إنشاء رمز الاستجابة السريعة المقابل تلقائيًا أثناء قيامك بذلك. </p>
 
-<p>As mentioned, you can do much more with a <a href="#article:about_dynamic_contact">dynamic Vcard contact</a>.</p>
+<p> كما ذكرنا ، يمكنك فعل المزيد من خلال <a href="#article:about_dynamic_contact"> جهة اتصال Vcard الديناميكية </a>. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - contact card.png"
-        alt="Create a dynamic QR code for contact - ScanMeFindMe">
+        alt="إنشاء رمز QR ديناميكي لجهة اتصال - ScanMeFindMe">
 </p>
 
-<p>When you're using a dynamic VCard contact, you can:</p>
+<p> عندما تستخدم جهة اتصال VCard ديناميكية ، يمكنك: </p>
 
 <ul>
-    <li>Modify the contact details anytime you wish.</li>
-    <li>Upload a photo or organisation logo.</li>
-    <li>Include social media handles or links.</li>
-    <li>Monitor who scans the contact QR code, when, and where.</li>
-    <li>Allow a preview of the contact information before saving to a smartphone.</li>
-    <li>Have a smaller-sized QR code while storing more information.</li>
+    <li> قم بتعديل تفاصيل الاتصال متى شئت. </li>
+    <li> حمّل صورة أو شعار مؤسسة. </li>
+    <li> قم بتضمين مقابض أو روابط لوسائل التواصل الاجتماعي. </li>
+    <li> مراقبة من يقوم بمسح رمز الاستجابة السريعة الخاص بجهة الاتصال ومتى وأين. </li>
+    <li> السماح بمعاينة معلومات الاتصال قبل الحفظ في الهاتف الذكي. </li>
+    <li> امتلك رمز استجابة سريعة أصغر حجمًا أثناء تخزين المزيد من المعلومات. </li>
 </ul>
 
-<p><a href="#pro">Create dynamic Vcard contacts with ScanMeFindMe PRO now.</a></p>
+<p> <a href="#pro"> قم بإنشاء جهات اتصال Vcard ديناميكية باستخدام ScanMeFindMe PRO الآن. </a> </p>

@@ -1,37 +1,37 @@
-<h1>[URL] Create a QR code for a website or URL</h1>
+<h1>[URL] قم بإنشاء رمز QR لموقع ويب أو عنوان URL</h1>
 
 ----------
 
-<h1>Effortless QR Code Solutions For Savvy Marketers</h1>
+<h1> حلول رمز الاستجابة السريعة بدون مجهود للمسوقين المحترفين </h1>
 
-<p>Create, download, manage and track QR codes with a single platform. Work with different types of QR codes and personalization to suit your branding strategy.</p>
+<p> يمكنك إنشاء رموز QR وتنزيلها وإدارتها وتتبعها من خلال نظام أساسي واحد. اعمل باستخدام أنواع مختلفة من أكواد QR وإضفاء الطابع الشخصي لتناسب إستراتيجية علامتك التجارية. </p>
 
-<p><a href="#pro">Try For Free</a></p>
+<p> <a href="#pro"> جرّب مجانًا </a> </p>
 
-<h2>Create</h2>
+<h2> إنشاء </h2>
 
-<p>Generate QR codes for websites, contacts, phones, SMS, and more in simple steps. You don’t have to be a technical wizard.</p>
+<p> أنشئ رموز QR لمواقع الويب وجهات الاتصال والهواتف والرسائل القصيرة والمزيد بخطوات بسيطة. ليس عليك أن تكون ساحرًا تقنيًا. </p>
 
-<h2>Customize</h2>
+<h2> تخصيص </h2>
 
-<p>Choose from existing designs or add a personal touch to the QR code. Upload your own logo, template and select a color that goes well with your brand. Save time by using presets.</p>
+<p> اختر من التصميمات الحالية أو أضف لمسة شخصية إلى رمز الاستجابة السريعة. قم بتحميل الشعار والقالب الخاص بك واختر لونًا يتناسب مع علامتك التجارية. وفر الوقت باستخدام الإعدادات المسبقة. </p>
 
-<h2>Download</h2>
+<h2> تنزيل </h2>
 
-<p>Download QR codes in high-resolution format. Set precise QR code location with advanced page settings.</p>
+<p> نزِّل رموز QR بتنسيق عالي الدقة. تعيين موقع دقيق لرمز الاستجابة السريعة مع إعدادات الصفحة المتقدمة. </p>
 
-<h2>Manage</h2>
+<h2> إدارة </h2>
 
-<p>Store and manage all of your QR codes with one solution. Easily search and filter QR codes by tags. Stay organized as you create more QR codes.</p>
+<p> قم بتخزين وإدارة جميع رموز QR بحل واحد. ابحث بسهولة عن رموز QR وتصفيتها بالعلامات. ابق منظمًا أثناء إنشاء المزيد من رموز QR. </p>
 
-<h2>Track</h2>
+<h2> تتبع </h2>
 
-<p>Leverage real-time QR code analytics to track scans, locations, language, platform, and other key metrics. A must-have for data-driven marketing efforts.</p>
+<p> استفد من تحليلات رمز الاستجابة السريعة في الوقت الفعلي لتتبع عمليات الفحص والمواقع واللغة والنظام الأساسي والمقاييس الرئيسية الأخرى. ضروري لجهود التسويق القائمة على البيانات. </p>
 
-<p><a href="#article:about_statistics">Learn More</a></p>
+<p> <a href="#article:about_statistics"> معرفة المزيد </a> </p>
 
-<h2>Unlock Dynamic QR Codes With ScanMeFindMe PRO</h2>
+<h2> فتح رموز QR الديناميكية باستخدام ScanMeFindMe PRO </h2>
 
-<p>Dynamic QR codes live up to their name. You can dynamically change information after you have printed the QR code. Dynamic QR codes are only available in the ScanMeFindMe PRO</p>
+<p> ترقى رموز QR الديناميكية إلى أسمائها. يمكنك تغيير المعلومات ديناميكيًا بعد طباعة رمز الاستجابة السريعة. رموز QR الديناميكية متوفرة فقط في ScanMeFindMe PRO </p>
 
-<p><a href="#article:about_static">Static vs dynamic QR codes (Learn More)</a></p>
+<p> <a href="#article:about_static"> رموز QR الثابتة مقابل رموز QR الديناميكية (مزيد من المعلومات) </a> </p>

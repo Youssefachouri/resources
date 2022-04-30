@@ -1,10 +1,10 @@
-<h1>[Create a page with files] Create a QR code for Page with files</h1>
+<h1>[قم بإنشاء صفحة بالملفات] قم بإنشاء رمز QR للصفحة مع الملفات</h1>
 
 --- Example header ---
 
-Page with files example
+مثال على صفحة بها ملفات
 
 ----------
 
 <img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width="100%" height="auto"
-    alt="Page with files example - ScanMeFindMe">
+    alt="مثال صفحة بها ملفات - ScanMeFindMe">
