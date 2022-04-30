@@ -115,7 +115,62 @@
     "proaccount": "PRO-Konto",
     "product": {
       "metatitle": "QR Code Generator - Statische und dynamische Codes, Analysen und mehr",
-      "title": "Produkt"
+      "title": "Produkt",
+      "dynamic": {
+        "contact": {
+          "description": "Mit ScanMeFindMe können Sie schnell eine Seite mit den Kontaktinformationen einer Person oder Organisation erstellen. Es kann das Foto oder Logo, Namen, Telefonnummern, E-Mail, URL, Links zu verschiedenen Profilen sozialer Netzwerke, Adressen und Notizen enthalten. Wenn Kunden diesen QR-Code scannen, können sie alle diese Daten sehen und Sie sofort kontaktieren oder sie in ihren Telefonkontakten speichern.",
+          "title": "Kontaktinformation"
+        },
+        "features": {
+          "api": "Verwenden Sie die API, um Codes schnell aus Ihrer eigenen Anwendung zu generieren",
+          "domain": "Demnächst: Verwenden Sie Ihre eigene Domain für Kurz-URLs",
+          "dynamic": "Ändern Sie die Informationen jederzeit, nachdem der QR-Code gedruckt wurde",
+          "shorturl": "Dynamische QR-Codes verlinken auf die kurzen URLs, was eine kleinere Matrix in den QR-Codes bedeutet. Die Muster können eine geringere Dichte haben, wodurch sie besser aussehen und einfacher zu scannen sind",
+          "statistics": "Sie können Statistiken darüber anzeigen, wie oft jeder Code gescannt wurde, von welchem Ort und von welchem Gerät"
+        },
+        "featuresheader": "Hauptmerkmale der dynamischen QR-Codes:",
+        "page": {
+          "description": "Dies ist nützlich, wenn Sie einige Informationen oder Dateien mit Ihren Kunden teilen möchten. Die Möglichkeiten, diese zu verwenden, sind unbegrenzt, sie können Folgendes umfassen:",
+          "examples": {
+            "albums": "Fotoalben, Musikbeispiele und vieles mehr",
+            "manual": "Bedienungsanleitungen für Geräte in einem Hotel oder Airbnb",
+            "menu": "Menüs für ein Restaurant oder ein Café",
+            "products": "Zusätzliche Informationen zu Produkten oder Ausstellungsstücken"
+          },
+          "title": "Seite mit Dateien"
+        },
+        "subtitle": "Dynamische QR-Codes machen ihrem Namen alle Ehre. Sie können Informationen dynamisch ändern, nachdem Sie den QR-Code gedruckt haben. Dynamische QR-Codes sind nur mit ScanMeFindMe PRO verfügbar",
+        "title": "Dynamische QR-Codes",
+        "typesheader": "Derzeit bietet ScanMeFindMe drei Arten von dynamischen Codes an:",
+        "url": {
+          "description": "Ihr Kunde wird sofort auf eine andere Website umgeleitet. Sie können Links zu Google-Formularen oder -Dokumenten, einer Registrierungsseite für eine Veranstaltung, Umfragen usw. erstellen. Der QR-Code verweist auf eine kurze URL (die eine kleinere Matrix bereitstellt). Sie können jederzeit ändern, wohin die URL weiterleitet , und verfolgen Sie, wie oft es gescannt wird.",
+          "title": "URL-Umleitung"
+        }
+      },
+      "gotopro": "Gehen Sie zum PRO-Konto",
+      "static": {
+        "freefeatures": {
+          "colors": "Ändern Sie die Farben",
+          "download": "Laden Sie jeweils einen Code im PNG- oder SVG-Format herunter",
+          "generate": "Generieren Sie QR-Codes für URLs, Telefonnummern, Kontaktinformationen, Kalenderereignisse und mehr.",
+          "logos": "Wählen Sie aus über {no} verschiedenen Logos für jeden Anlass, um sie Ihrem QR-Code hinzuzufügen",
+          "styles": "Wählen Sie aus über {no} verschiedenen Stilen für die QR-Codes",
+          "templates": "Fügen Sie Rahmen und Beschriftungen zu den generierten QR-Codes hinzu"
+        },
+        "profeatures": {
+          "api": "Verwenden Sie die API, um schnell Codes aus Ihrer eigenen Anwendung zu generieren",
+          "bulkdownload": "Laden Sie mehrere Codes auf einer druckfertigen Seite herunter, Sie können Ränder, Anzahl der Wiederholungen usw. angeben",
+          "download": "Laden Sie Codes in den Formaten PNG, SVG, PS und PDF herunter",
+          "logos": "Laden Sie Ihre eigenen Logos zur Verwendung in QR-Codes hoch",
+          "presets": "Erstellen Sie Ihre eigenen Voreinstellungen - eine Kombination der QR-Stileinstellungen, wenden Sie diese Voreinstellungen mit einem Klick auf die neuen QR-Codes an",
+          "save": "Generierte QR-Codes speichern und jederzeit ausdrucken können",
+          "templates": "Erstellen Sie Ihre eigenen Vorlagen und wählen Sie aus, wo Untertitel angezeigt werden sollen"
+        },
+        "subtitle": "Mit ScanMeFindMe.com können Sie kostenlos QR-Codes für statische Inhalte generieren. „Statisch“ bedeutet, dass der Inhalt der QR-Codes nach dem Drucken nicht mehr verändert werden kann.",
+        "title": "Statische QR-Codes",
+        "withfree": "Mit der <span class=\"free\">kostenlosen Version</span> können Sie:",
+        "withpro": "Im <span class=\"pro-badge\">PRO-Konto</span> können Sie auch:"
+      }
     },
     "qrgenerator": "QR-Generator",
     "readmore": "Lesen Sie mehr",
@@ -183,7 +238,7 @@
       "quickreference": "Schnellreferenz ",
       "tempfiles": "Temporäre Dateien",
       "timesused": "Verwendete Zeiten",
-      "uploaddesc": "Einen statischen oder dynamischen QR-Code erstellen"
+      "uploaddesc": "Laden Sie temporäre Dateien hoch"
     },
     "billing": {
       "addresscity": "Stadt",

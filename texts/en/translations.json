@@ -114,7 +114,62 @@
     "privacypage": "Privacy policy",
     "proaccount": "PRO account",
     "product": {
+      "dynamic": {
+        "contact": {
+          "description": "ScanMeFindMe allows you to quickly create a page with the contact information of a person or an organisation. It can include the photo or logo, names, phone numbers, email, URL, links to various social network profiles, address and notes. When clients scan this QR code they will be able to see all of this data and immediately contact you or save it to their phone contacts.",
+          "title": "Contact information"
+        },
+        "features": {
+          "api": "Use API to generate codes quickly from your own application",
+          "domain": "Coming soon: use your own domain for short URLs",
+          "dynamic": "Change information at any moment after the QR code was printed",
+          "shorturl": "Dynamic QR codes link to the short URLs, which means smaller matrix in the QR codes. The patterns can have a lower density which makes them look better, and easier to scan",
+          "statistics": "You are able to view statistics on how often each code was scanned, from which location and from which device"
+        },
+        "featuresheader": "Main features of the dynamic QR codes:",
+        "page": {
+          "description": "This is useful when you want to share some information or files with your clients. The ways to use these are unlimited, they can include:",
+          "examples": {
+            "albums": "Photo albums, music samples and many more",
+            "manual": "Instructions manuals for appliances in a hotel or Airbnb",
+            "menu": "Menus for a restaurant or a cafe",
+            "products": "Additional information for products or exhibition items"
+          },
+          "title": "Page with files"
+        },
+        "subtitle": "Dynamic QR codes live up to their name. You can dynamically change information after you have printed the QR code. Dynamic QR codes are only available with the ScanMeFindMe PRO",
+        "title": "Dynamic QR codes",
+        "typesheader": "Currently, ScanMeFindMe offers three types of dynamic codes:",
+        "url": {
+          "description": "Your client will be immediately redirected to another website. You can create links to google forms or documents, a registration page for an event, surveys, etc. The QR code will point to a short URL (which provides a smaller matrix), at any moment, you can change where the URL redirects to, and track how often it is scanned.",
+          "title": "URL redirection"
+        }
+      },
+      "gotopro": "Go to PRO account",
       "metatitle": "QR Code Generator - Static and dynamic codes, analytics and more",
+      "static": {
+        "freefeatures": {
+          "colors": "Change the colors",
+          "download": "Download one code at a time in PNG or SVG format",
+          "generate": "Generate QR codes for URLs, phone numbers, contact information, calendar events and more.",
+          "logos": "Choose from over {no} different logos for any occasion to add to your QR code",
+          "styles": "Select from over {no} different styles for the QR codes",
+          "templates": "Add frames and captions to the generated QR codes"
+        },
+        "profeatures": {
+          "api": "Use API to quickly generate codes from your own application",
+          "bulkdownload": "Download multiple codes on one page ready for printing,you can specify margins, number of repeats, etc",
+          "download": "Download codes in PNG, SVG, PS and PDF formats",
+          "logos": "Upload your own logos to use in QR codes",
+          "presets": "Create your own presets - a combination of the QR style settings, apply these presets to the new QR codes in one click",
+          "save": "Save generated QR codes and be able to print them at any moment",
+          "templates": "Create your own templates and choose where to display captions"
+        },
+        "subtitle": "With ScanMeFindMe.com you can generate QR codes for static contents for free. \"Static\" means that the content of the QR codes can not be changed after they are printed.",
+        "title": "Static QR codes",
+        "withfree": "With the <span class=\"free\">free version</span> you can:",
+        "withpro": "In the <span class=\"pro-badge\">PRO Account</span> you can also:"
+      },
       "title": "Product"
     },
     "qrgenerator": "QR generator",
@@ -174,7 +229,7 @@
       "createnewkey": "Create new API key",
       "delete": "Delete",
       "deletekey": "Delete key",
-      "descriptionapikeys": "You can create as many API key as you need. Usually it is recommended to create separate API keys for each person who uses them and also separate key for each automated system. In this case you can always delete only one key if it was compromised and other people will not be affected. Add the comments to the keys to remember what they are for.",
+      "descriptionapikeys": "You can create as many API keys as you need. Usually it is recommended to create separate API key for each person who uses them and also a separate key for each automated system. In this case you can always delete only one key if it was compromised and other people will not be affected. Add the comments to the keys to remember what they are for.",
       "descriptiontempfiles": "<p>Temporary files can only be used in the API calls and are automatically deleted after two days.</p><p>Call API to add more files or upload them directly here:</p>",
       "documentation": "Documentation",
       "endpoint": "Endpoint",
@@ -183,7 +238,7 @@
       "quickreference": "Quick reference",
       "tempfiles": "Temporary files",
       "timesused": "Times used",
-      "uploaddesc": "Create a static or dynamic QR code"
+      "uploaddesc": "Upload temporary files"
     },
     "billing": {
       "addresscity": "City",
