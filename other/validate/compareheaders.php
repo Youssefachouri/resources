@@ -14,12 +14,15 @@ $errors = [];
 
 if (!is_dir($masterpath)) {
     if (is_dir(dirname($masterpath))) {
-        echo "Skipping the headers check, master path does not exist\n";
+        echo "Skipping the headers check, language does not exist in production branch\n";
         exit;
     } else {
         echo "Something went wrong, can not access ".dirname($masterpath)."\n";
         exit(1);
     }
+} else if (file_exists($masterpath."/nonproduction")) {
+    echo "Skipping the headers check, the language was marked as non-production\n";
+    exit;
 }
 
 foreach (['articles', 'static'] as $section) {
