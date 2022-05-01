@@ -1,0 +1,8 @@
+{
+  "en": {"long": "en"},
+  "es": {"long": "es-ES"},
+  "de": {"long": "de-DE"},
+  "fr": {"long": "fr-FR"},
+  "pt": {"long": "pt-PT"},
+  "ar": {"long": "ar-SA", "rtl": true}
+}
