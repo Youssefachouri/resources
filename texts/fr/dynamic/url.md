@@ -7,7 +7,7 @@ Exemple d'URL courte
 ----------
 
 <div class="d-flex justify-start align-center mb-4">
-    <div class="mr-5">
+    <div class="me-5">
         <img src="https://media.scanmefindme.com/dynamic/url/url-popup-qr.svg" width="100%" height="auto"
             alt="QR">
     </div>

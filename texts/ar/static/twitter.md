@@ -2,6 +2,6 @@
 
 --- File name prefix for download ---
 
-تويتر
+Twitter
 
 ----------
