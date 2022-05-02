@@ -266,6 +266,7 @@
       "yourplan": "Your current plan:",
       "yourplanended": "If you decide not to purchase a plan your account will be automatically deleted on {date}"
     },
+    "codenotfound": "Oops, something went wrong. Is this a valid code? Try to refresh the page",
     "confirm": "Confirm",
     "continue": "Continue",
     "copytoclipboard": "Copy to clipboard",
@@ -321,6 +322,8 @@
       "pagewidth": "Page width",
       "portrait": "Portrait",
       "repeat": "Repeat",
+      "repeatmax": "Fill the page",
+      "repeatonce": "Once",
       "showcropmarks": "Display crop marks on the margins",
       "spacingx": "Horizontal spacing",
       "spacingy": "Vertical spacing",
@@ -331,6 +334,21 @@
       "units": "Units of measurement"
     },
     "dynamiccodes": "Dynamic codes",
+    "forms": {
+      "choosefiles": "Choose files or drag & drop here",
+      "filesizelimit": "Files should not exceed {size} in size",
+      "invalidfiletype": "Invalid file type",
+      "pagedescription": "Description",
+      "pagefiles": "Files:",
+      "pagegivetitle": "Give your page a title",
+      "pageheading": "Heading",
+      "pagelogo": "Logo:",
+      "saveforlater": "Save for later",
+      "socialnetworks": "Social networks:",
+      "socialnetworksdesc": "Enter your username or handle",
+      "viewfileslist": "List",
+      "viewfilesthumbs": "Thumbnails"
+    },
     "library": {
       "delete": "Delete",
       "duplicate": "Duplicate",
@@ -349,6 +367,11 @@
         "uploader": "Upload your logos or drag&drop here",
         "yours": "Your logos"
       },
+      "matrixl": "large",
+      "matrixm": "medium",
+      "matrixs": "small",
+      "matrixsize": "Matrix size:",
+      "matrixxl": "x-large",
       "name": "Name",
       "noedithint": "Duplicate this element to save it in your library in order to change it",
       "presets": {

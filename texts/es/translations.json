@@ -328,7 +328,9 @@
       "unitin": "pulg",
       "unitmm": "mm",
       "unitpx": "px",
-      "units": "Unidades de medida"
+      "units": "Unidades de medida",
+      "repeatmax": "Llenar la página",
+      "repeatonce": "Una vez"
     },
     "dynamiccodes": "Códigos dinámicos",
     "library": {
@@ -373,7 +375,12 @@
         "uploader": "Cargue sus plantillas o arrastre y suelte aquí",
         "yours": "Sus plantillas"
       },
-      "upload": "Subir"
+      "upload": "Subir",
+      "matrixl": "grande",
+      "matrixm": "medio",
+      "matrixs": "pequeño",
+      "matrixsize": "Tamaño de la matriz:",
+      "matrixxl": "extra grande"
     },
     "of": "de",
     "previewpage": "Vista previa de la página",
@@ -456,7 +463,23 @@
     },
     "staticcodes": "Códigos estáticos",
     "togglemenu": "Alternar menú",
-    "togglenavbar": "Alternar barra de navegación"
+    "togglenavbar": "Alternar barra de navegación",
+    "codenotfound": "Huy! Algo salió mal. ¿Es este un código válido? Por favor, vuelva a intentarlo",
+    "forms": {
+      "choosefiles": "Elija archivos o arrastre y suelte aquí",
+      "filesizelimit": "Los archivos no deben exceder {size} de tamaño",
+      "invalidfiletype": "tipo de archivo invalido",
+      "pagedescription": "Descripción",
+      "pagefiles": "Archivos:",
+      "pagegivetitle": "Dale un título a tu página",
+      "pageheading": "Título",
+      "pagelogo": "Logo:",
+      "saveforlater": "Guardar para más adelante",
+      "socialnetworks": "Redes sociales:",
+      "socialnetworksdesc": "Ingrese su nombre de usuario o identificador",
+      "viewfileslist": "Lista",
+      "viewfilesthumbs": "Miniaturas"
+    }
   },
   "qrstyle": {
     "bgcolor": "Antecedentes",

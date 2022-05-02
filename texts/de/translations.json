@@ -328,7 +328,9 @@
       "unitin": "in",
       "unitmm": "mm",
       "unitpx": "px",
-      "units": "Einheiten der Messungen"
+      "units": "Einheiten der Messungen",
+      "repeatmax": "Füllen Sie die Seite aus",
+      "repeatonce": "Einmal"
     },
     "dynamiccodes": "Dynamischer Code",
     "library": {
@@ -373,7 +375,12 @@
         "uploader": "Laden Sie Ihre Vorlagen hoch oder ziehen Sie sie per Drag&Drop hierher",
         "yours": "Ihre Vorlagen"
       },
-      "upload": "Hochladen"
+      "upload": "Hochladen",
+      "matrixl": "große",
+      "matrixm": "mittlere",
+      "matrixs": "kleine",
+      "matrixsize": "Matrixgröße:",
+      "matrixxl": "x-große"
     },
     "of": "von",
     "previewpage": "Vorschau der Seite",
@@ -456,7 +463,23 @@
     },
     "staticcodes": "Statischer Code",
     "togglemenu": "Menü umschalten",
-    "togglenavbar": "Umschalten der Navigationsleiste"
+    "togglenavbar": "Umschalten der Navigationsleiste",
+    "codenotfound": "Ups! Etwas ist schief gelaufen. Ist das ein gültiger Code? Bitte versuchen Sie es erneut",
+    "forms": {
+      "choosefiles": "Wählen Sie hier Dateien aus oder ziehen Sie sie per Drag & Drop",
+      "filesizelimit": "Dateien sollten die Größe von {size} nicht überschreiten",
+      "invalidfiletype": "Ungültiger Dateityp",
+      "pagedescription": "Beschreibung",
+      "pagefiles": "Dateien:",
+      "pagegivetitle": "Geben Sie Ihrer Seite einen Titel",
+      "pageheading": "Üerschrift",
+      "pagelogo": "Logo:",
+      "saveforlater": "Speichern Sie für später",
+      "socialnetworks": "Soziale Netzwerke:",
+      "socialnetworksdesc": "Geben Sie Ihren Benutzernamen oder Ihr Handle ein",
+      "viewfileslist": "Liste",
+      "viewfilesthumbs": "Miniaturansichten"
+    }
   },
   "qrstyle": {
     "bgcolor": "Hintergrund",
