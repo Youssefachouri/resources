@@ -328,7 +328,9 @@
       "unitin": "in",
       "unitmm": "mm",
       "unitpx": "px",
-      "units": "وحدات القياس"
+      "units": "وحدات القياس",
+      "repeatmax": "املأ الصفحة",
+      "repeatonce": "مرة واحدة"
     },
     "dynamiccodes": "الرموز الديناميكية",
     "library": {
@@ -373,7 +375,12 @@
         "uploader": "قم بتحميل القوالب الخاصة بك أو قم بالسحب والإفلات هنا",
         "yours": "القوالب الخاصة بك"
       },
-      "upload": "تحميل"
+      "upload": "تحميل",
+      "matrixl": "كبير",
+      "matrixm": "متوسط",
+      "matrixs": "صغير",
+      "matrixsize": "حجم المصفوفة:",
+      "matrixxl": "x-كبير"
     },
     "of": "من",
     "previewpage": "معاينة الصفحة",
@@ -456,7 +463,23 @@
     },
     "staticcodes": "رموز ثابتة",
     "togglemenu": "تبديل القائمة",
-    "togglenavbar": "تبديل نافبار"
+    "togglenavbar": "تبديل نافبار",
+    "codenotfound": "تبا شيء ما حدث بشكل خاطئ. هل هذا رمز صالح؟ محاولة لتحديث الصفحة",
+    "forms": {
+      "choosefiles": "اختر الملفات أو اسحبها وأفلتها هنا",
+      "filesizelimit": "يجب ألا يتجاوز حجم الملفات {size}",
+      "invalidfiletype": "نوع الملف غير صالح",
+      "pagedescription": "وصف",
+      "pagefiles": "الملفات:",
+      "pagegivetitle": "امنح صفحتك عنوانًا",
+      "pageheading": "عنوان",
+      "pagelogo": "شعار:",
+      "saveforlater": "احفظ لوقت لاحق",
+      "socialnetworks": "الشبكات الاجتماعية:",
+      "socialnetworksdesc": "أدخل اسم المستخدم أو المعرف الخاص بك",
+      "viewfileslist": "قائمة",
+      "viewfilesthumbs": "المصغرات"
+    }
   },
   "qrstyle": {
     "bgcolor": "خلفية",
