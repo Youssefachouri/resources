@@ -3,7 +3,7 @@
     "acceptgotopro": "I accept, take me to PRO",
     "api": {
       "metadesc": "Best QR code API for sharing URLs, text, vCards, files! Generate and download static and dynamic QR codes from your application, upload your own files.",
-      "metatitle": "QR Code Generator - API documentation",
+      "metatitle": "QR code generator - API documentation",
       "title": "API"
     },
     "apierror": "Something went wrong. QR code could not be generated",
@@ -88,7 +88,7 @@
     "loading": "Loading",
     "menu": "Menu",
     "metadesc": "Create attractive QR codes, choose your style, download as SVG, PNG, PDF or PS. QR code API, scans analytics. Easy to use online QR code generator",
-    "metatitle": "QR Code Generator - free QR codes with logos and text",
+    "metatitle": "QR code generator - free QR codes with logos and text",
     "poorcontrast": "This QR code may not be recognised by some devices, try changing style or color settings",
     "pricing": {
       "additionaluser": "additional user",
@@ -103,7 +103,7 @@
       "featurelogos": "Choose from over 30 different logos",
       "featuretemplates": "Add frames and captions",
       "metadesc": "Always free static QR codes. Free 14-day trial for dynamic QR codes. Track scans of your QR codes, use QR code API, upload your content",
-      "metatitle": "QR Code Generator - Plans and Pricing",
+      "metatitle": "QR code generator - Plans and Pricing",
       "pmonth": "month",
       "pricing": "Pricing",
       "starttrial": "Start 14-day trial",
@@ -146,7 +146,7 @@
         }
       },
       "gotopro": "Go to PRO account",
-      "metatitle": "QR Code Generator - Static and dynamic codes, analytics and more",
+      "metatitle": "QR code generator - Static and dynamic codes, analytics and more",
       "static": {
         "freefeatures": {
           "colors": "Change the colors",
@@ -172,10 +172,10 @@
       },
       "title": "Product"
     },
-    "qrgenerator": "QR generator",
+    "qrgenerator": "QR code generator",
     "readmore": "Read more",
     "resources": {
-      "metatitle": "QR Code Generator - Resources",
+      "metatitle": "QR code generator - Resources",
       "title": "Resources"
     },
     "save": "Save",
