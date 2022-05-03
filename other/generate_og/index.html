@@ -19,13 +19,8 @@
         <div class="row  pa-6">
             <div class="col-md-3">
                 <div class="form-group">
-                    Language: <input type="text" value="en" id="lang" size="10" onchange="changeselect()">
-                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">en</a>
-                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">de</a>
-                    <a href="#" onclick="return quicklang(this)" data-subtitle="Generador de c&#243;digos QR">es</a>
-                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">fr</a>
-                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">pt</a>
-                    <a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator" data-rtl="1">ar</a>
+                    Language: <input type="text" value="en" id="lang" size="10" disabled>
+                    <ul id="alllangs" class="list-inline"></ul>
                 </div>
                 <div class="form-group">
                     Select article: <select id="logoselect" onchange="changeselect()"></select>

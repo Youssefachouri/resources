@@ -1,3 +1,4 @@
+let mainLangs = {}
 const isArticle = () => document.getElementById('logoselect').value.startsWith('article')
 const isRTL = () => document.getElementById("maincanvas").getAttribute('dir') === 'rtl'
 const getMaxTextWidth = () => isArticle() ? 480 : 740
@@ -231,11 +232,22 @@ function loadAll() {
             changeselect()
         })
     })
+    readFile('../../texts/metadata.json', (t) => {
+        var langs = JSON.parse(t)
+        mainLangs = langs
+        for (var l in langs) {
+            let li = document.createElement('li');
+            li.innerHTML = `<a href="#" onclick="return quicklang(this)" data-subtitle="QR code generator">${l}</a>`;
+            if (langs[l].rtl) li.firstChild.setAttribute('data-rtl', 1)
+            document.getElementById('alllangs').appendChild(li)
+            readFile('../../texts/'+l+'/translations.json', (t) => mainLangs[l].subtitle = JSON.parse(t).app.qrgenerator)
+        }
+    })
 }
 
 function quicklang(el) {
     document.getElementById('lang').value = el.innerHTML
-    document.getElementById('qrcodegenerator').value = el.getAttribute('data-subtitle')
+    document.getElementById('qrcodegenerator').value = mainLangs[el.innerHTML].subtitle
     document.getElementById("maincanvas").setAttribute('dir',
         el.getAttribute('data-rtl') ? 'rtl' : 'ltr');
     changeselect()
