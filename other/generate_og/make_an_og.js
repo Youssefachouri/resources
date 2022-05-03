@@ -1,38 +1,32 @@
+const isArticle = () => document.getElementById('logoselect').value.startsWith('article')
+const getTextX = () => isArticle() ? 673 : 380
+const baseImage = () => document.getElementById(isArticle() ? "articlebase" : "staticbase")
+const getMaxTextWidth = () => isArticle() ? 480 : 740
+const getCtx = () =>  document.getElementById("maincanvas").getContext("2d")
+const setTextFont = (fontsize) => { getCtx().font = "500 "+fontsize+"px Poppins"; getCtx().fillStyle = "#000000"; }
+const setQRTextFont = () => { getCtx().font = "700 "+(isArticle() ? 25 : 32)+"px Poppins"; getCtx().fillStyle = "#03949A"; }
+const getQRTextY = () => isArticle() ? 165 : 200
+const getTextYs = () => {
+    const lines = (document.getElementById('caption').value).split(/\r?\n/)
+    const positions = [350.5, 424.5, 498.5, 572.5]
+    if (lines.length === 1) return [positions[1]]
+    else if (lines.length === 2) return [positions[0], parseInt((positions[0] + positions[3])/2)]
+    // else if (lines.length === 3) return [positions[0], parseInt((positions[0] + positions[3])/2), positions[3]]
+    return positions
+}
+
 function draw() {
-  var canvas = document.getElementById("maincanvas");
-  var ctx = canvas.getContext("2d");
+  var ctx = getCtx()
   ctx.fillStyle = "#FF0000";
   ctx.fillRect(0, 0, 1200, 625);
-
-  var isarticle = document.getElementById('logoselect').value.startsWith('article');
-  var img = isarticle ? document.getElementById("articlebase") : document.getElementById("staticbase");
-  ctx.drawImage(img, 0, 0);
-
-  ctx.fillStyle = "#000000";
-  ctx.font = "500 "+document.getElementById('captionsize').value+"px Poppins";
-  let lines = (document.getElementById('caption').value).split(/\r?\n/)
-  let positions = [350.5, 424.5, 498.5, 572.5], basepositions = positions
-  if (lines.length === 1) {
-      positions = [basepositions[1]]
-  } else if (lines.length === 2) {
-      positions = [basepositions[0], parseInt((basepositions[0] + basepositions[3])/2)]
-  // } else if (lines.length === 3) {
-  //     positions = [basepositions[0], parseInt((basepositions[0] + basepositions[3])/2), basepositions[3]]
-  }
-  //console.log(positions)
-  let text_x = isarticle ? 673 : 380
-  for (let i in lines) {
-    ctx.fillText(lines[i], text_x, positions[i]);
-  }
-  ctx.fillStyle = "#03949A";
-
-  if (isarticle) {
-      ctx.font = "700 25px Poppins";
-      ctx.fillText(document.getElementById('qrcodegenerator').value, text_x, 165);
+  ctx.drawImage(baseImage(), 0, 0);
+  setTextFont(document.getElementById('captionsize').value)
+  let positions = getTextYs();
+  (document.getElementById('caption').value).split(/\r?\n/).map((line, i) => ctx.fillText(line, getTextX(), positions[i]))
+  setQRTextFont()
+    ctx.fillText(document.getElementById('qrcodegenerator').value, getTextX(), getQRTextY());
+  if (isArticle()) {
       addImage(ctx, document.getElementById('logoimage').src)
-  } else {
-      ctx.font = "700 32px Poppins";
-      ctx.fillText(document.getElementById('qrcodegenerator').value, text_x, 200);
   }
 }
 
@@ -95,8 +89,7 @@ function GFontToDataURI(url) {
 function changeselect() {
     const lang = document.getElementById('lang').value
 
-    var isarticle = document.getElementById('logoselect').value.startsWith('article');
-    if (isarticle) {
+    if (isArticle()) {
         document.getElementById('logoimage').src =
             "../../media/" + document.getElementById('logoselect').value + "/logo/logo.svg"
     }
@@ -281,9 +274,8 @@ const howGoodIsTheWrap = (wrap, textlen) => {
     if (noflines > 4) {
         w = w + (noflines - 4) * 40
     } else {
-        var isarticle = document.getElementById('logoselect').value.startsWith('article');
         const opt1 = 8
-        const opt2 = isarticle ? 13 : 24
+        const opt2 = isArticle() ? 13 : 24
         // Optimum line length is 8-13 chars, lines bigger and smaller should be penalised
         w = w + Math.max(0, avglength - opt2) * 2
         w = w + Math.max(0, opt1 - avglength) * 2
@@ -305,9 +297,6 @@ const findBestWrap = (text) => {
 }
 
 const findFontSize = (text) => {
-    var isarticle = document.getElementById('logoselect').value.startsWith('article');
-    var maxwidth = isarticle ? 480 : 740
-
     var canvas = document.getElementById("maincanvas");
     var ctx = canvas.getContext("2d");
 
@@ -321,7 +310,7 @@ const findFontSize = (text) => {
             i++
             ctx.font = "500 "+fontSizes[i]+"px Poppins";
             textDimensions = ctx.measureText(line);
-        } while (textDimensions.width >= maxwidth && i < fontSizes.length - 1);
+        } while (textDimensions.width >= getMaxTextWidth() && i < fontSizes.length - 1);
         return fontSizes[i]
     }
 
