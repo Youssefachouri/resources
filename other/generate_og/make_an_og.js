@@ -1,7 +1,8 @@
 const isArticle = () => document.getElementById('logoselect').value.startsWith('article')
-const getTextX = () => isArticle() ? 673 : 380
-const baseImage = () => document.getElementById(isArticle() ? "articlebase" : "staticbase")
+const isRTL = () => document.getElementById("maincanvas").getAttribute('dir') === 'rtl'
 const getMaxTextWidth = () => isArticle() ? 480 : 740
+const getTextX = () => (isArticle() ? 673 : 380) + (isRTL() ? getMaxTextWidth() : 0)
+const baseImage = () => document.getElementById((isArticle() ? "articlebase" : "staticbase") + (isRTL() ? "rtl" : ""))
 const getCtx = () =>  document.getElementById("maincanvas").getContext("2d")
 const setTextFont = (fontsize) => { getCtx().font = "500 "+fontsize+"px Poppins"; getCtx().fillStyle = "#000000"; }
 const setQRTextFont = () => { getCtx().font = "700 "+(isArticle() ? 25 : 32)+"px Poppins"; getCtx().fillStyle = "#03949A"; }
@@ -16,6 +17,7 @@ const getTextYs = () => {
 }
 
 function draw() {
+  document.getElementById("maincanvas").setAttribute('dir',isRTL()?'rtl':'ltr');
   var ctx = getCtx()
   ctx.fillStyle = "#FF0000";
   ctx.fillRect(0, 0, 1200, 625);
@@ -234,95 +236,56 @@ function loadAll() {
 function quicklang(el) {
     document.getElementById('lang').value = el.innerHTML
     document.getElementById('qrcodegenerator').value = el.getAttribute('data-subtitle')
+    document.getElementById("maincanvas").setAttribute('dir',
+        el.getAttribute('data-rtl') ? 'rtl' : 'ltr');
     changeselect()
 }
 
-const formatTextWrap = (text, maxLineLength) => {
-    const words = text.replace(/[\r\n]+/g, ' ').split(' ');
-    let lineLength = 0;
-
-    // use functional reduce, instead of for loop
-    return words.reduce((result, word) => {
-        if (lineLength + word.length >= maxLineLength) {
-            lineLength = word.length;
-            return result + `\n${word}`; // don't add spaces upfront
-        } else {
-            lineLength += word.length + (result ? 1 : 0);
-            return result ? result + ` ${word}` : `${word}`; // add space only when needed
-        }
-    }, '');
-}
-
-const getLineLengths = (wrap) => {
-    const lines = wrap.split(/\n/)
-    let linelengths = []
-    for (let i in lines) {
-        linelengths[i] = lines[i].length
-    }
-    return linelengths
-}
-
-const howGoodIsTheWrap = (wrap, textlen) => {
-    let w = 100;
-    const linelengths = getLineLengths(wrap)
-    const maxlength = Math.max(...linelengths)
-    const minlength = Math.min(...linelengths)
-    const noflines = linelengths.length
-    const avglength = linelengths.reduce((partialSum, a) => partialSum + a, 0) / noflines;
-
-    w = w + Math.round((1-minlength/maxlength)*15)
-    if (noflines > 4) {
-        w = w + (noflines - 4) * 40
-    } else {
-        const opt1 = 8
-        const opt2 = isArticle() ? 13 : 24
-        // Optimum line length is 8-13 chars, lines bigger and smaller should be penalised
-        w = w + Math.max(0, avglength - opt2) * 2
-        w = w + Math.max(0, opt1 - avglength) * 2
-    }
-    return w
-}
-
 const findBestWrap = (text) => {
-    let wraps = []
-    //let weights = []
-    for (var len=Math.floor(text.length / 4); len < text.length + 1; len++) {
-        const w = formatTextWrap(text, len)
-        wraps[w] = howGoodIsTheWrap(w)
+    const words = text.replace(/[\r\n ]+/g, ' ').trim().split(' ')
+    const getLineLength = (t) => parseFloat(getCtx().measureText(t).width);
+    const subString = (startIdx, endIdx) => words.slice(startIdx, endIdx + 1).join(' ')
+
+    const findNextLine = (startIdx = 0) => {
+        for (var idx in words) {
+            var i = parseInt(idx)
+            if (i >= startIdx && getLineLength(subString(startIdx, i)) <= getMaxTextWidth()
+                && (i === words.length - 1 || getLineLength(subString(startIdx, i + 1)) > getMaxTextWidth()))
+                return i + 1
+        }
+        return null
     }
 
-    var keys = Object.keys(wraps);
-    var s = keys.sort(function(a,b){return wraps[a]-wraps[b]});
-    return s[0]
-}
-
-const findFontSize = (text) => {
-    var canvas = document.getElementById("maincanvas");
-    var ctx = canvas.getContext("2d");
+    const findLinesEnds = (lens = []) => {
+        var l = findNextLine(lens.length ? lens[lens.length - 1] : 0)
+        if (l === null) return null
+        lens.push(l)
+        if (l >= words.length ) return lens
+        return findLinesEnds(lens)
+    }
 
     var maxfontsize = 70, minfontsize = 35
     var fontSizes = [...Array(maxfontsize-minfontsize+1).keys()].map(i => i + minfontsize).reverse();
-    ctx.fillStyle = "#000000";
-
-    const findLineSize = (line) => {
-        var textDimensions, i = -1;
-        do {
-            i++
-            ctx.font = "500 "+fontSizes[i]+"px Poppins";
-            textDimensions = ctx.measureText(line);
-        } while (textDimensions.width >= getMaxTextWidth() && i < fontSizes.length - 1);
-        return fontSizes[i]
+    for (var i in fontSizes) {
+        setTextFont(fontSizes[i])
+        var ends = findLinesEnds()
+        if (ends !== null && ends.length <= 4) {
+            var rv = []
+            for (var j in ends) {
+                rv.push(words.slice(j?ends[j-1]:0, ends[j]).join(' '))
+            }
+            return [rv.join("\n"), fontSizes[i]]
+        }
     }
 
-    const lines = text.split(/\n/)
-    const lineFontSizes = lines.map(findLineSize)
-    return Math.min(...lineFontSizes)
+    return [text, minfontsize]
+
 }
 
 function settext(text) {
-    const w = findBestWrap(text)
+    const [w, fontsize] = findBestWrap(text)
     document.getElementById('caption').value = w
-    document.getElementById('captionsize').value = findFontSize(w)
+    document.getElementById('captionsize').value = fontsize
 }
 
 function changesize(inc) {
