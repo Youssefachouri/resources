@@ -4,24 +4,36 @@ function draw() {
   ctx.fillStyle = "#FF0000";
   ctx.fillRect(0, 0, 1200, 625);
 
-  var img = document.getElementById("articlebase");
+  var isarticle = document.getElementById('logoselect').value.startsWith('article'); 
+  var img = isarticle ? document.getElementById("articlebase") : document.getElementById("staticbase");
   ctx.drawImage(img, 0, 0);
 
   ctx.fillStyle = "#000000";
   ctx.font = "500 "+document.getElementById('captionsize').value+"px Poppins";
-  let lines = (document.getElementById('caption').value+"\n\n\n\n").split(/\r?\n/)
-  let positions = [350.5, 424.5, 498.5, 572.5]
-  for (let i in positions) {
-    ctx.fillText(lines[i], 673, positions[i]);
+  let lines = (document.getElementById('caption').value).split(/\r?\n/)
+  let positions = [350.5, 424.5, 498.5, 572.5], basepositions = positions
+  if (lines.length === 1) {
+      positions = [basepositions[1]]
+  } else if (lines.length === 2) {
+      positions = [basepositions[0], parseInt((basepositions[0] + basepositions[3])/2)]
+  // } else if (lines.length === 3) {
+  //     positions = [basepositions[0], parseInt((basepositions[0] + basepositions[3])/2), basepositions[3]]
   }
-
+  //console.log(positions)
+  let text_x = isarticle ? 673 : 380
+  for (let i in lines) {
+    ctx.fillText(lines[i], text_x, positions[i]);
+  }
   ctx.fillStyle = "#03949A";
-  ctx.font = "700 25px Poppins";
-  ctx.fillText(document.getElementById('qrcodegenerator').value, 673, 165);
 
-
-    addImage(ctx, document.getElementById('logoimage').src)
-
+  if (isarticle) {
+      ctx.font = "700 25px Poppins";
+      ctx.fillText(document.getElementById('qrcodegenerator').value, text_x, 165);
+      addImage(ctx, document.getElementById('logoimage').src)
+  } else {
+      ctx.font = "700 32px Poppins";
+      ctx.fillText(document.getElementById('qrcodegenerator').value, text_x, 200);
+  }
 }
 
 function addFont(name, url, weight) {
@@ -84,15 +96,15 @@ function changeselect() {
     const lang = document.getElementById('lang').value
 
     document.getElementById('logoimage').src =
-        "../../media/articles/" + document.getElementById('logoselect').value + "/logo/logo.svg"
+        "../../media/" + document.getElementById('logoselect').value + "/logo/logo.svg"
 
     let langsuffix = '_' + document.getElementById('lang').value
     const filename = 'og' + (langsuffix === '_en' ? '' : langsuffix) + ".png"
     document.getElementById('existingimage').src =
-        "../../media/articles/" + document.getElementById('logoselect').value + "/ogimage/"+ filename
+        "../../media/" + document.getElementById('logoselect').value + "/ogimage/"+ filename
 
-    readFile('../../texts/'+lang+'/articles/' + document.getElementById('logoselect').value + '.md', (t) => {
-        var firstLine = t.split('\n')[0].replace(/<h1>/i, '').replace(/<[\\/]h1>/i, '');
+    readFile('../../texts/'+lang+'/' + document.getElementById('logoselect').value + '.md', (t) => {
+        var firstLine = t.split('\n')[0].replace(/<h1>/i, '').replace(/<[\\/]h1>/i, '').replace(/^\[[^\]]*\] /, '');
         settext(firstLine)
         draw()
     })
@@ -137,7 +149,7 @@ function savepng() {
         .replace(mimetype, "image/octet-stream");
 
     let lang = '_' + document.getElementById('lang').value
-    const fileName = document.getElementById('logoselect').value + (lang === '_en' ? '' : lang) + ".png"
+    const fileName = document.getElementById('logoselect').value.split(/(\\|\/)/g).pop() + (lang === '_en' ? '' : lang) + ".png"
 
     var evt = new MouseEvent("click", {
         view: window,
@@ -176,7 +188,7 @@ function saveserver() {
     http.onreadystatechange = function() {
         if (http.readyState === 4 && http.status === 200) {
             document.getElementById('existingimage').src =
-                "../../media/articles/" + document.getElementById('logoselect').value + "/ogimage/"+ filename+"?x="+Math.random()
+                "../../media/" + document.getElementById('logoselect').value + "/ogimage/"+ filename+"?x="+Math.random()
             if (http.responseText !== "OK") {
                 alert(http.responseText);
             }
@@ -208,10 +220,18 @@ function loadAll() {
         var articles = JSON.parse(t)
         var logoselect = document.getElementById('logoselect');
         for (var i in articles) {
-            var a = articles[i].substring(0, articles[i].lastIndexOf('.'))
+            var a = 'articles/' + articles[i].substring(0, articles[i].lastIndexOf('.'))
             logoselect.add(new Option(a, a));
         }
-        changeselect()
+        readFile('../../texts/en/static/metadata.json', (t) => {
+            var st = JSON.parse(t)
+            var logoselect = document.getElementById('logoselect');
+            for (var i in st) {
+                var s = 'static/' + st[i].substring(0, st[i].lastIndexOf('.'))
+                logoselect.add(new Option(s, s));
+            }
+            changeselect()
+        })   
     })
 }
 
@@ -258,8 +278,9 @@ const howGoodIsTheWrap = (wrap, textlen) => {
     if (noflines > 4) {
         w = w + (noflines - 4) * 40
     } else {
+        var isarticle = document.getElementById('logoselect').value.startsWith('article');
         const opt1 = 8
-        const opt2 = 13
+        const opt2 = isarticle ? 13 : 24
         // Optimum line length is 8-13 chars, lines bigger and smaller should be penalised
         w = w + Math.max(0, avglength - opt2) * 2
         w = w + Math.max(0, opt1 - avglength) * 2
@@ -285,9 +306,13 @@ function settext(text) {
     const lineslengths = getLineLengths(w), maxlength = Math.max(...lineslengths)
     document.getElementById('caption').value = w
     let sz = 70
-    const sizes = {13: 65, 14: 63, 15: 59, 16: 53, 17: 51, 18: 48, 19: 46, 20: 45, 21: 43, 22: 42, 23: 39, 24: 37, 25: 36}
+    var isarticle = document.getElementById('logoselect').value.startsWith('article');
+    const sizes =
+        isarticle ? {13: 65, 14: 63, 15: 59, 16: 53, 17: 51, 18: 48, 19: 46, 20: 45, 21: 43, 22: 42, 23: 39, 24: 37, 25: 36}
+            : {13: 70, 14: 70, 15: 70, 16: 70, 17: 66, 18: 66, 19: 66, 20: 66, 21: 63, 22: 60, 23: 60, 24: 60, 25: 56}
     if (maxlength >= 13 && maxlength <= 25) sz = sizes[maxlength]
-    if (maxlength > 25) sz = 35
+    if (maxlength > 25) sz = sizes[25]
+    //console.log("Maxlength = "+maxlength+", size = "+sz)
     document.getElementById('captionsize').value = sz
 }
 
