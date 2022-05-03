@@ -103,7 +103,7 @@
       "featurelogos": "Escolha entre mais de 30 logotipos diferentes",
       "featuretemplates": "Adicione molduras e legendas",
       "metadesc": "Códigos QR estáticos sempre gratuitos. Avaliação gratuita de 14 dias para códigos QR dinâmicos. Acompanhe digitalizações de seus códigos QR, use a API de código QR, faça upload de seu conteúdo",
-      "metatitle": "Gerador de QR Code - Planos e Preços",
+      "metatitle": "Gerador de código QR - Planos e Preços",
       "pmonth": "mês",
       "pricing": "Preços",
       "starttrial": "Iniciar teste de 14 dias",
@@ -172,10 +172,10 @@
         "withpro": "Na <span class=\"pro-badge\">Conta PRO</span> você também pode:"
       }
     },
-    "qrgenerator": "Gerador QR",
+    "qrgenerator": "Gerador de código QR",
     "readmore": "Consulte Mais informação",
     "resources": {
-      "metatitle": "Gerador de QR Code - Recursos",
+      "metatitle": "Gerador de código QR - Recursos",
       "title": "Recursos"
     },
     "save": "Salvar",
