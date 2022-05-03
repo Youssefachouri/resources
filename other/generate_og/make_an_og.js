@@ -1,13 +1,29 @@
 let mainLangs = {}
 const isArticle = () => document.getElementById('logoselect').value.startsWith('article')
+const isStatic = () => document.getElementById('logoselect').value.startsWith('static')
 const isRTL = () => document.getElementById("maincanvas").getAttribute('dir') === 'rtl'
-const getMaxTextWidth = () => isArticle() ? 480 : 740
-const getTextX = () => (isArticle() ? 673 : 380) + (isRTL() ? getMaxTextWidth() : 0)
-const baseImage = () => document.getElementById((isArticle() ? "articlebase" : "staticbase") + (isRTL() ? "rtl" : ""))
+const getMaxTextWidth = () => isArticle() ? 480 : (isStatic() ? 740 : 770)
+const getTextX = () => {
+    if (isArticle() || isStatic()) return (isArticle() ? 673 : 380) + (isRTL() ? getMaxTextWidth() : 0)
+    return 340 + 770/2
+}
+const baseImage = () => document.getElementById((isArticle() ? "articlebase" : (isStatic() ? "staticbase" : "mainbase")) + (isRTL() ? "rtl" : ""))
 const getCtx = () =>  document.getElementById("maincanvas").getContext("2d")
-const setTextFont = (fontsize) => { getCtx().font = "500 "+fontsize+"px Poppins"; getCtx().fillStyle = "#000000"; }
-const setQRTextFont = () => { getCtx().font = "700 "+(isArticle() ? 25 : 32)+"px Poppins"; getCtx().fillStyle = "#03949A"; }
-const getQRTextY = () => isArticle() ? 165 : 200
+const setTextFont = (fontsize, weight = 500, fill = "#000000", align = "start") => {
+    getCtx().font = `${weight} ${fontsize}px Poppins`;
+    getCtx().fillStyle = fill;
+    getCtx().textAlign = align;
+}
+const setQRTextFont = () => {
+    if (isArticle() || isStatic()) setTextFont(isArticle() ? 25 : 32, 700, "#03949A")
+    else {
+        for (var fz = 80; fz >= 40; fz--) {
+            setTextFont(fz, 600, "#000000", "center")
+            if (getCtx().measureText(document.getElementById('qrcodegenerator').value).width <= getMaxTextWidth()) return
+        }
+    }
+}
+const getQRTextY = () => isArticle() ? 165 : (isStatic() ? 200 : 475)
 const getTextYs = () => {
     const lines = (document.getElementById('caption').value).split(/\r?\n/)
     const positions = [350.5, 424.5, 498.5, 572.5]
@@ -20,14 +36,16 @@ const getTextYs = () => {
 function draw() {
   document.getElementById("maincanvas").setAttribute('dir',isRTL()?'rtl':'ltr');
   var ctx = getCtx()
-  ctx.fillStyle = "#FF0000";
+  ctx.fillStyle = "#FFFFFF";
   ctx.fillRect(0, 0, 1200, 625);
   ctx.drawImage(baseImage(), 0, 0);
-  setTextFont(document.getElementById('captionsize').value)
-  let positions = getTextYs();
-  (document.getElementById('caption').value).split(/\r?\n/).map((line, i) => ctx.fillText(line, getTextX(), positions[i]))
+  if (isArticle() || isStatic()) {
+      setTextFont(document.getElementById('captionsize').value)
+      let positions = getTextYs();
+      (document.getElementById('caption').value).split(/\r?\n/).map((line, i) => ctx.fillText(line, getTextX(), positions[i]))
+  }
   setQRTextFont()
-    ctx.fillText(document.getElementById('qrcodegenerator').value, getTextX(), getQRTextY());
+  ctx.fillText(document.getElementById('qrcodegenerator').value, getTextX(), getQRTextY());
   if (isArticle()) {
       addImage(ctx, document.getElementById('logoimage').src)
   }
@@ -102,11 +120,16 @@ function changeselect() {
     document.getElementById('existingimage').src =
         "../../media/" + document.getElementById('logoselect').value + "/ogimage/"+ filename
 
-    readFile('../../texts/'+lang+'/' + document.getElementById('logoselect').value + '.md', (t) => {
-        var firstLine = t.split('\n')[0].replace(/<h1>/i, '').replace(/<[\\/]h1>/i, '').replace(/^\[[^\]]*\] /, '');
-        settext(firstLine)
+    if (isArticle() || isStatic()) {
+        readFile('../../texts/'+lang+'/' + document.getElementById('logoselect').value + '.md', (t) => {
+            var firstLine = t.split('\n')[0].replace(/<h1>/i, '').replace(/<[\\/]h1>/i, '').replace(/^\[[^\]]*\] /, '');
+            settext(firstLine)
+            draw()
+        })
+    } else {
+        settext("")
         draw()
-    })
+    }
 }
 
 function addImage(ctx, src) {
@@ -229,6 +252,8 @@ function loadAll() {
                 var s = 'static/' + st[i].substring(0, st[i].lastIndexOf('.'))
                 logoselect.add(new Option(s, s));
             }
+            var s = 'general'
+            logoselect.add(new Option(s, s));
             changeselect()
         })
     })
@@ -303,4 +328,14 @@ function settext(text) {
 function changesize(inc) {
     document.getElementById('captionsize').value = parseInt(document.getElementById('captionsize').value) + inc
     draw()
+}
+
+function changearticle(inc) {
+    var el = document.getElementById('logoselect'),
+        options = Array.apply(null, el.options),
+        newidx = parseInt(el.selectedIndex) + parseInt(inc)
+    if (newidx >= 0 && newidx < options.length) {
+        document.getElementById('logoselect').value = options[newidx].value
+        changeselect()
+    }
 }

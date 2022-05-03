@@ -24,6 +24,8 @@
                 </div>
                 <div class="form-group">
                     Select article: <select id="logoselect" onchange="changeselect()"></select>
+                    <a href="#" onclick="return changearticle(-1)" style="text-decoration: none">&#9650;</a>
+                    <a href="#" onclick="return changearticle(1)" style="text-decoration: none">&#9660;</a>
                 </div>
                 <div class="form-group">
                     Caption size: <input type="text" id="captionsize" value="70" size="5">
@@ -63,8 +65,10 @@
     <img src="left_side.svg" id="leftpanel">
     <img src="article_base.svg" id="articlebase">
     <img src="static_base.svg" id="staticbase">
+    <img src="main_base.svg" id="mainbase">
     <img src="article_base_rtl.svg" id="articlebasertl">
     <img src="static_base_rtl.svg" id="staticbasertl">
+    <img src="main_base.svg" id="mainbasertl">
     <img src="" id="logoimage">
 </div>
 
