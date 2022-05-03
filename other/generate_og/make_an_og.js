@@ -4,7 +4,7 @@ function draw() {
   ctx.fillStyle = "#FF0000";
   ctx.fillRect(0, 0, 1200, 625);
 
-  var isarticle = document.getElementById('logoselect').value.startsWith('article'); 
+  var isarticle = document.getElementById('logoselect').value.startsWith('article');
   var img = isarticle ? document.getElementById("articlebase") : document.getElementById("staticbase");
   ctx.drawImage(img, 0, 0);
 
@@ -95,8 +95,11 @@ function GFontToDataURI(url) {
 function changeselect() {
     const lang = document.getElementById('lang').value
 
-    document.getElementById('logoimage').src =
-        "../../media/" + document.getElementById('logoselect').value + "/logo/logo.svg"
+    var isarticle = document.getElementById('logoselect').value.startsWith('article');
+    if (isarticle) {
+        document.getElementById('logoimage').src =
+            "../../media/" + document.getElementById('logoselect').value + "/logo/logo.svg"
+    }
 
     let langsuffix = '_' + document.getElementById('lang').value
     const filename = 'og' + (langsuffix === '_en' ? '' : langsuffix) + ".png"
@@ -231,7 +234,7 @@ function loadAll() {
                 logoselect.add(new Option(s, s));
             }
             changeselect()
-        })   
+        })
     })
 }
 
@@ -301,19 +304,36 @@ const findBestWrap = (text) => {
     return s[0]
 }
 
+const findFontSize = (text) => {
+    var isarticle = document.getElementById('logoselect').value.startsWith('article');
+    var maxwidth = isarticle ? 480 : 740
+
+    var canvas = document.getElementById("maincanvas");
+    var ctx = canvas.getContext("2d");
+
+    var maxfontsize = 70, minfontsize = 35
+    var fontSizes = [...Array(maxfontsize-minfontsize+1).keys()].map(i => i + minfontsize).reverse();
+    ctx.fillStyle = "#000000";
+
+    const findLineSize = (line) => {
+        var textDimensions, i = -1;
+        do {
+            i++
+            ctx.font = "500 "+fontSizes[i]+"px Poppins";
+            textDimensions = ctx.measureText(line);
+        } while (textDimensions.width >= maxwidth && i < fontSizes.length - 1);
+        return fontSizes[i]
+    }
+
+    const lines = text.split(/\n/)
+    const lineFontSizes = lines.map(findLineSize)
+    return Math.min(...lineFontSizes)
+}
+
 function settext(text) {
     const w = findBestWrap(text)
-    const lineslengths = getLineLengths(w), maxlength = Math.max(...lineslengths)
     document.getElementById('caption').value = w
-    let sz = 70
-    var isarticle = document.getElementById('logoselect').value.startsWith('article');
-    const sizes =
-        isarticle ? {13: 65, 14: 63, 15: 59, 16: 53, 17: 51, 18: 48, 19: 46, 20: 45, 21: 43, 22: 42, 23: 39, 24: 37, 25: 36}
-            : {13: 70, 14: 70, 15: 70, 16: 70, 17: 66, 18: 66, 19: 66, 20: 66, 21: 63, 22: 60, 23: 60, 24: 60, 25: 56}
-    if (maxlength >= 13 && maxlength <= 25) sz = sizes[maxlength]
-    if (maxlength > 25) sz = sizes[25]
-    //console.log("Maxlength = "+maxlength+", size = "+sz)
-    document.getElementById('captionsize').value = sz
+    document.getElementById('captionsize').value = findFontSize(w)
 }
 
 function changesize(inc) {
