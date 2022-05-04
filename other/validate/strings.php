@@ -3,12 +3,13 @@
 require_once(__DIR__.'/helper.php');
 
 if (count($argv) < 2) {
-    echo "Usage: php ".basename(__FILE__)." LANG\n";
+    echo "Usage: php ".basename(__FILE__)." LANG [--autofix]\n";
     exit(1);
 }
 
 $maindir = dirname(dirname(__DIR__));
-[$script, $language] = array_merge($argv, [null, null, null]);
+[$script, $language, $autofix] = array_merge($argv, [null, null, null, null]);
+$autofix = ($autofix === '--autofix');
 
 $enfile = "texts/en/translations.json";
 $langfile = "texts/{$language}/translations.json";
@@ -20,7 +21,7 @@ if (count($errors)) {
 }
 
 function comparejsonfiles($enfile, $langfile): array {
-    global $maindir;
+    global $maindir, $autofix;
     $errors = [];
 
     if (!file_exists($maindir."/".$enfile)) {
@@ -58,9 +59,15 @@ function comparejsonfiles($enfile, $langfile): array {
     }
 
     foreach (array_intersect_key($endata, $langdata) as $key => $value) {
-        $langvalue = $langdata[$key];
-        $errors = array_merge($errors, comparetags($langfile, null, null, null, $key, $value, $langvalue));
-        $errors = array_merge($errors, compareplaceholders($langfile, null, null, null, $key, $value, $langvalue));
+        $errors = array_merge($errors, comparetags($langfile, null, null, null, $key, $value, $langdata[$key], $autofix));
+        $errors = array_merge($errors, compareplaceholders($langfile, null, null, null, $key, $value, $langdata[$key], $autofix));
+    }
+
+    if ($autofix && $errors) {
+        $all = unflatten_json($langdata);
+        recur_ksort($all);
+        file_put_contents($maindir."/".$langfile,
+            preg_replace('/  /', ' ', json_encode($all, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES)) . "\n");
     }
 
     return $errors;

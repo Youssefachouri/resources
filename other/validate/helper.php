@@ -74,6 +74,20 @@ function flatten_json($json, $prefix = '') {
     return $flatdata;
 }
 
+function unflatten_json($json) {
+    $res = [];
+    foreach ($json as $key => $val) {
+        $parts = explode(".", $key);
+        $lastres = &$res;
+        foreach ($parts as $i=>$p) {
+            if (!array_key_exists($p, $lastres)) $lastres[$p] = [];
+            if ($i === count($parts)-1) $lastres[$p] = $val;
+            $lastres = &$lastres[$p];
+        }
+    }
+    return $res;
+}
+
 function parse_data($section, $content) {
     $r = [];
     $offsets = [];
@@ -149,7 +163,7 @@ function hasParts($section) {
     return in_array($section, ['articles', 'dynamic', 'static']);
 }
 
-function comparetext($langfile, $section, $partkey, $partoffset, $entext, $langtext): array {
+function comparetext($langfile, $section, $partkey, $partoffset, $entext, &$langtext, $autofix = false): array {
     $sname = $partkey === 'main' ? "Main content (after dashed line)" : "Section '$partkey'";
     if (strlen(trim($entext)) && !strlen(trim($langtext))) {
         return ["File {$langfile}: $sname should not be empty"];
@@ -168,12 +182,13 @@ function comparetext($langfile, $section, $partkey, $partoffset, $entext, $langt
     }
     for ($i=0; $i<min(count($enlines), count($langlines)); $i++) {
         $errors = array_merge($errors, compareline($langfile, $section, $sname, $partkey, $partoffset + $i + 1,
-            trim($enlines[$i]), trim($langlines[$i])));
+            $enlines[$i], $langlines[$i], $autofix));
     }
+    $langtext = join("\n", $langlines);
     return $errors;
 }
 
-function compareline($langfile, $section, $sname, $partkey, $lineno, $entext, $langtext): array {
+function compareline($langfile, $section, $sname, $partkey, $lineno, $entext, &$langtext, $autofix = false): array {
     if (strlen($entext) && !strlen($langtext)) {
         return ["File {$langfile}: $sname, line $lineno should not be empty"];
     }
@@ -182,16 +197,16 @@ function compareline($langfile, $section, $sname, $partkey, $lineno, $entext, $l
     }
     if (!strlen($entext)) return [];
 
-    return comparetags($langfile, $section, $sname, $partkey, $lineno, $entext, $langtext);
+    return comparetags($langfile, $section, $sname, $partkey, $lineno, $entext, $langtext, $autofix);
 }
 
-function comparetags($langfile, $section, $sname, $partkey, $lineno, $entext, $langtext): array {
+function comparetags($langfile, $section, $sname, $partkey, $lineno, $entext, &$langtext, $autofix = false): array {
 
     $tagmatch = '/<[^>]*(>|$)/';
     $r = preg_match_all($tagmatch, $entext, $matches);
-    $entags = $r ? $matches[0] : [];
+    $entags = $entagsfull = $r ? $matches[0] : [];
     $r = preg_match_all($tagmatch, $langtext, $matches);
-    $langtags = $r ? $matches[0] : [];
+    $langtags = $langtagsfull = $r ? $matches[0] : [];
 
     for ($i=0;$i<count($entags);$i++) {
         $entags[$i] = strip_alt_title($entags[$i]);
@@ -203,13 +218,18 @@ function comparetags($langfile, $section, $sname, $partkey, $lineno, $entext, $l
 
     if (join('', $entags) !== join('', $langtags)) {
         $language = preg_match('|texts/(.*?)/|', $langfile, $matches) ? $matches[1] : '??';
-        return ["File {$langfile} ($lineno): tags do not match:\n    en: {$entext}\n    {$language}: {$langtext}"];
+        $error = "File {$langfile} ($lineno): tags do not match:\n    en: {$entext}\n    {$language}: {$langtext}";
+        if ($autofix && count($entags) == count($langtags) && join('', $entags) === join('', $entagsfull)) {
+            foreach ($entags as $i=>$tag) $langtext = str_replace($langtags[$i], $tag, $langtext);
+            $error .= "\n    --- fixed automatically:\n    {$language}: ".$langtext;
+        }
+        return [$error];
     }
 
     return [];
 }
 
-function compareplaceholders($langfile, $section, $sname, $partkey, $lineno, $entext, $langtext): array {
+function compareplaceholders($langfile, $section, $sname, $partkey, $lineno, $entext, &$langtext, $autofix = false): array {
 
     $tagmatch = '/\\{[^\\}]*\\}/';
     $r = preg_match_all($tagmatch, $entext, $matches);
@@ -219,7 +239,12 @@ function compareplaceholders($langfile, $section, $sname, $partkey, $lineno, $en
 
     if (join('', $entags) !== join('', $langtags)) {
         $language = preg_match('|texts/(.*?)/|', $langfile, $matches) ? $matches[1] : '??';
-        return ["File {$langfile} ($lineno): placeholders do not match:\n    en: {$entext}\n    {$language}: {$langtext}"];
+        $error = "File {$langfile} ($lineno): placeholders do not match:\n    en: {$entext}\n    {$language}: {$langtext}";
+        if ($autofix && count($entags) == count($langtags)) {
+            foreach ($entags as $i=>$tag) $langtext = str_replace($langtags[$i], $tag, $langtext);
+            $error .= "\n    --- fixed automatically:\n    {$language}: ".$langtext;
+        }
+        return [$error];
     }
 
     return [];
@@ -242,4 +267,11 @@ function append_alt_title($text): string {
         $text .= " ".join(" ", $matches[2]);
     }
     return $text;
+}
+
+function recur_ksort(&$array) {
+    foreach ($array as &$value) {
+        if (is_array($value)) recur_ksort($value);
+    }
+    return ksort($array);
 }
