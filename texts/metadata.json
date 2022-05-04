@@ -4,5 +4,6 @@
   "de": {"long": "de-DE"},
   "fr": {"long": "fr-FR"},
   "pt": {"long": "pt-PT"},
+  "it": {"lang": "it-IT"},
   "ar": {"long": "ar-SA", "rtl": true}
 }

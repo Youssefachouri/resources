@@ -29,7 +29,7 @@ jobs:
           # Checking translations
           cd pr
           error=0
-          for lang in $(git diff --name-only origin/master.. | grep -e "texts/" | awk -F/ '{print $2;}' | grep -v "en" | sort | uniq); do
+          for lang in $(git diff --name-only origin/master.. | grep -e "texts/" | grep -v "metadata.json" | awk -F/ '{print $2;}' | grep -v "en" | sort | uniq); do
             echo "------- Checking texts/$lang -------"
             php other/validate/strings.php "${lang}" || error=1
             php other/validate/validate.php "${lang}" || error=1
