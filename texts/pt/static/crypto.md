@@ -1,3 +1,3 @@
-<h1>[Criptografia] Crie um código QR para criptomoedas</h1>
+<h1>[Criptomoedas] Crie um código QR para criptomoedas</h1>
 
 ----------

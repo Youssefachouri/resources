@@ -1,4 +1,4 @@
-<h1>[Crie um URL curto] Criar um código QR para um site ou URL</h1>
+<h1>[Criar um URL curto] Criar um código QR para um site ou URL</h1>
 
 --- Example header ---
 
