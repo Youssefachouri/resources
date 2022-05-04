@@ -33,14 +33,14 @@ O Vcard armazena mais informações e é comumente usado para compartilhar conta
         alt="Código QR para contato em formato vCard - ScanMeFindMe">
     </td>
         <td class="notranslate">
-<pre>INÍCIO:VCARD
-VERSÃO: 4.0
+<pre>BEGIN:VCARD
+VERSION:4.0
 FN:ScanMeFindMe
 N:;;;;
 ORG:ScanMeFindMe
-URL: https://scanmefindme.com
+URL:https://scanmefindme.com
 REV:2021-02-13T18:18:45.089Z
-FIM:VCARD</pre>
+END:VCARD</pre>
         </td>
     </tr></table>
 
