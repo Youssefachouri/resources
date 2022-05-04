@@ -1,74 +1,74 @@
-<h1>Using QR codes to create short URLs and track views</h1>
+<h1>Utilizzo dei codici QR per creare URL brevi e monitorare le visualizzazioni</h1>
 
 --- Abstract / Meta description ---
 
-Creating short URLs with QR codes enables view tracking. It's a useful feature that helps in monitoring marketing campaigns.
+La creazione di URL brevi con codici QR consente il monitoraggio della vista. È una funzione utile che aiuta a monitorare le campagne di marketing.
 
 --- Short content 1 ---
 
-Generate a shortened alias of your webpage URL and track who, where, and how users are scanning it.
+Genera un alias abbreviato dell'URL della tua pagina web e tieni traccia di chi, dove e come gli utenti la stanno scansionando.
 
 ----------
 
-<p><span class="font-italic">'If you can't measure it, you can't improve it'</span>  -- Peter Drucker</p>
+<p><span class="font-italic">'Se non puoi misurarlo, non puoi migliorarlo'</span> -- Peter Drucker</p>
 
-<p>The oft-repeated saying applies when you're making QR codes part of your marketing campaign.</p>
+<p>Il detto spesso ripetuto si applica quando inserisci i codici QR nella tua campagna di marketing.</p>
 
-<p>If you're clueless about how many scans your QR Code generated over the past week, or which cities generated the most hits, you won't know if the campaign is on track for success.</p>
+<p>Se non sai quante scansioni il tuo codice QR ha generato nell'ultima settimana o quali città hanno generato il maggior numero di visite, non saprai se la campagna è sulla buona strada per il successo.</p>
 
-<p>Now, not all QR codes are trackable. You need to create the right QR codes and ensure that they are linked to a tracking module. Creating QR codes with ScanMeFindMe makes this very easy. </p>
+<p>Ora, non tutti i codici QR sono tracciabili. Devi creare i codici QR corretti e assicurarti che siano collegati a un modulo di monitoraggio. La creazione di codici QR con ScanMeFindMe rende tutto molto semplice. </p>
 
-<h2>Why Create Short URLs with QR Codes?</h2>
+<h2>Perché creare URL brevi con codici QR?</h2>
 
-<p>A short URL is a shortened link address that redirects the user to the intended webpage. </p>
+<p>Un URL breve è un indirizzo di collegamento abbreviato che reindirizza l'utente alla pagina web prevista. </p>
 
-<p>For example, here's a short URL: <span class="font-italic">http://qrs.re/resources</span></p>
+<p>Ad esempio, ecco un breve URL: <span class="font-italic">http://qrs.re/resources</span></p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 1 - qr.png"
-        alt="Example of QR code for short URL - ScanMeFindMe">
+        alt="Esempio di codice QR per URL breve - ScanMeFindMe">
 </p>
 
-<p>It points to our resource page, which has the full URL: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
+<p>Punta alla nostra pagina delle risorse, che ha l'URL completo: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
 
-<p>If you encode the full URL into the QR code, it will still direct users to the respective webpage. However, you wouldn't be able to tap into the full benefits that QR codes have to offer. </p>
+<p>Se codifichi l'URL completo nel codice QR, gli utenti verranno comunque indirizzati alla rispettiva pagina web. Tuttavia, non saresti in grado di sfruttare tutti i vantaggi offerti dai codici QR. </p>
 
-<p><strong>QR codes that encode short URLs</strong> are also known as dynamic QR codes. With a dynamic QR code, you have more flexibility in editing the destination content and also in tracking users that scan the QR code.</p>
+<p><strong>I codici QR che codificano URL brevi</strong> sono anche noti come codici QR dinamici. Con un codice QR dinamico, hai maggiore flessibilità nella modifica del contenuto di destinazione e anche nel tracciamento degli utenti che scansionano il codice QR.</p>
 
-<h2>How To Track Views With QR Code</h2>
+<h2>Come monitorare le visualizzazioni con il codice QR</h2>
 
-<p>When you generate a dynamic QR code with our <a href="#pro">PRO QR generator</a>, it is automatically linked to our tracking tools.</p>
+<p>Quando generi un codice QR dinamico con il nostro <a href="#pro">Generatore QR PRO</a>, viene automaticamente collegato ai nostri strumenti di monitoraggio.</p>
 
-<p>When a user scans the QR code and is redirected to the destination webpage, <a href="#static:url">ScanMeFindMe</a> traces key metrics from the device and saves them on the dashboard.</p>
+<p>Quando un utente esegue la scansione del codice QR e viene reindirizzato alla pagina Web di destinazione, <a href="#static:url">ScanMeFindMe</a> traccia le metriche chiave dal dispositivo e le salva sulla dashboard.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+        alt="Esempio di statistiche sulle scansioni di codici QR - ScanMeFindMe">
 </p>
 
-<p>From the <a href="#article:about_statistics" title="Scans statistics for dynamic QR codes">statistics</a>, you will discover how many scans are generated by a particular QR code and how many of them are unique hits. Unique hits are scans generated from different devices. Often, it means different individuals are scanning the QR code. </p>
+<p>Dalle <a href="#article:about_statistics" title="Scansioni statistiche per codici QR dinamici">statistiche</a>, scoprirai quante scansioni sono generate da un particolare codice QR e quante di esse sono successi unici. Gli hit unici sono scansioni generate da diversi dispositivi. Spesso significa che diverse persone stanno scansionando il codice QR. </p>
 
-<p>Also, you'll get a monthly and daily breakdown of the scans, which helps in determining the peak hours or any distinct patterns where users frequent your website. </p>
+<p>Inoltre, riceverai un'analisi mensile e giornaliera delle scansioni, che aiuta a determinare le ore di punta o eventuali schemi distinti in cui gli utenti frequentano il tuo sito web. </p>
 
-<p>The charts help marketers to fine-tune their campaigns to increase conversion and sales. For example, an online retailer can run targeted promotions during the hours when it's anticipating peak traffic.</p>
+<p>I grafici aiutano i professionisti del marketing a perfezionare le loro campagne per aumentare la conversione e le vendite. Ad esempio, un rivenditore online può eseguire promozioni mirate durante le ore in cui prevede picchi di traffico.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - scans by.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+        alt="Esempio di statistiche sulle scansioni di codici QR - ScanMeFindMe">
 </p>
 
-<p>There's more to getting the number of total hits with our QR code tracker. You'll get access to details like the number of scans by OS, language, city, and country. </p>
+<p>C'è di più per ottenere il numero di hit totali con il nostro tracker di codici QR. Avrai accesso a dettagli come il numero di scansioni per sistema operativo, lingua, città e paese. </p>
 
-<p>These metrics provide insights into how your campaign is faring at a deeper level. For example, if you're promoting an app developed for Android users, you'll want scans originating from the Android platform. </p>
+<p>Queste metriche forniscono informazioni dettagliate sull'andamento della tua campagna a un livello più profondo. Ad esempio, se stai promuovendo un'app sviluppata per utenti Android, vorrai scansioni provenienti dalla piattaforma Android. </p>
 
-<p>Marketers targeting the global audience can personalize their campaigns based on how users in the respective cities or countries are responding. </p>
+<p>I marketer che si rivolgono al pubblico globale possono personalizzare le loro campagne in base alla risposta degli utenti nelle rispettive città o paesi. </p>
 
-<p>The figures help with other marketing strategies and serve as an early indicator of which region is more likely to generate an impactful engagement. </p>
+<p>Le cifre aiutano con altre strategie di marketing e fungono da indicatore precoce di quale regione ha maggiori probabilità di generare un coinvolgimento di grande impatto. </p>
 
-<h2>Bottom Line</h2>
+<h2>Linea inferiore</h2>
 
-<p>If you wanted to set up a data-driven QR code campaign, you'll need dynamic QR codes and a reliable, hassle-free tracking module. You don't want to spend hours setting up the analytics or generating the reports.</p>
+<p>Se desideri impostare una campagna di codici QR basata sui dati, avrai bisogno di codici QR dinamici e di un modulo di monitoraggio affidabile e senza problemi. Non vuoi passare ore a configurare l'analisi o generare i rapporti.</p>
 
-<p>ScanMeFindMe PRO takes care of the technical stuff, which means you can start generating QR codes that automatically track views in no time.</p>
+<p>ScanMeFindMe PRO si occupa degli aspetti tecnici, il che significa che puoi iniziare a generare codici QR che tracciano automaticamente le visualizzazioni in pochissimo tempo.</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">Prova subito ScanMeFindMe PRO gratuitamente.</a></p>

@@ -1,5 +1,5 @@
-Your trial period at ScanMeFindMe is about to expire
+Il periodo di prova di ScanMeFindMe sta per scadere
 
-<h1>Hello {{name}},</h1>
-<h2>Are you enjoying generating QR codes on ScanMeFindMe so far?</h2>
-<p>This is just a reminder that your trial period will expire on {{expires}}.</p>
+<h1>Ciao {{name}},</h1>
+<h2>Ti sei divertito a generare codici QR su ScanMeFindMe finora?</h2>
+<p>Questo è solo un promemoria che il tuo periodo di prova scadrà il {{expires}}.</p>
