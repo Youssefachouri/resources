@@ -114,8 +114,6 @@
     "privacypage": "Datenschutz-Bestimmungen",
     "proaccount": "PRO-Konto",
     "product": {
-      "metatitle": "QR Code Generator - Statische und dynamische Codes, Analysen und mehr",
-      "title": "Produkt",
       "dynamic": {
         "contact": {
           "description": "Mit ScanMeFindMe können Sie schnell eine Seite mit den Kontaktinformationen einer Person oder Organisation erstellen. Es kann das Foto oder Logo, Namen, Telefonnummern, E-Mail, URL, Links zu verschiedenen Profilen sozialer Netzwerke, Adressen und Notizen enthalten. Wenn Kunden diesen QR-Code scannen, können sie alle diese Daten sehen und Sie sofort kontaktieren oder sie in ihren Telefonkontakten speichern.",
@@ -148,6 +146,7 @@
         }
       },
       "gotopro": "Gehen Sie zum PRO-Konto",
+      "metatitle": "QR Code Generator - Statische und dynamische Codes, Analysen und mehr",
       "static": {
         "freefeatures": {
           "colors": "Ändern Sie die Farben",
@@ -170,7 +169,8 @@
         "title": "Statische QR-Codes",
         "withfree": "Mit der <span class=\"free\">kostenlosen Version</span> können Sie:",
         "withpro": "Im <span class=\"pro-badge\">PRO-Konto</span> können Sie auch:"
-      }
+      },
+      "title": "Produkt"
     },
     "qrgenerator": "QR Code Generator",
     "readmore": "Lesen Sie mehr",
@@ -266,6 +266,7 @@
       "yourplan": "Ihr aktueller Plan:",
       "yourplanended": "Wenn Sie sich entscheiden, keinen Plan zu kaufen, wird Ihr Konto am {date} automatisch gelöscht"
     },
+    "codenotfound": "Ups! Etwas ist schief gelaufen. Ist das ein gültiger Code? Bitte versuchen Sie es erneut",
     "confirm": "Bestätigen Sie",
     "continue": "Weiter",
     "copytoclipboard": "In die Zwischenablage kopieren",
@@ -321,6 +322,8 @@
       "pagewidth": "Breite der Seite",
       "portrait": "Hochformat",
       "repeat": "Wiederholen Sie",
+      "repeatmax": "Füllen Sie die Seite aus",
+      "repeatonce": "Einmal",
       "showcropmarks": "Schnittmarken an den Rändern anzeigen",
       "spacingx": "Horizontale Abstande",
       "spacingy": "Vertikale Abstande",
@@ -328,11 +331,24 @@
       "unitin": "in",
       "unitmm": "mm",
       "unitpx": "px",
-      "units": "Einheiten der Messungen",
-      "repeatmax": "Füllen Sie die Seite aus",
-      "repeatonce": "Einmal"
+      "units": "Einheiten der Messungen"
     },
     "dynamiccodes": "Dynamischer Code",
+    "forms": {
+      "choosefiles": "Wählen Sie hier Dateien aus oder ziehen Sie sie per Drag & Drop",
+      "filesizelimit": "Dateien sollten die Größe von {size} nicht überschreiten",
+      "invalidfiletype": "Ungültiger Dateityp",
+      "pagedescription": "Beschreibung",
+      "pagefiles": "Dateien:",
+      "pagegivetitle": "Geben Sie Ihrer Seite einen Titel",
+      "pageheading": "Üerschrift",
+      "pagelogo": "Logo:",
+      "saveforlater": "Speichern Sie für später",
+      "socialnetworks": "Soziale Netzwerke:",
+      "socialnetworksdesc": "Geben Sie Ihren Benutzernamen oder Ihr Handle ein",
+      "viewfileslist": "Liste",
+      "viewfilesthumbs": "Miniaturansichten"
+    },
     "library": {
       "delete": "Löschen",
       "duplicate": "Duplizieren",
@@ -351,6 +367,11 @@
         "uploader": "Laden Sie Ihre Logos hoch oder ziehen Sie sie per Drag&Drop hierher",
         "yours": "Ihre Logos"
       },
+      "matrixl": "große",
+      "matrixm": "mittlere",
+      "matrixs": "kleine",
+      "matrixsize": "Matrixgröße:",
+      "matrixxl": "x-große",
       "name": "Name",
       "noedithint": "Duplizieren Sie dieses Element, um es in Ihrer Bibliothek zu speichern und es zu ändern",
       "presets": {
@@ -375,12 +396,7 @@
         "uploader": "Laden Sie Ihre Vorlagen hoch oder ziehen Sie sie per Drag&Drop hierher",
         "yours": "Ihre Vorlagen"
       },
-      "upload": "Hochladen",
-      "matrixl": "große",
-      "matrixm": "mittlere",
-      "matrixs": "kleine",
-      "matrixsize": "Matrixgröße:",
-      "matrixxl": "x-große"
+      "upload": "Hochladen"
     },
     "of": "von",
     "previewpage": "Vorschau der Seite",
@@ -463,23 +479,7 @@
     },
     "staticcodes": "Statischer Code",
     "togglemenu": "Menü umschalten",
-    "togglenavbar": "Umschalten der Navigationsleiste",
-    "codenotfound": "Ups! Etwas ist schief gelaufen. Ist das ein gültiger Code? Bitte versuchen Sie es erneut",
-    "forms": {
-      "choosefiles": "Wählen Sie hier Dateien aus oder ziehen Sie sie per Drag & Drop",
-      "filesizelimit": "Dateien sollten die Größe von {size} nicht überschreiten",
-      "invalidfiletype": "Ungültiger Dateityp",
-      "pagedescription": "Beschreibung",
-      "pagefiles": "Dateien:",
-      "pagegivetitle": "Geben Sie Ihrer Seite einen Titel",
-      "pageheading": "Üerschrift",
-      "pagelogo": "Logo:",
-      "saveforlater": "Speichern Sie für später",
-      "socialnetworks": "Soziale Netzwerke:",
-      "socialnetworksdesc": "Geben Sie Ihren Benutzernamen oder Ihr Handle ein",
-      "viewfileslist": "Liste",
-      "viewfilesthumbs": "Miniaturansichten"
-    }
+    "togglenavbar": "Umschalten der Navigationsleiste"
   },
   "qrstyle": {
     "bgcolor": "Hintergrund",
