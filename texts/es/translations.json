@@ -114,8 +114,6 @@
     "privacypage": "Política de privacidad",
     "proaccount": "Cuenta PRO",
     "product": {
-      "metatitle": "Generador de códigos QR: códigos estáticos y dinámicos, análisis y más",
-      "title": "Producto",
       "dynamic": {
         "contact": {
           "description": "ScanMeFindMe le permite crear rápidamente una página con la información de contacto de una persona u organización. Puede incluir la foto o el logotipo, nombres, números de teléfono, correo electrónico, URL, enlaces a varios perfiles de redes sociales, dirección y notas. Cuando los clientes escaneen este código QR, podrán ver todos estos datos e inmediatamente contactarlo o guardarlo en sus contactos telefónicos.",
@@ -148,6 +146,7 @@
         }
       },
       "gotopro": "Ir a la cuenta PRO",
+      "metatitle": "Generador de códigos QR: códigos estáticos y dinámicos, análisis y más",
       "static": {
         "freefeatures": {
           "colors": "cambiar los colores",
@@ -170,7 +169,8 @@
         "title": "Códigos QR estáticos",
         "withfree": "Con la <span class=\"free\">versión gratuita</span> puedes:",
         "withpro": "En la <span class=\"pro-badge\">Cuenta PRO</span> también puedes:"
-      }
+      },
+      "title": "Producto"
     },
     "qrgenerator": "Generador de códigos QR",
     "readmore": "Lee mas",
@@ -266,6 +266,7 @@
       "yourplan": "Su plan actual:",
       "yourplanended": "Si decide no comprar un plan, su cuenta se eliminará automáticamente el {date}"
     },
+    "codenotfound": "Huy! Algo salió mal. ¿Es este un código válido? Por favor, vuelva a intentarlo",
     "confirm": "Confirmar",
     "continue": "Continuar",
     "copytoclipboard": "Copiar al portapapeles",
@@ -321,6 +322,8 @@
       "pagewidth": "Ancho de página",
       "portrait": "Retrato",
       "repeat": "Repetir",
+      "repeatmax": "Llenar la página",
+      "repeatonce": "Una vez",
       "showcropmarks": "Mostrar marcas de recorte en los márgenes",
       "spacingx": "Espaciado horizontal",
       "spacingy": "Espaciado vertical",
@@ -328,11 +331,24 @@
       "unitin": "pulg",
       "unitmm": "mm",
       "unitpx": "px",
-      "units": "Unidades de medida",
-      "repeatmax": "Llenar la página",
-      "repeatonce": "Una vez"
+      "units": "Unidades de medida"
     },
     "dynamiccodes": "Códigos dinámicos",
+    "forms": {
+      "choosefiles": "Elija archivos o arrastre y suelte aquí",
+      "filesizelimit": "Los archivos no deben exceder {size} de tamaño",
+      "invalidfiletype": "tipo de archivo invalido",
+      "pagedescription": "Descripción",
+      "pagefiles": "Archivos:",
+      "pagegivetitle": "Dale un título a tu página",
+      "pageheading": "Título",
+      "pagelogo": "Logo:",
+      "saveforlater": "Guardar para más adelante",
+      "socialnetworks": "Redes sociales:",
+      "socialnetworksdesc": "Ingrese su nombre de usuario o identificador",
+      "viewfileslist": "Lista",
+      "viewfilesthumbs": "Miniaturas"
+    },
     "library": {
       "delete": "Borrar",
       "duplicate": "Duplicar",
@@ -351,6 +367,11 @@
         "uploader": "Cargue sus logotipos o arrastre y suelte aquí",
         "yours": "Sus logotipos"
       },
+      "matrixl": "grande",
+      "matrixm": "medio",
+      "matrixs": "pequeño",
+      "matrixsize": "Tamaño de la matriz:",
+      "matrixxl": "extra grande",
       "name": "Nombre",
       "noedithint": "Duplique este elemento para guardarlo en su biblioteca para poder cambiarlo",
       "presets": {
@@ -375,12 +396,7 @@
         "uploader": "Cargue sus plantillas o arrastre y suelte aquí",
         "yours": "Sus plantillas"
       },
-      "upload": "Subir",
-      "matrixl": "grande",
-      "matrixm": "medio",
-      "matrixs": "pequeño",
-      "matrixsize": "Tamaño de la matriz:",
-      "matrixxl": "extra grande"
+      "upload": "Subir"
     },
     "of": "de",
     "previewpage": "Vista previa de la página",
@@ -463,23 +479,7 @@
     },
     "staticcodes": "Códigos estáticos",
     "togglemenu": "Alternar menú",
-    "togglenavbar": "Alternar barra de navegación",
-    "codenotfound": "Huy! Algo salió mal. ¿Es este un código válido? Por favor, vuelva a intentarlo",
-    "forms": {
-      "choosefiles": "Elija archivos o arrastre y suelte aquí",
-      "filesizelimit": "Los archivos no deben exceder {size} de tamaño",
-      "invalidfiletype": "tipo de archivo invalido",
-      "pagedescription": "Descripción",
-      "pagefiles": "Archivos:",
-      "pagegivetitle": "Dale un título a tu página",
-      "pageheading": "Título",
-      "pagelogo": "Logo:",
-      "saveforlater": "Guardar para más adelante",
-      "socialnetworks": "Redes sociales:",
-      "socialnetworksdesc": "Ingrese su nombre de usuario o identificador",
-      "viewfileslist": "Lista",
-      "viewfilesthumbs": "Miniaturas"
-    }
+    "togglenavbar": "Alternar barra de navegación"
   },
   "qrstyle": {
     "bgcolor": "Antecedentes",
