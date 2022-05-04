@@ -114,8 +114,6 @@
     "privacypage": "Politique de confidentialité",
     "proaccount": "Compte PRO",
     "product": {
-      "metatitle": "Générateur de code QR - Codes statiques et dynamiques, analyses et plus",
-      "title": "Produit",
       "dynamic": {
         "contact": {
           "description": "ScanMeFindMe vous permet de créer rapidement une page avec les coordonnées d'une personne ou d'une organisation. Il peut inclure la photo ou le logo, les noms, les numéros de téléphone, l'adresse e-mail, l'URL, les liens vers divers profils de réseaux sociaux, l'adresse et les notes. Lorsque les clients scannent ce code QR, ils pourront voir toutes ces données et vous contacter immédiatement ou les enregistrer dans leurs contacts téléphoniques.",
@@ -148,6 +146,7 @@
         }
       },
       "gotopro": "Accéder au compte PRO",
+      "metatitle": "Générateur de code QR - Codes statiques et dynamiques, analyses et plus",
       "static": {
         "freefeatures": {
           "colors": "Changer les couleurs",
@@ -170,7 +169,8 @@
         "title": "Codes QR statiques",
         "withfree": "Avec la <span class=\"free\">version gratuite</span>, vous pouvez:",
         "withpro": "Dans le <span class=\"pro-badge\">compte PRO</span>, vous pouvez également:"
-      }
+      },
+      "title": "Produit"
     },
     "qrgenerator": "Générateur de code QR",
     "readmore": "Lire la suite",
@@ -266,6 +266,7 @@
       "yourplan": "Votre forfait actuel:",
       "yourplanended": "Si vous décidez de ne pas acheter de forfait, votre compte sera automatiquement supprimé le {date}"
     },
+    "codenotfound": "Oups, quelque chose s'est mal passé. Est-ce un code valide ? Essayez de rafraîchir la page",
     "confirm": "Confirmer",
     "continue": "Continuez",
     "copytoclipboard": "Copier dans le presse-papier",
@@ -321,6 +322,8 @@
       "pagewidth": "Largeur de page",
       "portrait": "Portrait",
       "repeat": "Répéter",
+      "repeatmax": "Remplir la page",
+      "repeatonce": "Une fois",
       "showcropmarks": "Afficher les hirondelles sur les marges",
       "spacingx": "Espacement horizontal",
       "spacingy": "Espacement vertical",
@@ -328,11 +331,24 @@
       "unitin": "dans",
       "unitmm": "millimètre",
       "unitpx": "pixels",
-      "units": "Unités de mesure",
-      "repeatmax": "Remplir la page",
-      "repeatonce": "Une fois"
+      "units": "Unités de mesure"
     },
     "dynamiccodes": "Codes dynamiques",
+    "forms": {
+      "choosefiles": "Choisissez des fichiers ou glissez-déposez ici",
+      "filesizelimit": "Les fichiers ne doivent pas dépasser la taille de {size}",
+      "invalidfiletype": "type de fichier invalide",
+      "pagedescription": "La description",
+      "pagefiles": "Des dossiers:",
+      "pagegivetitle": "Donnez un titre à votre page",
+      "pageheading": "Titre",
+      "pagelogo": "Logo:",
+      "saveforlater": "Garder pour plus tard",
+      "socialnetworks": "Réseaux sociaux:",
+      "socialnetworksdesc": "Entrez votre nom d'utilisateur ou identifiant",
+      "viewfileslist": "Lister",
+      "viewfilesthumbs": "Vignettes"
+    },
     "library": {
       "delete": "Supprimer",
       "duplicate": "Dupliquer",
@@ -351,6 +367,11 @@
         "uploader": "Téléchargez vos logos ou glissez-déposez ici",
         "yours": "Vos logos"
       },
+      "matrixl": "grande",
+      "matrixm": "moyen",
+      "matrixs": "petit",
+      "matrixsize": "Taille de la matrice :",
+      "matrixxl": "x-large",
       "name": "Nom",
       "noedithint": "Dupliquez cet élément pour l'enregistrer dans votre bibliothèque afin de le modifier",
       "presets": {
@@ -375,12 +396,7 @@
         "uploader": "Téléchargez vos modèles ou glissez-déposez ici",
         "yours": "Vos modèles"
       },
-      "upload": "Télécharger",
-      "matrixl": "grande",
-      "matrixm": "moyen",
-      "matrixs": "petit",
-      "matrixsize": "Taille de la matrice :",
-      "matrixxl": "x-large"
+      "upload": "Télécharger"
     },
     "of": "de",
     "previewpage": "Aperçu de la page",
@@ -463,23 +479,7 @@
     },
     "staticcodes": "Codes statiques",
     "togglemenu": "Basculer le menu",
-    "togglenavbar": "Basculer la barre de navigation",
-    "codenotfound": "Oups, quelque chose s'est mal passé. Est-ce un code valide ? Essayez de rafraîchir la page",
-    "forms": {
-      "choosefiles": "Choisissez des fichiers ou glissez-déposez ici",
-      "filesizelimit": "Les fichiers ne doivent pas dépasser la taille de {size}",
-      "invalidfiletype": "type de fichier invalide",
-      "pagedescription": "La description",
-      "pagefiles": "Des dossiers:",
-      "pagegivetitle": "Donnez un titre à votre page",
-      "pageheading": "Titre",
-      "pagelogo": "Logo:",
-      "saveforlater": "Garder pour plus tard",
-      "socialnetworks": "Réseaux sociaux:",
-      "socialnetworksdesc": "Entrez votre nom d'utilisateur ou identifiant",
-      "viewfileslist": "Lister",
-      "viewfilesthumbs": "Vignettes"
-    }
+    "togglenavbar": "Basculer la barre de navigation"
   },
   "qrstyle": {
     "bgcolor": "Contexte",
