@@ -54,7 +54,7 @@
       "eventnotimezone": "Não especifique o fuso horário",
       "eventutc": "Converter para UTC",
       "fbmessage": "Link para enviar mensagem",
-      "fbprofile": "perfil do Facebook",
+      "fbprofile": "Perfil do Facebook",
       "fbshare": "Link para compartilhar URL",
       "firstname": "Primeiro nome",
       "jobtitle": "Cargo",
@@ -112,10 +112,10 @@
       "uploadedfiles": "uploads"
     },
     "privacypage": "Política de Privacidade",
-    "proaccount": "conta PRO",
+    "proaccount": "Conta PRO",
     "product": {
       "metatitle": "QR Code Generator - Códigos estáticos e dinâmicos, análises e muito mais",
-      "title": "produtos",
+      "title": "Produtos",
       "dynamic": {
         "contact": {
           "description": "ScanMeFindMe permite que você crie rapidamente uma página com as informações de contato de uma pessoa ou organização. Pode incluir a foto ou logotipo, nomes, números de telefone, e-mail, URL, links para vários perfis de redes sociais, endereço e notas. Quando os clientes digitalizarem este código QR, eles poderão ver todos esses dados e entrar em contato com você imediatamente ou salvá-los em seus contatos telefônicos.",
@@ -179,7 +179,7 @@
       "title": "Recursos"
     },
     "save": "Salvar",
-    "seeexample": "consultar exemplo",
+    "seeexample": "Consultar exemplo",
     "setupstyle": "Configure seu estilo",
     "showmore": "Mostre mais",
     "startfreetrial": "Iniciar teste gratuito",
@@ -404,7 +404,7 @@
       "name": "Nome",
       "newpassword": "Nova Senha",
       "notavailable": "Não disponível neste plano",
-      "password": "Mudar senha",
+      "password": "Alterar senha",
       "passwordsuccess": "A senha foi alterada com sucesso",
       "planusage": "Uso do plano",
       "prefdateformat": "Formato de data",
@@ -455,7 +455,7 @@
     "searchqr": "Pesquisar código qr",
     "shorturl": {
       "available": "Disponível",
-      "changebtn": "Mudar",
+      "changebtn": "Alterar",
       "changeshorturl": "Alterar URL curto",
       "description": "Certifique-se de não alterar o URL depois de imprimir o código QR, caso contrário, não funcionará",
       "domain": "Domínio",

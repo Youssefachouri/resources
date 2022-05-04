@@ -1,4 +1,4 @@
-<h1>[Criar uma página com arquivos] Crie um código QR para a Página com arquivos</h1>
+<h1>[Criar uma página com arquivos] Criar um código QR para a Página com arquivos</h1>
 
 --- Example header ---
 
