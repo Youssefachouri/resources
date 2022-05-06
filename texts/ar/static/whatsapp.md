@@ -1,4 +1,4 @@
-<h1>[ال WhatsApp] قم بإنشاء رمز QR لبدء محادثة WhatsApp</h1>
+<h1>[WhatsApp] قم بإنشاء رمز QR لبدء محادثة WhatsApp</h1>
 
 --- Text below the form ---
 
