@@ -2,7 +2,7 @@
 
 --- Abstract / Meta description ---
 
-Partagez des fichiers avec des codes QR pour consolider et simplifier l'accès aux informations. Permet aux utilisateurs de télécharger des fichiers avec juste une analyse.
+Partagez des fichiers avec des codes QR pour consolider et simplifier l'accès aux informations. Permet aux utilisateurs de télécharger des fichiers avec juste un scan.
 
 --- Short content 1 ---
 

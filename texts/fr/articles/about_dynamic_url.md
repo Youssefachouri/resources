@@ -2,7 +2,7 @@
 
 --- Abstract / Meta description ---
 
-La création d'URL courtes avec des codes QR permet le suivi des vues. C'est une fonctionnalité utile qui aide à surveiller les campagnes de marketing.
+La création d'URL courtes avec des codes QR permet le suivi des vues. C'est une fonctionnalité utile qui aide à superviser les campagnes de marketing.
 
 --- Short content 1 ---
 

@@ -61,7 +61,7 @@ END:VCARD</pre>
 
 <p>Cela dépend de la façon dont vous avez l'intention d'utiliser le code QR. MeCard offre la simplicité et vous pouvez l'imprimer facilement sur une carte de visite. Vous n'avez pas besoin d'une connexion Internet pour numériser et enregistrer les coordonnées dans votre répertoire téléphonique.</p>
 
-<p>Vcard est plus largement utilisé pour partager des contacts et est supérieur en termes de types d'informations stockées. Bien que la Vcard puisse être stockée sous forme de code QR statique, vous en tirerez bien plus en l'utilisant comme un <a href="#article:about_dynamic_contact" title="Code QR dynamique pour carte de contact">code QR dynamique</a>.</p>
+<p>Vcard est plus largement utilisé pour partager des contacts et est supérieur en termes de types d'informations stockées. Bien que la Vcard puisse être stockée sous forme de code QR statique, vous en bénéficierez bien plus en l'utilisant comme un <a href="#article:about_dynamic_contact" title="Code QR dynamique pour carte de contact">code QR dynamique</a>.</p>
 
 <p>Un code QR dynamique stocke un lien qui redirige les utilisateurs vers une page Web pour afficher et télécharger les coordonnées au format VCF. Vous pouvez également inclure des photos et des liens vers des réseaux sociaux lorsque vous utilisez <a href="#pro">ScanMeFindMe PRO.</a></p>
 

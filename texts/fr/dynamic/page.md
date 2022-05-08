@@ -1,8 +1,8 @@
-<h1>[Créer une page avec des fichiers] Créer un code QR pour la page avec des fichiers</h1>
+<h1>[Créer une page avec des fichiers] Créer un code QR pour une page avec des fichiers</h1>
 
 --- Example header ---
 
-Page avec exemple de fichiers
+Exemple de page avec fichiers
 
 ----------
 

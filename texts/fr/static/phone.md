@@ -1,4 +1,4 @@
-<h1>[Téléphoner] Créer un code QR pour un numéro de téléphone</h1>
+<h1>[Téléphone] Créer un code QR pour un numéro de téléphone</h1>
 
 --- Text above the form ---
 

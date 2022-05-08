@@ -22,7 +22,7 @@
 
 <h2>Gérer</h2>
 
-<p>Stockez et gérez tous vos codes QR avec une seule solution. Recherchez et filtrez facilement les codes QR par balises. Restez organisé pendant que vous créez plus de codes QR.</p>
+<p>Stockez et gérez tous vos codes QR avec une seule solution. Recherchez et filtrez facilement les codes QR par tags. Restez organisé pendant que vous créez plus de codes QR.</p>
 
 <h2>Suivre</h2>
 

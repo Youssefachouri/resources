@@ -12,7 +12,7 @@ Les codes QR statiques contiennent des informations simples et non modifiables t
 
 <p>Les codes QR sont l'un des outils marketing les plus abordables et les plus efficaces que toute entreprise puisse demander. Il a été sous-utilisé pendant des années depuis son introduction, mais a depuis pris de l'ampleur, grâce à l'augmentation de la disponibilité des smartphones et de la numérisation.</p>
 
-<p>Que vous soyez un spécialiste du marketing, un fondateur de startup ou un entrepreneur chevronné, vous serez surpris de la façon dont les codes QR améliorent l'expérience client, augmentent la conversion et simplifient les opérations commerciales. </p>
+<p>Que vous soyez un spécialiste du marketing, un fondateur de start-up ou un entrepreneur chevronné, vous serez surpris de la façon dont les codes QR améliorent l'expérience client, augmentent la conversion et simplifient les opérations commerciales. </p>
 
 <p>Bien sûr, cela dépend des informations que vous stockez dans les codes QR et de la manière dont vous les appliquez dans votre entreprise.</p>
 

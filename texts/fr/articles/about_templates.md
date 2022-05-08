@@ -2,11 +2,11 @@
 
 --- Abstract / Meta description ---
 
-Découvrez comment ajouter des bordures et des légendes qui rendent votre code QR unique. Donnez du style à votre code QR avec un appel à l'action accrocheur pour stimuler la conversion.
+Découvrez comment ajouter des bordures et des légendes qui rendent votre code QR unique. Donnez du style à votre code QR avec un appel à l'action captivant pour stimuler la conversion.
 
 --- Short content 1 ---
 
-Apprenez à ajouter des phrases accrocheuses avec des légendes de codes QR. Choisissez parmi des modèles prédéfinis ou créez le vôtre avec un compte PRO.
+Apprenez à ajouter des phrases captivantes avec des légendes de codes QR. Choisissez parmi des modèles prédéfinis ou créez le vôtre avec un compte PRO.
 
 ----------
 
